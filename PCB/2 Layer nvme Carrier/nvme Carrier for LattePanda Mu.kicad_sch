@@ -1188,7 +1188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_4mm_Pad_Via"
 			(at 557.53 336.55 0)
 			(effects
 				(font
@@ -1234,6 +1234,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 557.53 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 557.53 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 557.53 336.55 0)
 			(effects
 				(font
@@ -1328,6 +1346,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 473.71 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 473.71 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 473.71 336.55 0)
 			(effects
 				(font
@@ -1508,7 +1544,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_4mm_Pad_Via"
 			(at 532.13 349.25 0)
 			(effects
 				(font
@@ -1554,6 +1590,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 532.13 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 532.13 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 532.13 349.25 0)
 			(effects
 				(font
@@ -1722,6 +1776,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 499.11 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 499.11 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6ba7df2-92fc-45bc-8fcf-b6dd3b320c93")
 		)
@@ -1828,7 +1900,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_4mm_Pad_Via"
 			(at 532.13 336.55 0)
 			(effects
 				(font
@@ -1874,6 +1946,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 532.13 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 532.13 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 532.13 336.55 0)
 			(effects
 				(font
@@ -1988,7 +2078,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_4mm_Pad_Via"
 			(at 557.53 349.25 0)
 			(effects
 				(font
@@ -2034,6 +2124,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 557.53 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 557.53 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 557.53 349.25 0)
 			(effects
 				(font
@@ -2202,6 +2310,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 473.71 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 473.71 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6e13c41-6a96-4a71-b730-8f40d3ed2d55")
 		)
@@ -2288,6 +2414,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 499.11 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 499.11 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 499.11 336.55 0)
 			(effects
 				(font

@@ -5040,7 +5040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 318.77 224.79 0)
 			(effects
 				(font
@@ -5086,6 +5086,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 318.77 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 318.77 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 318.77 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 318.77 224.79 0)
 			(effects
 				(font
@@ -5143,7 +5170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 207.01 165.1 0)
 			(effects
 				(font
@@ -5189,6 +5216,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 207.01 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 207.01 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 207.01 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 207.01 165.1 0)
 			(effects
 				(font
@@ -5246,7 +5300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 340.36 166.37 0)
 			(effects
 				(font
@@ -5292,6 +5346,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 340.36 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 340.36 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 340.36 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 340.36 166.37 0)
 			(effects
 				(font
@@ -5417,7 +5498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 133.35 220.98 0)
 			(effects
 				(font
@@ -5463,6 +5544,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 133.35 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 133.35 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 133.35 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 133.35 220.98 0)
 			(effects
 				(font
@@ -5666,7 +5774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208310930_Capxon-International-Elec-PM101M025E077PTR_C2858382.pdf"
 			(at 160.02 165.1 0)
 			(effects
 				(font
@@ -5712,6 +5820,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 160.02 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 160.02 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 160.02 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "PM101M025E077PTR"
 			(at 160.02 165.1 0)
 			(effects
 				(font
@@ -5841,7 +5976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 149.86 165.1 0)
 			(effects
 				(font
@@ -5887,6 +6022,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 149.86 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 149.86 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 149.86 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 149.86 165.1 0)
 			(effects
 				(font
@@ -5944,7 +6106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 374.65 144.78 0)
 			(effects
 				(font
@@ -5990,6 +6152,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 374.65 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 374.65 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 374.65 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 374.65 144.78 0)
 			(effects
 				(font
@@ -6097,7 +6286,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "560uF/25V"
+		(property "Value" "470uF/10V"
 			(at 213.36 175.26 90)
 			(effects
 				(font
@@ -6115,7 +6304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://my.mouser.com/datasheet/2/231/156315576075-1624351.pdf"
 			(at 212.09 165.1 0)
 			(effects
 				(font
@@ -6161,6 +6350,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 212.09 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 212.09 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 212.09 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "VZT471M1ATR-0607"
 			(at 212.09 165.1 0)
 			(effects
 				(font
@@ -6220,7 +6436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208310930_Capxon-International-Elec-PM101M025E077PTR_C2858382.pdf"
 			(at 345.44 166.37 0)
 			(effects
 				(font
@@ -6266,6 +6482,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 345.44 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 345.44 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 345.44 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "PM101M025E077PTR"
 			(at 345.44 166.37 0)
 			(effects
 				(font
@@ -6323,7 +6566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 189.23 143.51 0)
 			(effects
 				(font
@@ -6369,6 +6612,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 189.23 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 189.23 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 189.23 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 189.23 143.51 0)
 			(effects
 				(font
@@ -6492,7 +6762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 392.43 166.37 0)
 			(effects
 				(font
@@ -6538,6 +6808,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 392.43 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 392.43 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 392.43 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 392.43 166.37 0)
 			(effects
 				(font
@@ -6661,7 +6958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 369.57 144.78 0)
 			(effects
 				(font
@@ -6707,6 +7004,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 369.57 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 369.57 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 369.57 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 369.57 144.78 0)
 			(effects
 				(font
@@ -6767,7 +7091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201121330_LOTES-AAA-PCI-161-K03_C2926855.pdf"
 			(at 363.22 246.38 0)
 			(effects
 				(font
@@ -6813,6 +7137,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 369.57 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "AAA-PCI-161-K03"
+			(at 369.57 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 369.57 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 369.57 214.63 0)
 			(effects
 				(font
@@ -7124,7 +7475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 318.77 222.25 0)
 			(effects
 				(font
@@ -7170,6 +7521,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 318.77 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 318.77 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 318.77 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 318.77 222.25 0)
 			(effects
 				(font
@@ -7231,7 +7609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201121330_LOTES-AAA-PCI-161-K03_C2926855.pdf"
 			(at 177.8 245.11 0)
 			(effects
 				(font
@@ -7277,6 +7655,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 184.15 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "AAA-PCI-161-K03"
+			(at 184.15 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 184.15 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 184.15 213.36 0)
 			(effects
 				(font
@@ -7594,7 +7999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208310930_Capxon-International-Elec-PM101M025E077PTR_C2858382.pdf"
 			(at 165.1 165.1 0)
 			(effects
 				(font
@@ -7640,6 +8045,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 165.1 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 165.1 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 165.1 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "PM101M025E077PTR"
 			(at 165.1 165.1 0)
 			(effects
 				(font
@@ -7697,7 +8129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 184.15 143.51 0)
 			(effects
 				(font
@@ -7751,6 +8183,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 184.15 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 184.15 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
+			(at 184.15 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f57b891c-181c-4190-ae60-ac6eb2dea953")
 		)
@@ -7784,7 +8243,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "560uF/25V"
+		(property "Value" "470uF/10V"
 			(at 398.78 176.53 90)
 			(effects
 				(font
@@ -7802,7 +8261,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://my.mouser.com/datasheet/2/231/156315576075-1624351.pdf"
 			(at 397.51 166.37 0)
 			(effects
 				(font
@@ -7848,6 +8307,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 397.51 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 397.51 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 397.51 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "VZT471M1ATR-0607"
 			(at 397.51 166.37 0)
 			(effects
 				(font
@@ -7973,7 +8459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 133.35 223.52 0)
 			(effects
 				(font
@@ -8019,6 +8505,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 133.35 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 133.35 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 133.35 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 133.35 223.52 0)
 			(effects
 				(font
@@ -8084,7 +8597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2208310930_Capxon-International-Elec-PM101M025E077PTR_C2858382.pdf"
 			(at 350.52 166.37 0)
 			(effects
 				(font
@@ -8130,6 +8643,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 350.52 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 350.52 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 350.52 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "PM101M025E077PTR"
 			(at 350.52 166.37 0)
 			(effects
 				(font
@@ -8319,7 +8859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 335.28 166.37 0)
 			(effects
 				(font
@@ -8365,6 +8905,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 335.28 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 335.28 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 335.28 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 335.28 166.37 0)
 			(effects
 				(font
@@ -8554,7 +9121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 154.94 165.1 0)
 			(effects
 				(font
@@ -8600,6 +9167,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 154.94 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 154.94 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 154.94 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 154.94 165.1 0)
 			(effects
 				(font

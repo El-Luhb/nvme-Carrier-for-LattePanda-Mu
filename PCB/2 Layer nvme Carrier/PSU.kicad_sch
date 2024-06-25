@@ -874,6 +874,203 @@
 				)
 			)
 		)
+		(symbol "Connector_Generic:Conn_01x04"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x04_1_1"
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:C"
 			(pin_numbers hide)
 			(pin_names
@@ -3643,6 +3840,12 @@
 		(uuid "16636902-206f-4e1d-b6bd-4c3747036fca")
 	)
 	(junction
+		(at 487.68 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17a99c53-f5d7-4984-95f5-f9a8a95d67a3")
+	)
+	(junction
 		(at 99.06 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3737,6 +3940,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2141bff8-b462-40b5-9a73-e749cd9423f5")
+	)
+	(junction
+		(at 495.3 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "25700e7c-0ee9-4970-a582-659b4697263b")
 	)
 	(junction
 		(at 140.97 307.34)
@@ -3865,6 +4074,12 @@
 		(uuid "381db4f4-af2c-41bc-ab61-71d07ac6c9a2")
 	)
 	(junction
+		(at 508 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "38316e8a-56ce-468e-a3f8-8b760c33e3da")
+	)
+	(junction
 		(at 414.02 255.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3877,6 +4092,12 @@
 		(uuid "3b00b7ba-4fc9-406e-97fc-facc1570a6f0")
 	)
 	(junction
+		(at 502.92 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b67b590-37f6-4222-807c-a6a6ceb21607")
+	)
+	(junction
 		(at 210.82 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3887,6 +4108,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d6e5feb-f75a-44d3-bb0c-a126d4a3cf8a")
+	)
+	(junction
+		(at 431.8 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3dbe5cbf-02c2-4283-9bc0-7c568b799e37")
 	)
 	(junction
 		(at 414.02 292.1)
@@ -3925,6 +4152,12 @@
 		(uuid "44a0a15a-d1fb-4f55-a798-d56d169c139a")
 	)
 	(junction
+		(at 412.75 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "469550e1-404a-48d4-9f98-8f85f8e0f083")
+	)
+	(junction
 		(at 504.19 218.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3947,6 +4180,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49d818be-5a32-4679-8f80-a7170c0d46ae")
+	)
+	(junction
+		(at 513.08 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a96e95b-3507-4e9c-82c4-1bee01701a33")
 	)
 	(junction
 		(at 518.16 203.2)
@@ -3983,6 +4222,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51fde0a0-a332-491f-8b97-28525d9c38c6")
+	)
+	(junction
+		(at 518.16 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53bbfdb4-59db-487b-8de5-27db76cbc341")
 	)
 	(junction
 		(at 525.78 292.1)
@@ -4033,6 +4278,12 @@
 		(uuid "5c0b921d-2fab-4ed8-b9be-6ccecb74551b")
 	)
 	(junction
+		(at 502.92 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d913018-6a0f-4c17-987b-5b64c96b17f9")
+	)
+	(junction
 		(at 300.99 254)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4079,6 +4330,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65198d9f-ff23-41e3-a432-e391b2efadbd")
+	)
+	(junction
+		(at 414.02 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "657881fe-e7eb-4614-84ff-22b0e0d09a33")
 	)
 	(junction
 		(at 372.11 143.51)
@@ -4163,6 +4420,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f5964d8-c265-427e-a073-973451bdfcd1")
+	)
+	(junction
+		(at 474.98 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f7f0c6c-379e-41e0-8039-8169a4b1e060")
+	)
+	(junction
+		(at 487.68 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71520dfe-cde4-4da8-84c5-c326b37bc335")
 	)
 	(junction
 		(at 152.4 105.41)
@@ -4315,6 +4584,12 @@
 		(uuid "88966668-ff5b-44a0-89d0-8b701d951dd2")
 	)
 	(junction
+		(at 513.08 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b7123e5-0a09-45de-a893-b80fd34c860e")
+	)
+	(junction
 		(at 358.14 224.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4363,6 +4638,12 @@
 		(uuid "8fb5c59a-173d-4ecc-9f93-0bd46292a24f")
 	)
 	(junction
+		(at 518.16 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9061d22d-e09f-421a-9124-376469bc504d")
+	)
+	(junction
 		(at 488.95 240.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4387,6 +4668,12 @@
 		(uuid "931c2126-8776-4abd-98d5-ebaed1439172")
 	)
 	(junction
+		(at 508 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "941fab51-11af-425a-a0c8-3988a541bcf7")
+	)
+	(junction
 		(at 382.27 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4403,6 +4690,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "970d72d4-cc87-4544-b89d-e735ee467a61")
+	)
+	(junction
+		(at 487.68 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9a8c38ae-ef72-4120-b15d-63997010dc00")
 	)
 	(junction
 		(at 295.91 143.51)
@@ -4795,6 +5088,12 @@
 		(uuid "e46c67dd-3c37-4d23-a293-67f0b3648f61")
 	)
 	(junction
+		(at 440.69 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e520d93a-0fe2-4ebd-8d1f-2cb0ce2bf4e7")
+	)
+	(junction
 		(at 510.54 313.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4837,6 +5136,12 @@
 		(uuid "eaa8f258-29ad-4dde-983b-a9fac75224fc")
 	)
 	(junction
+		(at 426.72 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb213eba-e0c7-4808-bfab-803a01dbffa2")
+	)
+	(junction
 		(at 252.73 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4847,6 +5152,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed224cfa-09a6-4fd5-b9f4-7574440d8d69")
+	)
+	(junction
+		(at 431.8 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed6d6b18-5063-444b-a564-ed80f5f7050d")
 	)
 	(junction
 		(at 505.46 255.27)
@@ -4889,6 +5200,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f67cf42b-b586-438d-9fc6-59b85c34d4d8")
+	)
+	(junction
+		(at 523.24 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa164f76-2695-45c7-9794-17cb7db16683")
 	)
 	(junction
 		(at 487.68 181.61)
@@ -5090,7 +5407,17 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 143.51) (xy 415.29 146.05)
+			(xy 513.08 119.38) (xy 513.08 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03f6aa41-56ad-47d6-a170-cf3f19c28d9b")
+	)
+	(wire
+		(pts
+			(xy 403.86 154.94) (xy 403.86 157.48)
 		)
 		(stroke
 			(width 0)
@@ -5313,6 +5640,17 @@
 	)
 	(wire
 		(pts
+			(xy 482.6 107.95) (xy 487.68 107.95)
+		)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "0d847054-0b30-4aa8-a40b-2708298459df")
+	)
+	(wire
+		(pts
 			(xy 394.97 265.43) (xy 394.97 275.59)
 		)
 		(stroke
@@ -5475,6 +5813,16 @@
 	)
 	(wire
 		(pts
+			(xy 518.16 107.95) (xy 513.08 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15cd007e-0e88-4a29-af1b-8ae3f72e1574")
+	)
+	(wire
+		(pts
 			(xy 431.8 201.93) (xy 431.8 195.58)
 		)
 		(stroke
@@ -5610,6 +5958,16 @@
 	)
 	(wire
 		(pts
+			(xy 466.09 107.95) (xy 467.36 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bfcbf4d-f1be-4125-82b7-84a6713876de")
+	)
+	(wire
+		(pts
 			(xy 392.43 154.94) (xy 392.43 165.1)
 		)
 		(stroke
@@ -5649,6 +6007,26 @@
 			(color 255 0 0 1)
 		)
 		(uuid "1dcc26f9-7b1d-4da3-92a3-af72b109067f")
+	)
+	(wire
+		(pts
+			(xy 431.8 123.19) (xy 431.8 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e091811-0646-41a4-b645-5ada3ada8981")
+	)
+	(wire
+		(pts
+			(xy 518.16 111.76) (xy 518.16 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e52a7fe-7532-4638-ab6e-83a064b0324b")
 	)
 	(wire
 		(pts
@@ -5730,6 +6108,16 @@
 			(type default)
 		)
 		(uuid "20be6434-1feb-4998-a419-80e156199bfb")
+	)
+	(wire
+		(pts
+			(xy 474.98 115.57) (xy 487.68 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20d98835-4d14-42c4-b350-2d7dcc739eba")
 	)
 	(wire
 		(pts
@@ -5825,6 +6213,17 @@
 	)
 	(wire
 		(pts
+			(xy 431.8 107.95) (xy 445.77 107.95)
+		)
+		(stroke
+			(width 1)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "24cf68f4-472c-4e9b-ac8c-af3c2dd0b062")
+	)
+	(wire
+		(pts
 			(xy 374.65 290.83) (xy 367.03 290.83)
 		)
 		(stroke
@@ -5847,6 +6246,16 @@
 	)
 	(wire
 		(pts
+			(xy 403.86 33.02) (xy 412.75 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "251e5025-f712-4590-ac32-bdf82754ab8b")
+	)
+	(wire
+		(pts
 			(xy 515.62 276.86) (xy 510.54 276.86)
 		)
 		(stroke
@@ -5854,6 +6263,16 @@
 			(type default)
 		)
 		(uuid "25c403cc-0bfd-44b4-8657-fb28cbbedd3a")
+	)
+	(wire
+		(pts
+			(xy 502.92 130.81) (xy 508 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2656fd93-74eb-4e95-988b-2d473e788419")
 	)
 	(wire
 		(pts
@@ -5927,6 +6346,16 @@
 			(type default)
 		)
 		(uuid "28941d4f-0067-49e2-89c8-f18c8c226de5")
+	)
+	(wire
+		(pts
+			(xy 412.75 33.02) (xy 412.75 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28f8103b-8ff8-4c34-ab41-e7ee09f8cbf8")
 	)
 	(wire
 		(pts
@@ -6084,6 +6513,16 @@
 	)
 	(wire
 		(pts
+			(xy 518.16 107.95) (xy 513.08 107.95)
+		)
+		(stroke
+			(width 0.6)
+			(type default)
+		)
+		(uuid "2d64f797-10c5-4c68-90ec-4f55d873407a")
+	)
+	(wire
+		(pts
 			(xy 373.38 217.17) (xy 365.76 217.17)
 		)
 		(stroke
@@ -6125,6 +6564,17 @@
 	)
 	(wire
 		(pts
+			(xy 502.92 107.95) (xy 495.3 107.95)
+		)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "2f039cf4-5a9f-4326-ba0a-3bd2897ec495")
+	)
+	(wire
+		(pts
 			(xy 504.19 218.44) (xy 496.57 218.44)
 		)
 		(stroke
@@ -6133,6 +6583,16 @@
 			(color 255 0 0 1)
 		)
 		(uuid "2f3a087c-c8b6-43d4-9e40-d611c3f81a50")
+	)
+	(wire
+		(pts
+			(xy 455.93 118.11) (xy 455.93 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fc1e6af-20f7-4b00-bbd3-3af66f41df8e")
 	)
 	(wire
 		(pts
@@ -6175,6 +6635,16 @@
 			(color 255 0 0 1)
 		)
 		(uuid "312a0399-8a3a-45b8-8d1e-7667c816184e")
+	)
+	(wire
+		(pts
+			(xy 502.92 119.38) (xy 502.92 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3144b1a5-e408-4223-ab4b-82fede27825c")
 	)
 	(wire
 		(pts
@@ -6472,6 +6942,16 @@
 	)
 	(wire
 		(pts
+			(xy 518.16 107.95) (xy 523.24 107.95)
+		)
+		(stroke
+			(width 0.6)
+			(type default)
+		)
+		(uuid "39b8d836-1596-4e46-baef-50b726da998c")
+	)
+	(wire
+		(pts
 			(xy 152.4 105.41) (xy 152.4 109.22)
 		)
 		(stroke
@@ -6523,6 +7003,16 @@
 			(color 255 0 0 1)
 		)
 		(uuid "3a65881e-12b2-4c92-87c5-f4fd832d4492")
+	)
+	(wire
+		(pts
+			(xy 487.68 130.81) (xy 502.92 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a9d50df-9f0b-4136-9385-09408991caa7")
 	)
 	(wire
 		(pts
@@ -6651,6 +7141,16 @@
 	)
 	(wire
 		(pts
+			(xy 466.09 110.49) (xy 474.98 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40b84e9a-0f27-4472-9eb8-a789eb12ce2f")
+	)
+	(wire
+		(pts
 			(xy 509.27 229.87) (xy 509.27 240.03)
 		)
 		(stroke
@@ -6729,6 +7229,16 @@
 			(type default)
 		)
 		(uuid "441f489a-37af-4708-a3c1-e1ed33823adf")
+	)
+	(wire
+		(pts
+			(xy 523.24 119.38) (xy 523.24 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44369617-f23b-4d43-938d-63dd1a6099ea")
 	)
 	(wire
 		(pts
@@ -6986,6 +7496,16 @@
 	)
 	(wire
 		(pts
+			(xy 426.72 129.54) (xy 431.8 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c665656-7b28-4146-b1b2-a7b447bd484b")
+	)
+	(wire
+		(pts
 			(xy 378.46 217.17) (xy 373.38 217.17)
 		)
 		(stroke
@@ -7162,7 +7682,7 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 105.41) (xy 415.29 107.95)
+			(xy 403.86 118.11) (xy 403.86 120.65)
 		)
 		(stroke
 			(width 0)
@@ -7275,6 +7795,16 @@
 	)
 	(wire
 		(pts
+			(xy 431.8 115.57) (xy 431.8 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59c922e6-6c10-4b41-af7a-514e1fb7b138")
+	)
+	(wire
+		(pts
 			(xy 387.35 128.27) (xy 382.27 128.27)
 		)
 		(stroke
@@ -7292,6 +7822,16 @@
 			(type default)
 		)
 		(uuid "5afa0ca5-2a49-43f5-8672-8ddae9811ddf")
+	)
+	(wire
+		(pts
+			(xy 518.16 130.81) (xy 513.08 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b1cf68f-2eb3-4d3d-a5ec-a0f75f324ca1")
 	)
 	(wire
 		(pts
@@ -7376,6 +7916,16 @@
 	)
 	(wire
 		(pts
+			(xy 487.68 115.57) (xy 495.3 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5faa6266-83bd-41f2-ad40-96c2f81e42b1")
+	)
+	(wire
+		(pts
 			(xy 520.7 259.08) (xy 520.7 255.27)
 		)
 		(stroke
@@ -7394,6 +7944,16 @@
 			(color 255 0 0 1)
 		)
 		(uuid "5fea5b86-7701-4e9d-89e5-cb6f743059b6")
+	)
+	(wire
+		(pts
+			(xy 474.98 113.03) (xy 474.98 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5feed0b5-09f6-4aef-aae8-03a3c84f9dea")
 	)
 	(wire
 		(pts
@@ -7600,6 +8160,16 @@
 	)
 	(wire
 		(pts
+			(xy 474.98 110.49) (xy 474.98 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69169f1d-58d9-4c90-8573-643e222ece07")
+	)
+	(wire
+		(pts
 			(xy 210.82 39.37) (xy 210.82 43.18)
 		)
 		(stroke
@@ -7753,6 +8323,17 @@
 	)
 	(wire
 		(pts
+			(xy 508 107.95) (xy 502.92 107.95)
+		)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "6e20429d-c605-4186-8525-1e16007690f9")
+	)
+	(wire
+		(pts
 			(xy 336.55 219.71) (xy 345.44 219.71)
 		)
 		(stroke
@@ -7780,6 +8361,17 @@
 			(type default)
 		)
 		(uuid "6ef7a882-cdec-46b8-8997-cc0ba635883d")
+	)
+	(wire
+		(pts
+			(xy 426.72 107.95) (xy 431.8 107.95)
+		)
+		(stroke
+			(width 1)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "6f477599-8ea5-4b87-b866-180008a6deca")
 	)
 	(wire
 		(pts
@@ -7854,6 +8446,17 @@
 	)
 	(wire
 		(pts
+			(xy 513.08 107.95) (xy 508 107.95)
+		)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "72e0fdb4-d5b7-47a7-98b3-642d21f83ae7")
+	)
+	(wire
+		(pts
 			(xy 513.08 185.42) (xy 513.08 181.61)
 		)
 		(stroke
@@ -7904,6 +8507,17 @@
 	)
 	(wire
 		(pts
+			(xy 487.68 107.95) (xy 495.3 107.95)
+		)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "744e8c3a-61ea-4b33-b5a3-716262e7d402")
+	)
+	(wire
+		(pts
 			(xy 359.41 298.45) (xy 367.03 298.45)
 		)
 		(stroke
@@ -7924,6 +8538,16 @@
 	)
 	(wire
 		(pts
+			(xy 426.72 123.19) (xy 426.72 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7578d2ff-e9fa-4745-9c1d-c33aad67ca8a")
+	)
+	(wire
+		(pts
 			(xy 152.4 109.22) (xy 152.4 113.03)
 		)
 		(stroke
@@ -7932,6 +8556,26 @@
 			(color 255 0 0 1)
 		)
 		(uuid "763818a0-45d2-41b3-8c72-a7114583ced0")
+	)
+	(wire
+		(pts
+			(xy 508 107.95) (xy 508 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76596367-4c9a-42d5-b6be-96269540be2f")
+	)
+	(wire
+		(pts
+			(xy 415.29 45.72) (xy 415.29 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "779ebef5-997a-49a6-8782-8a304cee30de")
 	)
 	(wire
 		(pts
@@ -8078,6 +8722,16 @@
 	)
 	(wire
 		(pts
+			(xy 487.68 123.19) (xy 487.68 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ebb27d3-07f7-4f66-a985-3b6760bc5d8a")
+	)
+	(wire
+		(pts
 			(xy 121.92 105.41) (xy 135.89 105.41)
 		)
 		(stroke
@@ -8096,6 +8750,16 @@
 			(type default)
 		)
 		(uuid "80221295-15f6-48e4-8995-87bcc2d9cee0")
+	)
+	(wire
+		(pts
+			(xy 412.75 43.18) (xy 412.75 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80e7a0c1-02e2-4b08-98ba-aa13027a5787")
 	)
 	(wire
 		(pts
@@ -8126,6 +8790,16 @@
 			(type default)
 		)
 		(uuid "816765e3-24ba-4379-915b-e75ccd6bab45")
+	)
+	(wire
+		(pts
+			(xy 455.93 130.81) (xy 487.68 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81e93201-7228-4d7c-a243-82421fc9f138")
 	)
 	(wire
 		(pts
@@ -8259,6 +8933,16 @@
 			(type default)
 		)
 		(uuid "86ee8802-9f7a-48ec-857d-0c22e22c7603")
+	)
+	(wire
+		(pts
+			(xy 518.16 119.38) (xy 518.16 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86f5621c-9dd0-46f9-95a3-4d3c3aaebff5")
 	)
 	(wire
 		(pts
@@ -8451,6 +9135,26 @@
 			(type default)
 		)
 		(uuid "8e69fedb-07de-413c-b190-116caab61240")
+	)
+	(wire
+		(pts
+			(xy 513.08 111.76) (xy 513.08 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e8e2c32-5376-40e7-8323-60853c0a87c8")
+	)
+	(wire
+		(pts
+			(xy 523.24 111.76) (xy 523.24 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8effde12-318c-4007-83be-c30ba807d75b")
 	)
 	(wire
 		(pts
@@ -8936,6 +9640,16 @@
 	)
 	(wire
 		(pts
+			(xy 426.72 115.57) (xy 426.72 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a252f5c1-a682-42b1-a057-6f6c96fba009")
+	)
+	(wire
+		(pts
 			(xy 336.55 217.17) (xy 337.82 217.17)
 		)
 		(stroke
@@ -9068,6 +9782,17 @@
 	)
 	(wire
 		(pts
+			(xy 414.02 181.61) (xy 414.02 107.95)
+		)
+		(stroke
+			(width 1)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "a71fc1d5-eef0-406a-b0a9-6ca799cc5746")
+	)
+	(wire
+		(pts
 			(xy 325.12 115.57) (xy 325.12 128.27)
 		)
 		(stroke
@@ -9095,6 +9820,16 @@
 			(type default)
 		)
 		(uuid "a92a4291-f63a-4c36-ba71-d2e3a6d57767")
+	)
+	(wire
+		(pts
+			(xy 410.21 41.91) (xy 410.21 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aab34c17-35a5-46f1-be4a-896eef9704b5")
 	)
 	(wire
 		(pts
@@ -9343,6 +10078,16 @@
 	)
 	(wire
 		(pts
+			(xy 513.08 130.81) (xy 508 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5b58997-66ba-4148-a880-cb967764a529")
+	)
+	(wire
+		(pts
 			(xy 490.22 262.89) (xy 497.84 262.89)
 		)
 		(stroke
@@ -9370,6 +10115,26 @@
 			(type default)
 		)
 		(uuid "b9526678-13b1-4ec0-815e-42c5a2cc8a3b")
+	)
+	(wire
+		(pts
+			(xy 523.24 130.81) (xy 518.16 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9615826-4beb-4348-9b15-771e0857f636")
+	)
+	(wire
+		(pts
+			(xy 440.69 113.03) (xy 440.69 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b96ee7b2-1035-4ede-9767-69b79bdcc4b3")
 	)
 	(wire
 		(pts
@@ -9505,6 +10270,16 @@
 	)
 	(wire
 		(pts
+			(xy 417.83 41.91) (xy 417.83 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c114f2cd-90f4-459a-8827-19ec22ddb5da")
+	)
+	(wire
+		(pts
 			(xy 287.02 290.83) (xy 295.91 290.83)
 		)
 		(stroke
@@ -9617,6 +10392,16 @@
 	)
 	(wire
 		(pts
+			(xy 502.92 107.95) (xy 502.92 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c35118a0-53b2-4ef8-80eb-274153137bfe")
+	)
+	(wire
+		(pts
 			(xy 335.28 105.41) (xy 336.55 105.41)
 		)
 		(stroke
@@ -9710,6 +10495,17 @@
 	)
 	(wire
 		(pts
+			(xy 414.02 107.95) (xy 426.72 107.95)
+		)
+		(stroke
+			(width 1)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "c5f009ed-312d-400a-85e9-f2b2b83efc6a")
+	)
+	(wire
+		(pts
 			(xy 69.85 283.21) (xy 69.85 288.29)
 		)
 		(stroke
@@ -9797,6 +10593,16 @@
 			(type default)
 		)
 		(uuid "c98d6747-c945-4b68-8225-8b1ffce91a5e")
+	)
+	(wire
+		(pts
+			(xy 403.86 36.83) (xy 403.86 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cac84b9f-ca3e-42db-9003-3b68af23b71d")
 	)
 	(wire
 		(pts
@@ -10094,6 +10900,16 @@
 	)
 	(wire
 		(pts
+			(xy 508 130.81) (xy 508 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7093e9d-7991-499b-9a35-afd8c7824641")
+	)
+	(wire
+		(pts
 			(xy 520.7 276.86) (xy 515.62 276.86)
 		)
 		(stroke
@@ -10236,6 +11052,16 @@
 	)
 	(wire
 		(pts
+			(xy 523.24 107.95) (xy 518.16 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd3bf7bb-6af3-4461-9af5-f8d3275818b8")
+	)
+	(wire
+		(pts
 			(xy 185.42 43.18) (xy 210.82 43.18)
 		)
 		(stroke
@@ -10304,6 +11130,16 @@
 			(type default)
 		)
 		(uuid "dff0d30d-37cd-4c46-93ea-9352d86aea8b")
+	)
+	(wire
+		(pts
+			(xy 412.75 43.18) (xy 415.29 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e01e8aa4-a4ca-4c06-981d-8747c47080db")
 	)
 	(wire
 		(pts
@@ -10405,6 +11241,16 @@
 			(type default)
 		)
 		(uuid "e6cc0349-918f-42e1-9c02-8f5a9deb5702")
+	)
+	(wire
+		(pts
+			(xy 466.09 113.03) (xy 474.98 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6efde9d-1f68-44ff-a04f-f7d1086c1e25")
 	)
 	(wire
 		(pts
@@ -10809,6 +11655,16 @@
 	)
 	(wire
 		(pts
+			(xy 440.69 133.35) (xy 440.69 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8f20bd1-d568-4813-a69d-be381c6404bc")
+	)
+	(wire
+		(pts
 			(xy 210.82 43.18) (xy 210.82 49.53)
 		)
 		(stroke
@@ -10968,6 +11824,16 @@
 			(type default)
 		)
 		(uuid "fe4d5c8d-1f6a-4847-90be-d935fe4665f1")
+	)
+	(wire
+		(pts
+			(xy 440.69 113.03) (xy 445.77 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff28a1c6-294b-4f91-b65c-021f11c64424")
 	)
 	(wire
 		(pts
@@ -11205,7 +12071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 377.19 151.13 0)
 			(effects
 				(font
@@ -11251,6 +12117,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 377.19 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 377.19 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 377.19 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 377.19 151.13 0)
 			(effects
 				(font
@@ -11308,7 +12201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 431.8 191.77 0)
 			(effects
 				(font
@@ -11354,6 +12247,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 431.8 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 431.8 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 431.8 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 431.8 191.77 0)
 			(effects
 				(font
@@ -11470,6 +12390,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "NDS7002A"
+			(at 208.28 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 208.28 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 208.28 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d04775dc-6a9b-4530-bb5c-4787650c597f")
 		)
@@ -11576,6 +12523,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 431.8 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 431.8 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27b2ff0b-262f-4d6a-a751-cb568e55c3a8")
 		)
@@ -11626,7 +12591,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2309121405_SHOU-HAN-DC007B-2-5-J_C17701686.pdf"
 			(at 59.69 108.966 0)
 			(effects
 				(font
@@ -11672,6 +12637,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 58.42 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 58.42 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 58.42 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "DC007B-2.5-J"
 			(at 58.42 107.95 0)
 			(effects
 				(font
@@ -11732,7 +12724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 487.68 185.42 0)
 			(effects
 				(font
@@ -11778,6 +12770,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 487.68 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 487.68 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 487.68 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 487.68 185.42 0)
 			(effects
 				(font
@@ -11889,6 +12908,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 364.49 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 364.49 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8035e0ed-c61c-4c95-8f1e-68a53cff5ee7")
 		)
@@ -11938,7 +12975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.pdf"
 			(at 69.85 295.91 0)
 			(effects
 				(font
@@ -11984,6 +13021,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 69.85 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 69.85 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 69.85 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A105KO5NNNC"
 			(at 69.85 295.91 0)
 			(effects
 				(font
@@ -12041,7 +13105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0710KL_C60490.pdf"
 			(at 356.87 116.84 0)
 			(effects
 				(font
@@ -12087,6 +13151,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 356.87 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 356.87 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 356.87 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0710KL"
 			(at 356.87 116.84 0)
 			(effects
 				(font
@@ -12147,7 +13238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Korean-Hroparts-Elec-K2-1102SP-E3SC-04_C2685894.pdf"
 			(at 146.05 297.18 0)
 			(effects
 				(font
@@ -12184,6 +13275,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 140.97 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 140.97 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 140.97 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "K2-1102SP-E3SC-04"
 			(at 140.97 297.18 0)
 			(effects
 				(font
@@ -12241,7 +13359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 515.62 262.89 0)
 			(effects
 				(font
@@ -12287,6 +13405,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 515.62 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 515.62 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 515.62 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 515.62 262.89 0)
 			(effects
 				(font
@@ -12378,6 +13523,136 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 513.08 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "079dc4c5-7328-428d-bffa-21fba9ed4179")
+		(property "Reference" "C487"
+			(at 514.35 111.76 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "100nF/50V"
+			(at 514.35 121.92 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+			(at 514.0452 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
+			(at 513.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 513.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 513.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 513.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 513.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 513.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 513.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 513.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
+			(at 513.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8678e11c-5de3-4fd3-9fce-ad72bb529d2d")
+		)
+		(pin "1"
+			(uuid "87c73b3e-4c9e-46f7-aab4-c63adbdd4cd9")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "C487")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 389.89 261.62 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12410,7 +13685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 389.89 261.62 0)
 			(effects
 				(font
@@ -12456,6 +13731,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 389.89 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 389.89 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 389.89 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 389.89 261.62 0)
 			(effects
 				(font
@@ -12513,7 +13815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0775KL_C137935.pdf"
 			(at 356.87 109.22 0)
 			(effects
 				(font
@@ -12559,6 +13861,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 356.87 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 356.87 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 356.87 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0775KL"
 			(at 356.87 109.22 0)
 			(effects
 				(font
@@ -12616,7 +13945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 387.35 113.03 0)
 			(effects
 				(font
@@ -12662,6 +13991,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 387.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 387.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 387.35 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 387.35 113.03 0)
 			(effects
 				(font
@@ -12786,7 +14142,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 359.41 257.81 0)
 			(effects
 				(font
@@ -12832,6 +14188,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 359.41 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 359.41 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 359.41 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 359.41 257.81 0)
 			(effects
 				(font
@@ -12889,7 +14272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 505.46 262.89 0)
 			(effects
 				(font
@@ -12935,6 +14318,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 505.46 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 505.46 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 505.46 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 505.46 262.89 0)
 			(effects
 				(font
@@ -13058,7 +14468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 300.99 190.5 0)
 			(effects
 				(font
@@ -13104,6 +14514,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 300.99 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 300.99 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 300.99 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 300.99 190.5 0)
 			(effects
 				(font
@@ -13161,7 +14598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0722KL_C82868.pdf"
 			(at 359.41 265.43 0)
 			(effects
 				(font
@@ -13207,6 +14644,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 359.41 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 359.41 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 359.41 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0722KL"
 			(at 359.41 265.43 0)
 			(effects
 				(font
@@ -13264,7 +14728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 372.11 187.96 0)
 			(effects
 				(font
@@ -13310,6 +14774,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 372.11 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 372.11 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 372.11 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 372.11 187.96 0)
 			(effects
 				(font
@@ -13367,7 +14858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 181.61 43.18 0)
 			(effects
 				(font
@@ -13413,6 +14904,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 181.61 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 181.61 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 181.61 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 181.61 43.18 0)
 			(effects
 				(font
@@ -13472,7 +14990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100RL_C106232.pdf"
 			(at 123.19 288.29 0)
 			(effects
 				(font
@@ -13518,6 +15036,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 123.19 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 123.19 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 123.19 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100RL"
 			(at 123.19 288.29 0)
 			(effects
 				(font
@@ -13608,6 +15153,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 410.21 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14aa485c-7785-4384-ab18-0b953f2d874c")
+		(property "Reference" "#PWR0202"
+			(at 410.21 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5Va"
+			(at 410.21 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 410.21 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 410.21 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 410.21 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d2bf246-b120-404c-be28-36b8178a4b61")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "#PWR0202")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 300.99 227.33 180)
 		(unit 1)
@@ -13641,7 +15252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 300.99 227.33 0)
 			(effects
 				(font
@@ -13687,6 +15298,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 300.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 300.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 300.99 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 300.99 227.33 0)
 			(effects
 				(font
@@ -13744,7 +15382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 394.97 261.62 0)
 			(effects
 				(font
@@ -13790,6 +15428,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 394.97 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 394.97 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 394.97 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 394.97 261.62 0)
 			(effects
 				(font
@@ -13847,7 +15512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0722KL_C82868.pdf"
 			(at 488.95 229.87 0)
 			(effects
 				(font
@@ -13893,6 +15558,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 488.95 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 488.95 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 488.95 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0722KL"
 			(at 488.95 229.87 0)
 			(effects
 				(font
@@ -13999,6 +15691,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 325.12 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 325.12 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 325.12 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 325.12 146.05 0)
 			(effects
 				(font
@@ -14191,6 +15910,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 327.66 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 327.66 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 327.66 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2a917a95-7649-4043-904b-9bdcea717051")
 		)
@@ -14308,6 +16054,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 69.85 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 69.85 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "23f177cd-dfe6-4fd9-ad24-e430cf5f07f3")
 		)
@@ -14357,7 +16121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 388.62 224.79 0)
 			(effects
 				(font
@@ -14403,6 +16167,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 388.62 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 388.62 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 388.62 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 388.62 224.79 0)
 			(effects
 				(font
@@ -14506,6 +16297,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 367.03 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 367.03 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 367.03 294.64 0)
 			(effects
 				(font
@@ -14629,7 +16438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 379.73 298.45 0)
 			(effects
 				(font
@@ -14675,6 +16484,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 379.73 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 379.73 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 379.73 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 379.73 298.45 0)
 			(effects
 				(font
@@ -14733,7 +16569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 478.79 181.61 0)
 			(effects
 				(font
@@ -14779,6 +16615,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 478.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 478.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 478.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
 			(at 478.79 181.61 0)
 			(effects
 				(font
@@ -14864,6 +16727,136 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "#PWR0131")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 431.8 119.38 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2463c36c-bfb0-4018-a377-3b5f8fb245f3")
+		(property "Reference" "C482"
+			(at 433.07 115.57 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "22uF/10V"
+			(at 433.07 124.46 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+			(at 430.8348 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+			(at 431.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 431.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 431.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 431.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 431.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 431.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 431.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 431.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 431.8 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "74994124-0626-4f4e-8d1f-92b780b96297")
+		)
+		(pin "1"
+			(uuid "882662f6-74bf-4d2d-969e-8c6cf324fe47")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "C482")
 					(unit 1)
 				)
 			)
@@ -14969,7 +16962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 340.36 180.34 0)
 			(effects
 				(font
@@ -15015,6 +17008,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 340.36 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 340.36 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 340.36 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 340.36 180.34 0)
 			(effects
 				(font
@@ -15072,7 +17092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 382.27 187.96 0)
 			(effects
 				(font
@@ -15118,6 +17138,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 382.27 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 382.27 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 382.27 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 382.27 187.96 0)
 			(effects
 				(font
@@ -15178,7 +17225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://diotec.com/request/datasheet/mms3z2b4gw.pdf"
 			(at 261.62 78.74 0)
 			(effects
 				(font
@@ -15215,6 +17262,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 261.62 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 261.62 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 261.62 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "MMS3Z3B3GW"
 			(at 261.62 78.74 0)
 			(effects
 				(font
@@ -15458,6 +17532,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 505.46 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 505.46 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a627a69-ca26-438a-952a-82d16b9c770b")
 		)
@@ -15545,6 +17637,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 195.58 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 195.58 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 195.58 78.74 0)
 			(effects
 				(font
@@ -15653,6 +17763,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 515.62 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 515.62 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "885fb8f3-42cf-435f-907b-42046bfa0dea")
 		)
@@ -15702,7 +17830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 426.72 228.6 0)
 			(effects
 				(font
@@ -15748,6 +17876,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 426.72 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 426.72 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 426.72 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 426.72 228.6 0)
 			(effects
 				(font
@@ -15805,7 +17960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 377.19 187.96 0)
 			(effects
 				(font
@@ -15851,6 +18006,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 377.19 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 377.19 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 377.19 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 377.19 187.96 0)
 			(effects
 				(font
@@ -15908,7 +18090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 510.54 262.89 0)
 			(effects
 				(font
@@ -15954,6 +18136,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 510.54 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 510.54 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 510.54 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 510.54 262.89 0)
 			(effects
 				(font
@@ -16013,7 +18222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2108131930_TECH-PUBLIC-ESD5V0B03-1006_C521894.pdf"
 			(at 134.62 295.91 0)
 			(effects
 				(font
@@ -16059,6 +18268,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 134.62 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 134.62 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 134.62 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "ESD5V0B03-1006"
 			(at 134.62 295.91 0)
 			(effects
 				(font
@@ -16183,7 +18419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 426.72 191.77 0)
 			(effects
 				(font
@@ -16229,6 +18465,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 426.72 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 426.72 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 426.72 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 426.72 191.77 0)
 			(effects
 				(font
@@ -16352,7 +18615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205261600_FOSAN-SS54_C3014014.pdf"
 			(at 139.7 105.41 0)
 			(effects
 				(font
@@ -16398,6 +18661,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 139.7 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 139.7 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 139.7 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SS54"
 			(at 139.7 105.41 0)
 			(effects
 				(font
@@ -16509,6 +18799,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 426.72 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 426.72 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e620a295-e365-4db9-84d9-47791d79ea0c")
 		)
@@ -16519,6 +18827,72 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "C471")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 403.86 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d782a2f-5daa-4954-bb54-2a9a7ad4e607")
+		(property "Reference" "#PWR0204"
+			(at 403.86 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 403.86 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 403.86 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 403.86 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 403.86 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3dd21bfa-aa3e-44ea-96e5-f5a41b85d5b7")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -16558,7 +18932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0722KL_C82868.pdf"
 			(at 356.87 191.77 0)
 			(effects
 				(font
@@ -16604,6 +18978,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 356.87 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 356.87 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 356.87 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0722KL"
 			(at 356.87 191.77 0)
 			(effects
 				(font
@@ -16661,7 +19062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 387.35 187.96 0)
 			(effects
 				(font
@@ -16715,6 +19116,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 387.35 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 387.35 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 387.35 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b9e4255b-6eb0-4158-a5de-87888ddfbf56")
 		)
@@ -16732,7 +19160,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 415.29 146.05 180)
+		(at 403.86 157.48 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16741,7 +19169,7 @@
 		(fields_autoplaced yes)
 		(uuid "4206d628-aa5c-40de-b855-0ab6f7faadb8")
 		(property "Reference" "#FLG0902"
-			(at 415.29 147.955 0)
+			(at 403.86 159.385 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16750,7 +19178,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 415.29 151.13 0)
+			(at 403.86 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16758,7 +19186,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 415.29 146.05 0)
+			(at 403.86 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16767,7 +19195,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 415.29 146.05 0)
+			(at 403.86 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16776,7 +19204,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 415.29 146.05 0)
+			(at 403.86 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16830,7 +19258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0721K5L_C185442.pdf"
 			(at 264.16 40.64 0)
 			(effects
 				(font
@@ -16876,6 +19304,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 264.16 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 264.16 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 264.16 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0721K5L"
 			(at 264.16 40.64 0)
 			(effects
 				(font
@@ -16933,7 +19388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0722KL_C82868.pdf"
 			(at 356.87 154.94 0)
 			(effects
 				(font
@@ -16979,6 +19434,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 356.87 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 356.87 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 356.87 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0722KL"
 			(at 356.87 154.94 0)
 			(effects
 				(font
@@ -17103,7 +19585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-071KL_C106235.pdf"
 			(at 232.41 196.85 0)
 			(effects
 				(font
@@ -17149,6 +19631,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 232.41 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 232.41 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 232.41 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-071KL"
 			(at 232.41 196.85 0)
 			(effects
 				(font
@@ -17206,7 +19715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 340.36 105.41 0)
 			(effects
 				(font
@@ -17252,6 +19761,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 340.36 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 340.36 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 340.36 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 340.36 105.41 0)
 			(effects
 				(font
@@ -17377,7 +19913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2009111637_Wuxi-NCE-Power-Semiconductor-NCE30P28Q_C502815.pdf"
 			(at 238.76 226.67 0)
 			(effects
 				(font
@@ -17415,6 +19951,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 217.17 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 217.17 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 217.17 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "NCE30P28Q"
 			(at 217.17 31.75 0)
 			(effects
 				(font
@@ -17499,7 +20062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 384.81 298.45 0)
 			(effects
 				(font
@@ -17545,6 +20108,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 384.81 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 384.81 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 384.81 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 384.81 298.45 0)
 			(effects
 				(font
@@ -17602,7 +20192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 374.65 261.62 0)
 			(effects
 				(font
@@ -17648,6 +20238,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 374.65 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 374.65 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 374.65 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 374.65 261.62 0)
 			(effects
 				(font
@@ -17705,7 +20322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 520.7 262.89 0)
 			(effects
 				(font
@@ -17751,6 +20368,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 520.7 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 520.7 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 520.7 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 520.7 262.89 0)
 			(effects
 				(font
@@ -17923,6 +20567,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 121.92 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 121.92 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15b66908-4cbc-4c84-a46e-110722820ef7")
 		)
@@ -17930,6 +20592,72 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 523.24 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55ab357c-417d-412b-8453-2181ebfb31c3")
+		(property "Reference" "#PWR0200"
+			(at 523.24 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5Va"
+			(at 523.24 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 523.24 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 523.24 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 523.24 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "82d8106b-6d86-451c-8353-a155f2c673e5")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "#PWR0200")
 					(unit 1)
 				)
 			)
@@ -18089,6 +20817,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 364.49 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 364.49 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b1d653a3-50e0-4331-91e4-ff79f8688101")
 		)
@@ -18138,7 +20884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 342.9 254 0)
 			(effects
 				(font
@@ -18184,6 +20930,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 342.9 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 342.9 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 342.9 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 342.9 254 0)
 			(effects
 				(font
@@ -18241,7 +21014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 525.78 262.89 0)
 			(effects
 				(font
@@ -18287,6 +21060,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 525.78 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 525.78 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 525.78 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 525.78 262.89 0)
 			(effects
 				(font
@@ -18344,7 +21144,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 379.73 261.62 0)
 			(effects
 				(font
@@ -18390,6 +21190,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 379.73 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 379.73 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 379.73 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 379.73 261.62 0)
 			(effects
 				(font
@@ -18501,6 +21328,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 473.71 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 473.71 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "97ff01aa-30b7-4b39-bc86-48af28629ecf")
 		)
@@ -18550,7 +21395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0722KL_C82868.pdf"
 			(at 359.41 302.26 0)
 			(effects
 				(font
@@ -18604,6 +21449,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 359.41 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 359.41 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0722KL"
+			(at 359.41 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4dd6f1e-e9a8-4239-a37d-253d05815462")
 		)
@@ -18614,6 +21486,136 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "R432")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 523.24 115.57 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ee2b0fe-266f-4a31-81d5-f2e745048496")
+		(property "Reference" "C489"
+			(at 524.51 111.76 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "22uF/10V"
+			(at 524.51 120.65 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+			(at 522.2748 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+			(at 523.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 523.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 523.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 523.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 523.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 523.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 523.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 523.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 523.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c182599d-fd92-4323-8132-cd46192abf0b")
+		)
+		(pin "1"
+			(uuid "e77fbe50-3388-4cf0-beb5-d1b848a7cb00")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "C489")
 					(unit 1)
 				)
 			)
@@ -18707,6 +21709,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 495.3 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 495.3 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5092fa78-3ee8-4f05-92ea-416026507a74")
 		)
@@ -18724,7 +21744,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 415.29 105.41 0)
+		(at 403.86 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18733,7 +21753,7 @@
 		(fields_autoplaced yes)
 		(uuid "60ef4038-673c-4fe4-bb43-2e984ac33974")
 		(property "Reference" "#PWR0901"
-			(at 415.29 109.22 0)
+			(at 403.86 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18742,7 +21762,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 415.29 100.33 0)
+			(at 403.86 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18750,7 +21770,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 415.29 105.41 0)
+			(at 403.86 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18759,7 +21779,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 415.29 105.41 0)
+			(at 403.86 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18768,7 +21788,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 415.29 105.41 0)
+			(at 403.86 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18823,7 +21843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 481.33 255.27 0)
 			(effects
 				(font
@@ -18869,6 +21889,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 481.33 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 481.33 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 481.33 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
 			(at 481.33 255.27 0)
 			(effects
 				(font
@@ -19026,6 +22073,136 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 487.68 119.38 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "63370b54-85c1-492c-8929-dffae30f078c")
+		(property "Reference" "R482"
+			(at 481.33 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K/1%"
+			(at 482.6 118.11 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
+			(at 489.458 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0710KL_C60490.pdf"
+			(at 487.68 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 487.68 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
+			(at 487.68 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 487.68 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 487.68 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 487.68 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 487.68 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 487.68 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0710KL"
+			(at 487.68 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00a909a1-bfc4-4f2b-97fa-214a356a25ed")
+		)
+		(pin "2"
+			(uuid "72575c06-9212-4c93-9b2f-0b9b8ef2df65")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "R482")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 252.73 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19060,7 +22237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-072K2L_C114762.pdf"
 			(at 252.73 74.93 0)
 			(effects
 				(font
@@ -19106,6 +22283,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 252.73 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 252.73 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 252.73 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-072K2L"
 			(at 252.73 74.93 0)
 			(effects
 				(font
@@ -19296,7 +22500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 358.14 220.98 0)
 			(effects
 				(font
@@ -19342,6 +22546,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 358.14 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 358.14 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 358.14 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 358.14 220.98 0)
 			(effects
 				(font
@@ -19399,7 +22630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.pdf"
 			(at 181.61 39.37 0)
 			(effects
 				(font
@@ -19445,6 +22676,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 181.61 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 181.61 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 181.61 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A105KO5NNNC"
 			(at 181.61 39.37 0)
 			(effects
 				(font
@@ -19502,7 +22760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 383.54 224.79 0)
 			(effects
 				(font
@@ -19548,6 +22806,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 383.54 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 383.54 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 383.54 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 383.54 224.79 0)
 			(effects
 				(font
@@ -19605,7 +22890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 300.99 300.99 0)
 			(effects
 				(font
@@ -19651,6 +22936,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 300.99 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 300.99 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 300.99 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 300.99 300.99 0)
 			(effects
 				(font
@@ -19888,6 +23200,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 392.43 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 392.43 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb14ccad-be16-43b1-8ec2-051efb77bb6e")
 		)
@@ -19937,7 +23267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Korean-Hroparts-Elec-K2-1102SP-E3SC-04_C2685894.pdf"
 			(at 88.9 297.18 0)
 			(effects
 				(font
@@ -19974,6 +23304,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 83.82 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 83.82 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 83.82 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "K2-1102SP-E3SC-04"
 			(at 83.82 297.18 0)
 			(effects
 				(font
@@ -20031,7 +23388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0710KL_C60490.pdf"
 			(at 240.03 200.66 0)
 			(effects
 				(font
@@ -20077,6 +23434,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 240.03 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 240.03 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 240.03 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0710KL"
 			(at 240.03 200.66 0)
 			(effects
 				(font
@@ -20135,7 +23519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 349.25 217.17 0)
 			(effects
 				(font
@@ -20181,6 +23565,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 349.25 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 349.25 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 349.25 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
 			(at 349.25 217.17 0)
 			(effects
 				(font
@@ -20238,7 +23649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 393.7 224.79 0)
 			(effects
 				(font
@@ -20284,6 +23695,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 393.7 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 393.7 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 393.7 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 393.7 224.79 0)
 			(effects
 				(font
@@ -20395,6 +23833,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 497.84 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 497.84 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ffa677f5-d711-4353-855c-c46ed0d7cf4e")
 		)
@@ -20444,7 +23900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0722KL_C82868.pdf"
 			(at 487.68 193.04 0)
 			(effects
 				(font
@@ -20490,6 +23946,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 487.68 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 487.68 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 487.68 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0722KL"
 			(at 487.68 193.04 0)
 			(effects
 				(font
@@ -20560,6 +24043,33 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 160.02 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 160.02 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 160.02 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "2.54-1*2"
 			(at 160.02 298.45 0)
 			(effects
 				(font
@@ -20683,7 +24193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 389.89 298.45 0)
 			(effects
 				(font
@@ -20729,6 +24239,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 389.89 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 389.89 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 389.89 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 389.89 298.45 0)
 			(effects
 				(font
@@ -20786,7 +24323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 295.91 300.99 0)
 			(effects
 				(font
@@ -20832,6 +24369,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 295.91 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 295.91 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 295.91 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 295.91 300.99 0)
 			(effects
 				(font
@@ -20889,7 +24453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 382.27 151.13 0)
 			(effects
 				(font
@@ -20935,6 +24499,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 382.27 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 382.27 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 382.27 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 382.27 151.13 0)
 			(effects
 				(font
@@ -20992,7 +24583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 472.44 218.44 0)
 			(effects
 				(font
@@ -21038,6 +24629,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 472.44 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 472.44 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 472.44 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 472.44 218.44 0)
 			(effects
 				(font
@@ -21095,7 +24713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 524.51 226.06 0)
 			(effects
 				(font
@@ -21141,6 +24759,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 524.51 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 524.51 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 524.51 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 524.51 226.06 0)
 			(effects
 				(font
@@ -21331,7 +24976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 480.06 218.44 0)
 			(effects
 				(font
@@ -21377,6 +25022,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 480.06 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 480.06 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 480.06 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
 			(at 480.06 218.44 0)
 			(effects
 				(font
@@ -21468,6 +25140,136 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 508 115.57 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7b6fe988-ae42-46df-91a5-4cbadb2d9729")
+		(property "Reference" "C486"
+			(at 509.27 111.76 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "22uF/10V"
+			(at 509.27 120.65 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+			(at 507.0348 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+			(at 508 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 508 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 508 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 508 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 508 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 508 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 508 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 508 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 508 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fb88e9e8-aaf5-4838-92d3-87e17dcd3cbc")
+		)
+		(pin "1"
+			(uuid "c28b7131-228d-491a-b6ee-afa5e09dd131")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "C486")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 231.14 148.59 90)
 		(unit 1)
@@ -21503,7 +25305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100RL_C106232.pdf"
 			(at 231.14 148.59 0)
 			(effects
 				(font
@@ -21549,6 +25351,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 231.14 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 231.14 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 231.14 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100RL"
 			(at 231.14 148.59 0)
 			(effects
 				(font
@@ -21738,7 +25567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205261600_FOSAN-SS54_C3014014.pdf"
 			(at 139.7 109.22 0)
 			(effects
 				(font
@@ -21784,6 +25613,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 139.7 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 139.7 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 139.7 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SS54"
 			(at 139.7 109.22 0)
 			(effects
 				(font
@@ -21897,6 +25753,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "TL431DBZ"
+			(at 154.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 154.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 154.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "c9033286-aa7b-44f7-b26d-ebfecc487b10")
 		)
@@ -21949,7 +25832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 392.43 151.13 0)
 			(effects
 				(font
@@ -21995,6 +25878,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 392.43 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 392.43 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 392.43 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 392.43 151.13 0)
 			(effects
 				(font
@@ -22052,7 +25962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 392.43 113.03 0)
 			(effects
 				(font
@@ -22098,6 +26008,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 392.43 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 392.43 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 392.43 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 392.43 113.03 0)
 			(effects
 				(font
@@ -22201,6 +26138,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 364.49 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 364.49 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 364.49 184.15 0)
 			(effects
 				(font
@@ -22378,6 +26333,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 496.57 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 496.57 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0ba6b995-9033-4514-b185-ec62a59fffe0")
 		)
@@ -22388,6 +26361,72 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "C454")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 431.8 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8bcd78dd-577b-4f87-9fb2-d42e4ef93409")
+		(property "Reference" "#PWR0201"
+			(at 431.8 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 431.8 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 431.8 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 431.8 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 431.8 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f591c13-f106-4e54-8cca-c7d78a89256f")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -22494,7 +26533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 519.43 226.06 0)
 			(effects
 				(font
@@ -22540,6 +26579,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 519.43 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 519.43 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 519.43 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 519.43 226.06 0)
 			(effects
 				(font
@@ -22597,7 +26663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 502.92 189.23 0)
 			(effects
 				(font
@@ -22643,6 +26709,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 502.92 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 502.92 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 502.92 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 502.92 189.23 0)
 			(effects
 				(font
@@ -22700,7 +26793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 509.27 226.06 0)
 			(effects
 				(font
@@ -22746,6 +26839,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 509.27 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 509.27 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 509.27 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 509.27 226.06 0)
 			(effects
 				(font
@@ -22803,7 +26923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 394.97 298.45 0)
 			(effects
 				(font
@@ -22857,6 +26977,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 394.97 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 394.97 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 394.97 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7cbb1554-b0d7-413c-a5c8-88466cfbc386")
 		)
@@ -22867,6 +27014,136 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "C439")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 518.16 115.57 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9233baef-ebe7-43d2-bf6f-a8ce351e3363")
+		(property "Reference" "C488"
+			(at 519.43 111.76 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "22uF/10V"
+			(at 519.43 120.65 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+			(at 517.1948 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+			(at 518.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 518.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 518.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 518.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 518.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 518.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 518.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 518.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 518.16 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ab791b12-9f43-4784-9bb3-330f7dea610f")
+		)
+		(pin "1"
+			(uuid "12de9019-cbc2-40ac-85bb-a72de9bede7f")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "C488")
 					(unit 1)
 				)
 			)
@@ -22906,7 +27183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 372.11 151.13 0)
 			(effects
 				(font
@@ -22952,6 +27229,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 372.11 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 372.11 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 372.11 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 372.11 151.13 0)
 			(effects
 				(font
@@ -23009,7 +27313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0722KL_C82868.pdf"
 			(at 490.22 266.7 0)
 			(effects
 				(font
@@ -23055,6 +27359,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 490.22 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 490.22 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 490.22 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0722KL"
 			(at 490.22 266.7 0)
 			(effects
 				(font
@@ -23112,7 +27443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 251.46 154.94 0)
 			(effects
 				(font
@@ -23158,6 +27489,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 251.46 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 251.46 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 251.46 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 251.46 154.94 0)
 			(effects
 				(font
@@ -23269,6 +27627,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 497.84 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 497.84 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "516bf5ff-bed5-467c-8174-669f7474a702")
 		)
@@ -23318,7 +27694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 384.81 261.62 0)
 			(effects
 				(font
@@ -23364,6 +27740,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 384.81 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 384.81 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 384.81 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 384.81 261.62 0)
 			(effects
 				(font
@@ -23488,7 +27891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 350.52 254 0)
 			(effects
 				(font
@@ -23534,6 +27937,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 350.52 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 350.52 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 350.52 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
 			(at 350.52 254 0)
 			(effects
 				(font
@@ -23591,7 +28021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 518.16 189.23 0)
 			(effects
 				(font
@@ -23637,6 +28067,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 518.16 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 518.16 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 518.16 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 518.16 189.23 0)
 			(effects
 				(font
@@ -23694,7 +28151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0710KL_C60490.pdf"
 			(at 142.24 57.15 0)
 			(effects
 				(font
@@ -23740,6 +28197,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 142.24 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 142.24 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 142.24 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0710KL"
 			(at 142.24 57.15 0)
 			(effects
 				(font
@@ -23800,7 +28284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Yongyu-Photoelectric-SZYY0603YG_C434423.pdf"
 			(at 251.46 187.96 0)
 			(effects
 				(font
@@ -23846,6 +28330,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 251.46 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 251.46 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 251.46 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SZYY0603YG"
 			(at 251.46 187.96 0)
 			(effects
 				(font
@@ -23903,7 +28414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 392.43 187.96 0)
 			(effects
 				(font
@@ -23949,6 +28460,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 392.43 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 392.43 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 392.43 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 392.43 187.96 0)
 			(effects
 				(font
@@ -24009,7 +28547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Yongyu-Photoelectric-SZYY0603YG_C434423.pdf"
 			(at 264.16 48.26 0)
 			(effects
 				(font
@@ -24055,6 +28593,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 264.16 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 264.16 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 264.16 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SZYY0603YG"
 			(at 264.16 48.26 0)
 			(effects
 				(font
@@ -24146,7 +28711,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 415.29 143.51 0)
+		(at 403.86 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24155,7 +28720,7 @@
 		(fields_autoplaced yes)
 		(uuid "a56e91ca-e8e8-4344-aae6-fa6d6b6e9fe4")
 		(property "Reference" "#PWR0902"
-			(at 415.29 147.32 0)
+			(at 403.86 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24164,7 +28729,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 415.29 138.43 0)
+			(at 403.86 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24172,7 +28737,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 415.29 143.51 0)
+			(at 403.86 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24181,7 +28746,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 415.29 143.51 0)
+			(at 403.86 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24190,7 +28755,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 415.29 143.51 0)
+			(at 403.86 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24244,7 +28809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 473.71 255.27 0)
 			(effects
 				(font
@@ -24290,6 +28855,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 473.71 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 473.71 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 473.71 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 473.71 255.27 0)
 			(effects
 				(font
@@ -24368,6 +28960,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 102.87 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 102.87 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "2.54-1*2"
+			(at 102.87 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "46aa34a0-a44a-454f-bb23-71d8d6ddd70d")
 		)
@@ -24417,7 +29036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 377.19 113.03 0)
 			(effects
 				(font
@@ -24463,6 +29082,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 377.19 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 377.19 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 377.19 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 377.19 113.03 0)
 			(effects
 				(font
@@ -24520,7 +29166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 356.87 147.32 0)
 			(effects
 				(font
@@ -24566,6 +29212,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 356.87 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 356.87 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 356.87 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 356.87 147.32 0)
 			(effects
 				(font
@@ -24663,6 +29336,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 264.16 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 264.16 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 264.16 31.75 0)
 			(effects
 				(font
@@ -24771,6 +29462,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 490.22 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 490.22 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b351784c-0287-47a1-b4b6-9fcf9959034c")
 		)
@@ -24820,7 +29529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 340.36 143.51 0)
 			(effects
 				(font
@@ -24866,6 +29575,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 340.36 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 340.36 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 340.36 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 340.36 143.51 0)
 			(effects
 				(font
@@ -25047,6 +29783,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 327.66 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 327.66 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 327.66 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e91a1ea7-1652-41d1-b702-844b11a9abe1")
 		)
@@ -25108,7 +29871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-072K2L_C114762.pdf"
 			(at 142.24 81.28 0)
 			(effects
 				(font
@@ -25154,6 +29917,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 142.24 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 142.24 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 142.24 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-072K2L"
 			(at 142.24 81.28 0)
 			(effects
 				(font
@@ -25212,7 +30002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 350.52 290.83 0)
 			(effects
 				(font
@@ -25258,6 +30048,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 350.52 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 350.52 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 350.52 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
 			(at 350.52 290.83 0)
 			(effects
 				(font
@@ -25496,6 +30313,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 325.12 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 325.12 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 325.12 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 325.12 182.88 0)
 			(effects
 				(font
@@ -25754,6 +30598,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 326.39 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 326.39 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 326.39 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ee212d58-6e13-4fdf-a603-19b91f34e880")
 		)
@@ -25815,7 +30686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 504.19 226.06 0)
 			(effects
 				(font
@@ -25861,6 +30732,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 504.19 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 504.19 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 504.19 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 504.19 226.06 0)
 			(effects
 				(font
@@ -25977,6 +30875,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "NDS7002A"
+			(at 248.92 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 248.92 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 248.92 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce18d607-899f-40fa-a623-df528793bf0a")
 		)
@@ -25990,6 +30915,217 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "Q8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Regulator_Switching:LM2734X")
+		(at 455.93 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b3564a27-379b-4fe2-8313-4501980850bc")
+		(property "Reference" "U480"
+			(at 455.93 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SY8253ADC"
+			(at 455.93 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:TSOT-23-6"
+			(at 456.565 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20180625/C93736_E75EC6FD4320D65590D2D5BF0D8B8959.pdf"
+			(at 453.39 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 455.93 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
+			(at 455.93 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 455.93 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 455.93 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 455.93 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 455.93 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 455.93 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 455.93 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "305456f9-20c9-45df-bdc0-c849139a48dc")
+		)
+		(pin "6"
+			(uuid "67f03372-77ee-4815-936b-7bc38c230182")
+		)
+		(pin "3"
+			(uuid "bca41ea0-cd13-4f65-9ea2-6fdb819ce126")
+		)
+		(pin "5"
+			(uuid "1da103e2-b9f7-4047-bb82-04e4ef0b3d8d")
+		)
+		(pin "2"
+			(uuid "26e0cf9b-7da8-4b18-816e-e3cdc5a4cfaa")
+		)
+		(pin "4"
+			(uuid "a7eac0e8-d85b-4b77-b942-27b5351f5cd4")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "U480")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 487.68 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b565eac1-46e5-49ed-b810-614323f67ccf")
+		(property "Reference" "#PWR0199"
+			(at 487.68 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 487.68 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 487.68 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 487.68 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 487.68 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c55c5e50-8271-4e79-b3ee-bff7e51a4a51")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "#PWR0199")
 					(unit 1)
 				)
 			)
@@ -26085,6 +31221,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 127 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 127 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e6f282e-ed55-406b-9e96-fba04b329679")
 		)
@@ -26134,7 +31288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 374.65 298.45 0)
 			(effects
 				(font
@@ -26180,6 +31334,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 374.65 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 374.65 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 374.65 298.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 374.65 298.45 0)
 			(effects
 				(font
@@ -26237,7 +31418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 342.9 290.83 0)
 			(effects
 				(font
@@ -26283,6 +31464,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 342.9 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 342.9 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 342.9 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 342.9 290.83 0)
 			(effects
 				(font
@@ -26406,7 +31614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 513.08 189.23 0)
 			(effects
 				(font
@@ -26452,6 +31660,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 513.08 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 513.08 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 513.08 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 513.08 189.23 0)
 			(effects
 				(font
@@ -26509,7 +31744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 300.99 153.67 0)
 			(effects
 				(font
@@ -26555,6 +31790,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 300.99 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 300.99 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 300.99 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 300.99 153.67 0)
 			(effects
 				(font
@@ -26612,7 +31874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.pdf"
 			(at 172.72 78.74 0)
 			(effects
 				(font
@@ -26658,6 +31920,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 172.72 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 172.72 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 172.72 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A105KO5NNNC"
 			(at 172.72 78.74 0)
 			(effects
 				(font
@@ -26715,7 +32004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 299.72 116.84 0)
 			(effects
 				(font
@@ -26761,6 +32050,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 299.72 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 299.72 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 299.72 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 299.72 116.84 0)
 			(effects
 				(font
@@ -26818,7 +32134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 523.24 189.23 0)
 			(effects
 				(font
@@ -26864,6 +32180,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 523.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 523.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 523.24 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 523.24 189.23 0)
 			(effects
 				(font
@@ -26921,7 +32264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 488.95 222.25 0)
 			(effects
 				(font
@@ -26975,6 +32318,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 488.95 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 488.95 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
+			(at 488.95 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c602efe8-e7c7-44ca-b077-f0bed6470654")
 		)
@@ -26985,6 +32355,136 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "R451")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 471.17 107.95 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd7f9dd7-4a91-47cc-8612-966221e5902f")
+		(property "Reference" "C483"
+			(at 468.63 101.6 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "100nF/50V"
+			(at 469.9 104.14 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+			(at 467.36 108.9152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
+			(at 471.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 471.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 471.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 471.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 471.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 471.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 471.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 471.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
+			(at 471.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "35c65252-97f5-4eb7-9384-c0ff4c26c6ee")
+		)
+		(pin "1"
+			(uuid "982efa35-3aab-4408-b200-ddfcf68988fc")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "C483")
 					(unit 1)
 				)
 			)
@@ -27024,7 +32524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 356.87 184.15 0)
 			(effects
 				(font
@@ -27070,6 +32570,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 356.87 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 356.87 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 356.87 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 356.87 184.15 0)
 			(effects
 				(font
@@ -27127,7 +32654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205261600_FOSAN-SS54_C3014014.pdf"
 			(at 139.7 113.03 0)
 			(effects
 				(font
@@ -27173,6 +32700,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 139.7 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 139.7 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 139.7 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SS54"
 			(at 139.7 113.03 0)
 			(effects
 				(font
@@ -27230,7 +32784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 210.82 53.34 0)
 			(effects
 				(font
@@ -27284,6 +32838,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 210.82 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 210.82 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
+			(at 210.82 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c225bec-0888-4684-abee-01e75e992c7e")
 		)
@@ -27294,6 +32875,136 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "R45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 426.72 119.38 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bf18884b-020c-4624-8a08-a3f65f357c99")
+		(property "Reference" "C481"
+			(at 427.99 115.57 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "22uF/10V"
+			(at 427.99 124.46 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+			(at 425.7548 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+			(at 426.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 426.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 426.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 426.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 426.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 426.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 426.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 426.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 426.72 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "36e194db-b9cb-472d-b2a6-435ad861c492")
+		)
+		(pin "1"
+			(uuid "ffc22e3a-9b1a-4330-8ac4-e8e4829c05c7")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "C481")
 					(unit 1)
 				)
 			)
@@ -27379,6 +33090,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 490.22 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 490.22 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 490.22 295.91 0)
 			(effects
 				(font
@@ -27493,6 +33222,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 458.47 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 458.47 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 458.47 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac1585bf-ce85-4c4c-8558-718ecc2ecb3e")
 		)
@@ -27554,7 +33310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 471.17 181.61 0)
 			(effects
 				(font
@@ -27600,6 +33356,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 471.17 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 471.17 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 471.17 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 471.17 181.61 0)
 			(effects
 				(font
@@ -27708,6 +33491,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 208.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "NDS7002A"
+			(at 208.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 208.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 208.28 78.74 0)
 			(effects
 				(font
@@ -27888,6 +33698,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 525.78 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 525.78 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "97c32aaa-de38-48c0-8da6-9a9a2984de39")
 		)
@@ -27937,7 +33765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 387.35 151.13 0)
 			(effects
 				(font
@@ -27983,6 +33811,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 387.35 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 387.35 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 387.35 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 387.35 151.13 0)
 			(effects
 				(font
@@ -28040,7 +33895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 359.41 294.64 0)
 			(effects
 				(font
@@ -28086,6 +33941,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 359.41 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 359.41 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 359.41 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 359.41 294.64 0)
 			(effects
 				(font
@@ -28143,7 +34025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 295.91 190.5 0)
 			(effects
 				(font
@@ -28189,6 +34071,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 295.91 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 295.91 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 295.91 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 295.91 190.5 0)
 			(effects
 				(font
@@ -28300,6 +34209,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 510.54 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 510.54 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6b05d5f9-5b5a-4f91-9d16-1420a9218782")
 		)
@@ -28403,6 +34330,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 365.76 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 365.76 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "54ad1572-f4bd-4402-9c73-c89f0cb61740")
 		)
@@ -28452,7 +34397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 508 189.23 0)
 			(effects
 				(font
@@ -28498,6 +34443,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 508 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 508 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 508 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 508 189.23 0)
 			(effects
 				(font
@@ -28555,7 +34527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 295.91 227.33 0)
 			(effects
 				(font
@@ -28601,6 +34573,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 295.91 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 295.91 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 295.91 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 295.91 227.33 0)
 			(effects
 				(font
@@ -28724,7 +34723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 300.99 264.16 0)
 			(effects
 				(font
@@ -28770,6 +34769,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 300.99 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 300.99 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 300.99 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 300.99 264.16 0)
 			(effects
 				(font
@@ -28828,7 +34854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 347.98 180.34 0)
 			(effects
 				(font
@@ -28874,6 +34900,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 347.98 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 347.98 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 347.98 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
 			(at 347.98 180.34 0)
 			(effects
 				(font
@@ -28931,7 +34984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 431.8 228.6 0)
 			(effects
 				(font
@@ -28977,6 +35030,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 431.8 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 431.8 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 431.8 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 431.8 228.6 0)
 			(effects
 				(font
@@ -29155,6 +35235,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 481.33 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 481.33 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77301bd3-9b7c-4925-a2e2-13b63d774cad")
 		)
@@ -29238,6 +35336,137 @@
 	)
 	(symbol
 		(lib_id "Device:L")
+		(at 478.79 107.95 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cef80256-86d1-401b-a7c4-a26fdf88dc25")
+		(property "Reference" "L481"
+			(at 478.79 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2uH/4.3A"
+			(at 478.79 105.41 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:L_Sunlord_SWPA4020S"
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
+			(at 478.79 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fa275b66-2f98-457f-87ee-49cb59fdc6da")
+		)
+		(pin "2"
+			(uuid "1bd8ba28-4dd3-414c-b5ff-2994363b6d2a")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "L481")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L")
 		(at 347.98 143.51 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29271,7 +35500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 347.98 143.51 0)
 			(effects
 				(font
@@ -29317,6 +35546,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 347.98 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 347.98 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 347.98 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
 			(at 347.98 143.51 0)
 			(effects
 				(font
@@ -29374,7 +35630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0721K5L_C185442.pdf"
 			(at 162.56 64.77 0)
 			(effects
 				(font
@@ -29420,6 +35676,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 162.56 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 162.56 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 162.56 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0721K5L"
 			(at 162.56 64.77 0)
 			(effects
 				(font
@@ -29477,7 +35760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 431.8 265.43 0)
 			(effects
 				(font
@@ -29523,6 +35806,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 431.8 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 431.8 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 431.8 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 431.8 265.43 0)
 			(effects
 				(font
@@ -29581,7 +35891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 347.98 105.41 0)
 			(effects
 				(font
@@ -29627,6 +35937,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 347.98 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 347.98 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 347.98 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "WPN4020H2R2MT"
 			(at 347.98 105.41 0)
 			(effects
 				(font
@@ -29718,7 +36055,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 415.29 107.95 180)
+		(at 403.86 120.65 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29727,7 +36064,7 @@
 		(fields_autoplaced yes)
 		(uuid "d46d31f0-ab18-4967-9130-a6d21174df37")
 		(property "Reference" "#FLG0901"
-			(at 415.29 109.855 0)
+			(at 403.86 122.555 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29736,7 +36073,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 415.29 113.03 0)
+			(at 403.86 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29744,7 +36081,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 415.29 107.95 0)
+			(at 403.86 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29753,7 +36090,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 415.29 107.95 0)
+			(at 403.86 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29762,7 +36099,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 415.29 107.95 0)
+			(at 403.86 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29816,7 +36153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 372.11 113.03 0)
 			(effects
 				(font
@@ -29862,6 +36199,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 372.11 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 372.11 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 372.11 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 372.11 113.03 0)
 			(effects
 				(font
@@ -29919,7 +36283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 295.91 264.16 0)
 			(effects
 				(font
@@ -29973,6 +36337,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 295.91 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 295.91 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 295.91 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "df1e54eb-c50d-4895-891d-584eaf3ddbd9")
 		)
@@ -29983,6 +36374,136 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "C421")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 502.92 115.57 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d5a16803-51d6-407b-a8d4-6e0983111058")
+		(property "Reference" "C485"
+			(at 504.19 111.76 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "22uF/10V"
+			(at 504.19 120.65 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+			(at 501.9548 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+			(at 502.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 502.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 502.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 502.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 502.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 502.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 502.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 502.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 502.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2cc2d47e-b2c8-479b-9349-385e6ac16fe8")
+		)
+		(pin "1"
+			(uuid "4956a2e3-682c-4a39-8653-a54fa3792ab7")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "C485")
 					(unit 1)
 				)
 			)
@@ -30022,7 +36543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 426.72 265.43 0)
 			(effects
 				(font
@@ -30076,6 +36597,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 426.72 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 426.72 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 426.72 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "81013ad4-812b-44d5-b60d-b06e00dfd6d6")
 		)
@@ -30086,6 +36634,127 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "C461")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 495.3 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(uuid "d62fb937-8ee1-4025-9c9b-45cd51aa0d58")
+		(property "Reference" "C484"
+			(at 495.3 119.38 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "12pF/50V"
+			(at 497.84 116.84 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 496.2652 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 495.3 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 495.3 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 495.3 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 495.3 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 495.3 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 495.3 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 495.3 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 495.3 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bd5d8326-bddb-4bc0-95c5-2a36fb5ab264")
+		)
+		(pin "1"
+			(uuid "3480490e-0cfe-4532-9022-754e2582f2af")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "C484")
 					(unit 1)
 				)
 			)
@@ -30191,7 +36860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0710KL_C60490.pdf"
 			(at 154.94 57.15 0)
 			(effects
 				(font
@@ -30237,6 +36906,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 154.94 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 154.94 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 154.94 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0710KL"
 			(at 154.94 57.15 0)
 			(effects
 				(font
@@ -30348,6 +37044,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 520.7 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 520.7 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d34fc223-2179-4172-9f28-ec9824a77042")
 		)
@@ -30358,6 +37072,136 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "C478")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 487.68 111.76 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dae8d812-d6e5-444f-bd83-f97154417a2c")
+		(property "Reference" "R481"
+			(at 481.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "75K/1%"
+			(at 482.6 110.49 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
+			(at 489.458 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0775KL_C137935.pdf"
+			(at 487.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 487.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
+			(at 487.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 487.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 487.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 487.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 487.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 487.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0775KL"
+			(at 487.68 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8300e8e6-9e9c-4185-b05a-a691ade77a01")
+		)
+		(pin "2"
+			(uuid "55e6158b-9064-461e-8792-f2ec7ef7ec9e")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "R481")
 					(unit 1)
 				)
 			)
@@ -30446,6 +37290,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 455.93 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 455.93 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 455.93 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 455.93 184.15 0)
 			(effects
 				(font
@@ -30583,7 +37454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100RL_C106232.pdf"
 			(at 66.04 288.29 0)
 			(effects
 				(font
@@ -30629,6 +37500,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 66.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 66.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 66.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100RL"
 			(at 66.04 288.29 0)
 			(effects
 				(font
@@ -30754,7 +37652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2108131930_TECH-PUBLIC-ESD5V0B03-1006_C521894.pdf"
 			(at 77.47 295.91 0)
 			(effects
 				(font
@@ -30800,6 +37698,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 77.47 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 77.47 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 77.47 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "ESD5V0B03-1006"
 			(at 77.47 295.91 0)
 			(effects
 				(font
@@ -30980,6 +37905,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 325.12 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 325.12 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 325.12 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e860666-1cba-473a-897c-1a8efb7f5a2d")
 		)
@@ -31002,6 +37954,103 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "U15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 445.77 133.35 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e37a0790-229c-407a-b459-366e4924ee8f")
+		(property "Reference" "J481"
+			(at 447.04 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 447.04 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 445.77 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 445.77 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 445.77 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 445.77 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 445.77 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "2.54-1*2"
+			(at 445.77 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "41dcfbe4-c6bc-4fb4-a0da-da300421a992")
+		)
+		(pin "1"
+			(uuid "1d969cf4-7298-4528-8f84-3c9e998e7f85")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "J481")
 					(unit 1)
 				)
 			)
@@ -31041,7 +38090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 382.27 113.03 0)
 			(effects
 				(font
@@ -31087,6 +38136,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 382.27 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 382.27 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 382.27 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 382.27 113.03 0)
 			(effects
 				(font
@@ -31144,7 +38220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0721K5L_C185442.pdf"
 			(at 167.64 78.74 0)
 			(effects
 				(font
@@ -31190,6 +38266,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 167.64 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 167.64 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 167.64 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0721K5L"
 			(at 167.64 78.74 0)
 			(effects
 				(font
@@ -31314,7 +38417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 514.35 226.06 0)
 			(effects
 				(font
@@ -31360,6 +38463,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 514.35 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 514.35 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 514.35 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 514.35 226.06 0)
 			(effects
 				(font
@@ -31457,6 +38587,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 222.25 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 222.25 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 222.25 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "2.54-1*3"
 			(at 222.25 148.59 0)
 			(effects
 				(font
@@ -31583,7 +38740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL05A105KO5NNNC_C29266.pdf"
 			(at 127 295.91 0)
 			(effects
 				(font
@@ -31629,6 +38786,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 127 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 127 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 127 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A105KO5NNNC"
 			(at 127 295.91 0)
 			(effects
 				(font
@@ -31735,6 +38919,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 457.2 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SY8253ADC"
+			(at 457.2 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 457.2 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 457.2 220.98 0)
 			(effects
 				(font
@@ -31928,6 +39139,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 458.47 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 458.47 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e073ac94-999f-4863-9537-8a7824985d45")
 		)
@@ -31950,6 +39179,107 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "U470")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 415.29 50.8 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f408f1e0-816b-4d4c-a04f-acaa95ca85dc")
+		(property "Reference" "J82"
+			(at 414.02 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04"
+			(at 414.02 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_TE-Connectivity:TE_MATE-N-LOK_350211-1_1x04_P5.08mm_Vertical"
+			(at 415.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/de/product-770997-1.datasheet.pdf"
+			(at 415.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 415.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "770997-1"
+			(at 415.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 415.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 415.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bdbc6476-0be6-4e3d-9317-460b2fade46c")
+		)
+		(pin "2"
+			(uuid "b617b660-5020-4f1b-84a1-3715cba3390a")
+		)
+		(pin "3"
+			(uuid "e89a4cb1-28a4-4f55-b4af-a98a06ffb379")
+		)
+		(pin "4"
+			(uuid "b4ac132d-f775-487d-8627-09f78255f0ca")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "J82")
 					(unit 1)
 				)
 			)
@@ -31989,7 +39319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 294.64 116.84 0)
 			(effects
 				(font
@@ -32043,6 +39373,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 294.64 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 294.64 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
+			(at 294.64 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e9685467-9662-4d86-9002-022006015741")
 		)
@@ -32053,6 +39410,72 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
 					(reference "C64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12VA")
+		(at 417.83 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5b028d4-cf65-4493-918b-4d58d58a503f")
+		(property "Reference" "#PWR0203"
+			(at 417.83 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12VA"
+			(at 417.83 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 417.83 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 417.83 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 417.83 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d7687d5d-e7d7-4c3c-a8e3-14873874a9de")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "#PWR0203")
 					(unit 1)
 				)
 			)
@@ -32092,7 +39515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 295.91 153.67 0)
 			(effects
 				(font
@@ -32138,6 +39561,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 295.91 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 295.91 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 295.91 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 295.91 153.67 0)
 			(effects
 				(font
@@ -32249,6 +39699,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 367.03 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 367.03 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "20513274-3e6e-4fe2-a074-e609573b77ff")
 		)
@@ -32298,7 +39766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 341.63 217.17 0)
 			(effects
 				(font
@@ -32344,6 +39812,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 341.63 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 341.63 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 341.63 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 341.63 217.17 0)
 			(effects
 				(font
@@ -32401,7 +39896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0722KL_C82868.pdf"
 			(at 358.14 228.6 0)
 			(effects
 				(font
@@ -32447,6 +39942,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 358.14 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 358.14 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 358.14 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0722KL"
 			(at 358.14 228.6 0)
 			(effects
 				(font
@@ -32506,7 +40028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-072K2L_C114762.pdf"
 			(at 251.46 180.34 0)
 			(effects
 				(font
@@ -32552,6 +40074,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 251.46 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 251.46 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 251.46 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-072K2L"
 			(at 251.46 180.34 0)
 			(effects
 				(font
@@ -32609,7 +40158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 490.22 259.08 0)
 			(effects
 				(font
@@ -32655,6 +40204,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 490.22 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 490.22 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 490.22 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 490.22 259.08 0)
 			(effects
 				(font
@@ -32712,7 +40288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 378.46 224.79 0)
 			(effects
 				(font
@@ -32758,6 +40334,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 378.46 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 378.46 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 378.46 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 378.46 224.79 0)
 			(effects
 				(font
@@ -32881,7 +40484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 373.38 224.79 0)
 			(effects
 				(font
@@ -32927,6 +40530,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 373.38 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 373.38 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 373.38 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 373.38 224.79 0)
 			(effects
 				(font
@@ -33024,6 +40654,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 392.43 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 392.43 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 392.43 105.41 0)
 			(effects
 				(font

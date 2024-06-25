@@ -10437,7 +10437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2012102315_LOTES-ADDR0069-P009A_C962126.pdf"
 			(at 311.15 180.34 0)
 			(effects
 				(font
@@ -10474,6 +10474,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 311.15 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 311.15 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 311.15 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "ADDR0069-P009A"
 			(at 311.15 190.5 0)
 			(effects
 				(font
@@ -11308,7 +11335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0715RL_C138052.pdf"
 			(at 455.93 234.95 0)
 			(effects
 				(font
@@ -11318,6 +11345,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 455.93 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 455.93 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 455.93 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0715RL"
 			(at 455.93 234.95 0)
 			(effects
 				(font
@@ -11375,7 +11429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0715RL_C138052.pdf"
 			(at 455.93 247.65 0)
 			(effects
 				(font
@@ -11385,6 +11439,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 455.93 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 455.93 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 455.93 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0715RL"
 			(at 455.93 247.65 0)
 			(effects
 				(font
@@ -11442,7 +11523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07120KL_C93945.pdf"
 			(at 455.93 215.9 0)
 			(effects
 				(font
@@ -11452,6 +11533,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 455.93 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 455.93 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 455.93 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07120KL"
 			(at 455.93 215.9 0)
 			(effects
 				(font
@@ -11663,6 +11771,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "W25Q128JVSIQ"
+			(at 481.33 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 481.33 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 481.33 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "e3b2e21a-1a0c-4bf4-b44c-615b8585e0d9")
 		)
@@ -11796,7 +11931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
 			(at 455.93 222.25 0)
 			(effects
 				(font
@@ -11806,6 +11941,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 455.93 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 455.93 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 455.93 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" " RMC 0402 0R N"
 			(at 455.93 222.25 0)
 			(effects
 				(font
@@ -11863,7 +12025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-071KL_C106235.pdf"
 			(at 336.55 44.45 0)
 			(effects
 				(font
@@ -11909,6 +12071,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 336.55 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 336.55 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 336.55 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-071KL"
 			(at 336.55 44.45 0)
 			(effects
 				(font
@@ -12035,7 +12224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2309061403_Samsung-Electro-Mechanics-CL05A226MQ5QUNC_C105226.pdf"
 			(at 506.73 231.14 0)
 			(effects
 				(font
@@ -12045,6 +12234,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 506.73 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 506.73 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 506.73 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A226MQ5QUNC"
 			(at 506.73 231.14 0)
 			(effects
 				(font
@@ -12369,7 +12585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1811011928_Walsin-Tech-Corp-0402B104K160CT_C83056.pdf"
 			(at 524.51 231.14 0)
 			(effects
 				(font
@@ -12379,6 +12595,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 524.51 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 524.51 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 524.51 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "0402B104K160CT"
 			(at 524.51 231.14 0)
 			(effects
 				(font
@@ -12503,7 +12746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 257.81 246.38 0)
 			(effects
 				(font
@@ -12549,6 +12792,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 257.81 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 257.81 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 257.81 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 257.81 246.38 0)
 			(effects
 				(font
@@ -12654,6 +12924,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 419.1 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 419.1 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5ba3a08e-19ca-4859-bf0e-6d878dd97f08")
 		)
@@ -12716,6 +13004,33 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 378.46 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 378.46 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 378.46 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "2.54-1*2"
 			(at 378.46 273.05 0)
 			(effects
 				(font
@@ -12955,6 +13270,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 406.4 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 406.4 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "50cfdd9a-df9b-4a9d-a4b7-43006b67370b")
 		)
@@ -13004,7 +13337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0715RL_C138052.pdf"
 			(at 455.93 241.3 0)
 			(effects
 				(font
@@ -13014,6 +13347,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 455.93 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 455.93 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 455.93 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0715RL"
 			(at 455.93 241.3 0)
 			(effects
 				(font
@@ -13071,7 +13431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 257.81 284.48 0)
 			(effects
 				(font
@@ -13117,6 +13477,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 257.81 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 257.81 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 257.81 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-07100KL"
 			(at 257.81 284.48 0)
 			(effects
 				(font
@@ -13220,6 +13607,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 215.9 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 215.9 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "2.54-1*3"
+			(at 215.9 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "50a5453f-82dd-4dcc-b925-46092d79f43e")
 		)
@@ -13272,7 +13686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0715RL_C138052.pdf"
 			(at 455.93 254 0)
 			(effects
 				(font
@@ -13282,6 +13696,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 455.93 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 455.93 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 455.93 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0715RL"
 			(at 455.93 254 0)
 			(effects
 				(font
@@ -13341,7 +13782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://content.harwin.com/m/8aa8c741728fa9cb/original/DRG-02355-Technical-Drawing-Datasheet-S8411R-pdf.pdf"
 			(at 348.996 44.45 90)
 			(effects
 				(font
@@ -13387,6 +13828,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 350.52 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 350.52 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 350.52 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "S8411-45R"
 			(at 350.52 44.45 0)
 			(effects
 				(font
@@ -13492,6 +13960,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 414.02 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 414.02 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72b06b27-6b76-41ed-86f5-8ca1971603e6")
 		)
@@ -13538,7 +14024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0715RL_C138052.pdf"
 			(at 455.93 228.6 0)
 			(effects
 				(font
@@ -13548,6 +14034,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 455.93 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 455.93 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 455.93 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0715RL"
 			(at 455.93 228.6 0)
 			(effects
 				(font
@@ -13738,7 +14251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2004100909_WILLSEMI-Will-Semicon-RB521C30-2-TR_C239637.pdf"
 			(at 444.5 203.2 0)
 			(effects
 				(font
@@ -13748,6 +14261,33 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 444.5 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 444.5 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 444.5 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RB521C30-2/TR"
 			(at 444.5 203.2 0)
 			(effects
 				(font
@@ -13939,7 +14479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0710KL_C60490.pdf"
 			(at 373.38 262.89 0)
 			(effects
 				(font
@@ -13985,6 +14525,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 373.38 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 373.38 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 373.38 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-0710KL"
 			(at 373.38 262.89 0)
 			(effects
 				(font
@@ -14082,6 +14649,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 439.42 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 439.42 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 439.42 299.72 0)
 			(effects
 				(font

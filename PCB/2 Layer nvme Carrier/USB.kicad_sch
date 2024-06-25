@@ -3822,7 +3822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2108131930_TECH-PUBLIC-ESD5V0B03-1006_C521894.pdf"
 			(at 173.99 254 0)
 			(effects
 				(font
@@ -3868,6 +3868,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "ESD5V0B03-1006"
 			(at 173.99 254 0)
 			(effects
 				(font
@@ -3925,7 +3952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2305121423_BHFUSE-BSMD0805-100-6V_C883112.pdf"
 			(at 309.88 152.4 0)
 			(effects
 				(font
@@ -3971,6 +3998,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 309.88 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 309.88 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 309.88 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "BSMD0805-100-6V"
 			(at 309.88 152.4 0)
 			(effects
 				(font
@@ -4148,6 +4202,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.#" "ULC0524P"
+			(at 287.02 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 287.02 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 287.02 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "46a8e222-3594-4480-b028-860627997657")
 		)
@@ -4221,7 +4302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2305121423_BHFUSE-BSMD0805-100-6V_C883112.pdf"
 			(at 309.88 85.09 0)
 			(effects
 				(font
@@ -4267,6 +4348,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 309.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 309.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 309.88 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "BSMD0805-100-6V"
 			(at 309.88 85.09 0)
 			(effects
 				(font
@@ -4393,7 +4501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2108131930_TECH-PUBLIC-ESD5V0B03-1006_C521894.pdf"
 			(at 298.45 105.41 0)
 			(effects
 				(font
@@ -4439,6 +4547,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 298.45 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 298.45 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 298.45 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "ESD5V0B03-1006"
 			(at 298.45 105.41 0)
 			(effects
 				(font
@@ -4496,7 +4631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2305121423_BHFUSE-BSMD0805-100-6V_C883112.pdf"
 			(at 309.88 154.94 0)
 			(effects
 				(font
@@ -4542,6 +4677,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 309.88 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 309.88 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 309.88 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "BSMD0805-100-6V"
 			(at 309.88 154.94 0)
 			(effects
 				(font
@@ -4657,7 +4819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB3_A_Molex_48393-001"
+		(property "Footprint" "Connector_USB:USB3_A_Receptacle_Wuerth_692122030100"
 			(at 322.58 267.97 0)
 			(effects
 				(font
@@ -4666,7 +4828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2306021057_Wurth-Elektronik-692122030100_C5355286.pdf"
 			(at 322.58 267.97 0)
 			(effects
 				(font
@@ -4676,6 +4838,33 @@
 			)
 		)
 		(property "Description" "USB 3.0 A connector"
+			(at 326.39 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 326.39 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 326.39 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "692122030100"
 			(at 326.39 270.51 0)
 			(effects
 				(font
@@ -4824,7 +5013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 293.37 152.4 0)
 			(effects
 				(font
@@ -4870,6 +5059,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 293.37 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 293.37 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 293.37 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 293.37 152.4 0)
 			(effects
 				(font
@@ -5062,7 +5278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/670/uj2_adh_th-1779175.pdf"
 			(at 323.85 161.29 0)
 			(effects
 				(font
@@ -5108,6 +5324,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 328.93 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 328.93 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 328.93 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "UJ2-ADH-W1-TH"
 			(at 328.93 162.56 0)
 			(effects
 				(font
@@ -5186,7 +5429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 256.54 280.67 0)
 			(effects
 				(font
@@ -5232,6 +5475,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 256.54 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 256.54 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 256.54 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 256.54 280.67 0)
 			(effects
 				(font
@@ -5289,7 +5559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 293.37 260.35 0)
 			(effects
 				(font
@@ -5335,6 +5605,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 293.37 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 293.37 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 293.37 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 293.37 260.35 0)
 			(effects
 				(font
@@ -5392,7 +5689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 293.37 85.09 0)
 			(effects
 				(font
@@ -5438,6 +5735,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 293.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 293.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 293.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL10A226MP8NUNE"
 			(at 293.37 85.09 0)
 			(effects
 				(font
@@ -5495,7 +5819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 256.54 283.21 0)
 			(effects
 				(font
@@ -5541,6 +5865,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 256.54 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 256.54 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 256.54 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 256.54 283.21 0)
 			(effects
 				(font
@@ -5644,6 +5995,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 248.92 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "ULC0524P"
+			(at 248.92 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 248.92 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 248.92 231.14 0)
 			(effects
 				(font
@@ -5927,7 +6305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2108131930_TECH-PUBLIC-ESD5V0B03-1006_C521894.pdf"
 			(at 163.83 254 0)
 			(effects
 				(font
@@ -5973,6 +6351,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 163.83 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 163.83 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 163.83 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "ESD5V0B03-1006"
 			(at 163.83 254 0)
 			(effects
 				(font
@@ -6097,7 +6502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2305121425_BHFUSE-BSMD0805L-200_C2757931.pdf"
 			(at 309.88 260.35 0)
 			(effects
 				(font
@@ -6143,6 +6548,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 309.88 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 309.88 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 309.88 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "BSMD0805L-200"
 			(at 309.88 260.35 0)
 			(effects
 				(font
@@ -6203,7 +6635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2108131930_TECH-PUBLIC-ESD5V0B03-1006_C521894.pdf"
 			(at 288.29 105.41 0)
 			(effects
 				(font
@@ -6249,6 +6681,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 288.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 288.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 288.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "ESD5V0B03-1006"
 			(at 288.29 105.41 0)
 			(effects
 				(font
@@ -6307,7 +6766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/105/105057/1050570001_sd.pdf"
 			(at 323.85 91.44 0)
 			(effects
 				(font
@@ -6317,6 +6776,33 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 327.66 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 327.66 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 327.66 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "1050570001"
 			(at 327.66 90.17 0)
 			(effects
 				(font

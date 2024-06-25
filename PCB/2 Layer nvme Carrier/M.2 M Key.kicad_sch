@@ -5591,7 +5591,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=155"
+		(property "Datasheet" "https://www.te.com/de/product-1-2199230-5.datasheet.pdf"
 			(at 127 91.44 0)
 			(effects
 				(font
@@ -5637,6 +5637,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 127 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "1-2199230-5"
+			(at 127 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 127 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 127 118.11 0)
 			(effects
 				(font
@@ -5951,6 +5978,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 161.29 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 161.29 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5acbef99-2cc1-4796-8a15-bfc7a0db9a1f")
 		)
@@ -6067,7 +6112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 492.76 217.17 0)
 			(effects
 				(font
@@ -6113,6 +6158,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 492.76 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 492.76 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 492.76 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 492.76 217.17 0)
 			(effects
 				(font
@@ -6170,7 +6242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 133.35 63.5 0)
 			(effects
 				(font
@@ -6216,6 +6288,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 133.35 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 133.35 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 133.35 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 133.35 63.5 0)
 			(effects
 				(font
@@ -6323,7 +6422,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 534.67 231.14 0)
 			(effects
 				(font
@@ -6386,6 +6485,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 532.13 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 532.13 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80f08853-2806-486e-bb3a-b1df2636a33f")
 		)
@@ -6432,7 +6549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 303.53 234.95 0)
 			(effects
 				(font
@@ -6486,6 +6603,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 303.53 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 303.53 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
+			(at 303.53 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3ce142e4-3d6a-4835-814c-be40faf5a9e5")
 		)
@@ -6520,7 +6664,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 535.94 95.2499 0)
 			(effects
 				(font
@@ -6583,6 +6727,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 533.4 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 533.4 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d963142-1920-4170-9e96-445d0350a249")
 		)
@@ -6614,7 +6776,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 344.17 242.5699 0)
 			(effects
 				(font
@@ -6669,6 +6831,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 341.63 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 341.63 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 341.63 242.57 0)
 			(effects
 				(font
@@ -6924,7 +7104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-072K2L_C114762.pdf"
 			(at 336.55 115.57 0)
 			(effects
 				(font
@@ -6970,6 +7150,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 336.55 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 336.55 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 336.55 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-072K2L"
 			(at 336.55 115.57 0)
 			(effects
 				(font
@@ -7029,7 +7236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 238.76 86.36 0)
 			(effects
 				(font
@@ -7075,6 +7282,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 238.76 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 238.76 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 238.76 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 238.76 86.36 0)
 			(effects
 				(font
@@ -7138,7 +7372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 492.76 223.52 0)
 			(effects
 				(font
@@ -7184,6 +7418,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 492.76 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 492.76 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 492.76 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 492.76 223.52 0)
 			(effects
 				(font
@@ -7243,7 +7504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 66.04 255.27 0)
 			(effects
 				(font
@@ -7289,6 +7550,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 66.04 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 66.04 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 66.04 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 66.04 255.27 0)
 			(effects
 				(font
@@ -7346,7 +7634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 495.3 57.15 0)
 			(effects
 				(font
@@ -7392,6 +7680,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 495.3 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 495.3 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 495.3 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 495.3 57.15 0)
 			(effects
 				(font
@@ -7650,7 +7965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=155"
+		(property "Datasheet" "https://www.te.com/de/product-1-2199230-5.datasheet.pdf"
 			(at 486.41 264.16 0)
 			(effects
 				(font
@@ -7696,6 +8011,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 486.41 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "1-2199230-5"
+			(at 486.41 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 486.41 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 486.41 290.83 0)
 			(effects
 				(font
@@ -7954,7 +8296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 304.8 55.88 0)
 			(effects
 				(font
@@ -8000,6 +8342,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 304.8 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 304.8 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 304.8 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 304.8 55.88 0)
 			(effects
 				(font
@@ -8060,7 +8429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=155"
+		(property "Datasheet" "https://www.te.com/de/product-1-2199230-5.datasheet.pdf"
 			(at 125.73 259.08 0)
 			(effects
 				(font
@@ -8106,6 +8475,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 125.73 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "1-2199230-5"
+			(at 125.73 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 125.73 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 125.73 285.75 0)
 			(effects
 				(font
@@ -8364,7 +8760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 133.35 44.45 0)
 			(effects
 				(font
@@ -8410,6 +8806,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 133.35 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 133.35 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 133.35 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 133.35 44.45 0)
 			(effects
 				(font
@@ -8535,7 +8958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
 			(at 524.51 146.05 0)
 			(effects
 				(font
@@ -8581,6 +9004,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 524.51 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 524.51 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 524.51 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RMC 0402 0R N"
 			(at 524.51 146.05 0)
 			(effects
 				(font
@@ -8638,7 +9088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 132.08 224.79 0)
 			(effects
 				(font
@@ -8684,6 +9134,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 132.08 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 132.08 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 132.08 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 132.08 224.79 0)
 			(effects
 				(font
@@ -8744,7 +9221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Yongyu-Photoelectric-SZYY0603YG_C434423.pdf"
 			(at 335.28 295.91 0)
 			(effects
 				(font
@@ -8798,6 +9275,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 335.28 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 335.28 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SZYY0603YG"
+			(at 335.28 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f3db4f53-4ab4-4801-9158-be9b17ee1a58")
 		)
@@ -8832,7 +9336,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 344.17 267.9699 0)
 			(effects
 				(font
@@ -8887,6 +9391,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 341.63 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 341.63 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 341.63 267.97 0)
 			(effects
 				(font
@@ -9125,7 +9647,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 171.45 93.9799 0)
 			(effects
 				(font
@@ -9188,6 +9710,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 168.91 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 168.91 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc5ed1b2-b15d-4707-9a4a-730c6df0939c")
 		)
@@ -9237,7 +9777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Yongyu-Photoelectric-SZYY0603YG_C434423.pdf"
 			(at 336.55 123.19 0)
 			(effects
 				(font
@@ -9283,6 +9823,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 336.55 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 336.55 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 336.55 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SZYY0603YG"
 			(at 336.55 123.19 0)
 			(effects
 				(font
@@ -9456,7 +10023,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 344.17 53.34 0)
 			(effects
 				(font
@@ -9519,6 +10086,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 341.63 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 341.63 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad4950bd-3b1d-4ecc-abbf-79fff7d8fa6a")
 		)
@@ -9550,7 +10135,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 534.67 256.5399 0)
 			(effects
 				(font
@@ -9605,6 +10190,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 532.13 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 532.13 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 532.13 256.54 0)
 			(effects
 				(font
@@ -9727,7 +10330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-072K2L_C114762.pdf"
 			(at 163.83 284.48 0)
 			(effects
 				(font
@@ -9773,6 +10376,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 163.83 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 163.83 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 163.83 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-072K2L"
 			(at 163.83 284.48 0)
 			(effects
 				(font
@@ -9898,7 +10528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
 			(at 161.29 313.69 0)
 			(effects
 				(font
@@ -9944,6 +10574,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 161.29 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 161.29 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 161.29 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RMC 0402 0R N"
 			(at 161.29 313.69 0)
 			(effects
 				(font
@@ -10003,7 +10660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
 			(at 332.74 317.5 0)
 			(effects
 				(font
@@ -10049,6 +10706,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 332.74 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 332.74 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 332.74 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RMC 0402 0R N"
 			(at 332.74 317.5 0)
 			(effects
 				(font
@@ -10106,7 +10790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 133.35 50.8 0)
 			(effects
 				(font
@@ -10152,6 +10836,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 133.35 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 133.35 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 133.35 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 133.35 50.8 0)
 			(effects
 				(font
@@ -10407,7 +11118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 303.53 215.9 0)
 			(effects
 				(font
@@ -10453,6 +11164,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 303.53 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 303.53 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 303.53 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 303.53 215.9 0)
 			(effects
 				(font
@@ -10512,7 +11250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-072K2L_C114762.pdf"
 			(at 524.51 289.56 0)
 			(effects
 				(font
@@ -10558,6 +11296,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 524.51 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 524.51 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 524.51 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-072K2L"
 			(at 524.51 289.56 0)
 			(effects
 				(font
@@ -10615,7 +11380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 492.76 236.22 0)
 			(effects
 				(font
@@ -10661,6 +11426,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 492.76 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 492.76 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 492.76 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 492.76 236.22 0)
 			(effects
 				(font
@@ -10850,7 +11642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 304.8 49.53 0)
 			(effects
 				(font
@@ -10896,6 +11688,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 304.8 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 304.8 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 304.8 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 304.8 49.53 0)
 			(effects
 				(font
@@ -10953,7 +11772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 132.08 218.44 0)
 			(effects
 				(font
@@ -10999,6 +11818,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 132.08 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 132.08 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 132.08 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 132.08 218.44 0)
 			(effects
 				(font
@@ -11124,7 +11970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 429.26 85.09 0)
 			(effects
 				(font
@@ -11170,6 +12016,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 429.26 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 429.26 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 429.26 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 429.26 85.09 0)
 			(effects
 				(font
@@ -11278,7 +12151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 172.72 250.1899 0)
 			(effects
 				(font
@@ -11341,6 +12214,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 170.18 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 170.18 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "155822ed-c8dc-4cb0-91ec-da44b51828b4")
 		)
@@ -11390,7 +12281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=155"
+		(property "Datasheet" "https://www.te.com/de/product-1-2199230-5.datasheet.pdf"
 			(at 297.18 262.89 0)
 			(effects
 				(font
@@ -11436,6 +12327,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 297.18 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "1-2199230-5"
+			(at 297.18 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 297.18 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 297.18 289.56 0)
 			(effects
 				(font
@@ -11679,7 +12597,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 534.67 269.2399 0)
 			(effects
 				(font
@@ -11742,6 +12660,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 532.13 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 532.13 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a7087e5-be01-4f12-9c92-5b3b4eba0cb6")
 		)
@@ -11773,7 +12709,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 172.72 237.4899 0)
 			(effects
 				(font
@@ -11836,6 +12772,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 170.18 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 170.18 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d3338a7-aec6-46d0-a1ff-ec5a606e4241")
 		)
@@ -11867,7 +12821,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 534.67 243.8399 0)
 			(effects
 				(font
@@ -11922,6 +12876,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 532.13 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 532.13 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 532.13 243.84 0)
 			(effects
 				(font
@@ -12112,7 +13084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Yongyu-Photoelectric-SZYY0603YG_C434423.pdf"
 			(at 524.51 297.18 0)
 			(effects
 				(font
@@ -12158,6 +13130,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 524.51 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 524.51 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 524.51 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SZYY0603YG"
 			(at 524.51 297.18 0)
 			(effects
 				(font
@@ -12349,7 +13348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 238.76 83.82 0)
 			(effects
 				(font
@@ -12395,6 +13394,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 238.76 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 238.76 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 238.76 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 238.76 83.82 0)
 			(effects
 				(font
@@ -12461,7 +13487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Yongyu-Photoelectric-SZYY0603YG_C434423.pdf"
 			(at 165.1 124.46 0)
 			(effects
 				(font
@@ -12507,6 +13533,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 165.1 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 165.1 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 165.1 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SZYY0603YG"
 			(at 165.1 124.46 0)
 			(effects
 				(font
@@ -12567,7 +13620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Yongyu-Photoelectric-SZYY0603YG_C434423.pdf"
 			(at 527.05 124.46 0)
 			(effects
 				(font
@@ -12613,6 +13666,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 527.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 527.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 527.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SZYY0603YG"
 			(at 527.05 124.46 0)
 			(effects
 				(font
@@ -12721,7 +13801,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 172.72 262.8899 0)
 			(effects
 				(font
@@ -12784,6 +13864,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 170.18 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 170.18 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a004f72-0473-4aaa-8633-9541200d23bd")
 		)
@@ -12815,7 +13913,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 344.17 91.4399 0)
 			(effects
 				(font
@@ -12878,6 +13976,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 341.63 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 341.63 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65edbbcc-27e3-4977-a900-c50a86244cdb")
 		)
@@ -12909,7 +14025,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 171.45 68.5799 0)
 			(effects
 				(font
@@ -12964,6 +14080,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 168.91 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 168.91 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 168.91 68.58 0)
 			(effects
 				(font
@@ -13086,7 +14220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
 			(at 162.56 146.05 0)
 			(effects
 				(font
@@ -13132,6 +14266,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 162.56 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 162.56 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 162.56 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RMC 0402 0R N"
 			(at 162.56 146.05 0)
 			(effects
 				(font
@@ -13191,7 +14352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 237.49 259.08 0)
 			(effects
 				(font
@@ -13237,6 +14398,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 237.49 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 237.49 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 237.49 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 237.49 259.08 0)
 			(effects
 				(font
@@ -13294,7 +14482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 495.3 63.5 0)
 			(effects
 				(font
@@ -13340,6 +14528,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 495.3 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 495.3 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 495.3 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 495.3 63.5 0)
 			(effects
 				(font
@@ -13399,7 +14614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 67.31 85.09 0)
 			(effects
 				(font
@@ -13445,6 +14660,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 67.31 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 67.31 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 67.31 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 67.31 85.09 0)
 			(effects
 				(font
@@ -13702,7 +14944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 426.72 257.81 0)
 			(effects
 				(font
@@ -13756,6 +14998,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 426.72 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 426.72 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
+			(at 426.72 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e2417253-2689-4ad1-baad-32c403d9af62")
 		)
@@ -13789,7 +15058,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 171.45 55.88 0)
 			(effects
 				(font
@@ -13852,6 +15121,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 168.91 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 168.91 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eab352df-5aec-4806-a7fe-6386ad2ac61d")
 		)
@@ -13901,7 +15188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=155"
+		(property "Datasheet" "https://www.te.com/de/product-1-2199230-5.datasheet.pdf"
 			(at 298.45 90.17 0)
 			(effects
 				(font
@@ -13947,6 +15234,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 298.45 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "1-2199230-5"
+			(at 298.45 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 298.45 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 298.45 116.84 0)
 			(effects
 				(font
@@ -14208,7 +15522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=155"
+		(property "Datasheet" "https://www.te.com/de/product-1-2199230-5.datasheet.pdf"
 			(at 488.95 91.44 0)
 			(effects
 				(font
@@ -14254,6 +15568,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 488.95 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "1-2199230-5"
+			(at 488.95 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 488.95 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 488.95 118.11 0)
 			(effects
 				(font
@@ -14514,7 +15855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 67.31 87.63 0)
 			(effects
 				(font
@@ -14560,6 +15901,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 67.31 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 67.31 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 67.31 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 67.31 87.63 0)
 			(effects
 				(font
@@ -14619,7 +15987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-072K2L_C114762.pdf"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -14665,6 +16033,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 165.1 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 165.1 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 165.1 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-072K2L"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -14724,7 +16119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
 			(at 521.97 318.77 0)
 			(effects
 				(font
@@ -14770,6 +16165,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 521.97 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 521.97 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 521.97 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RMC 0402 0R N"
 			(at 521.97 318.77 0)
 			(effects
 				(font
@@ -14829,7 +16251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 426.72 260.35 0)
 			(effects
 				(font
@@ -14875,6 +16297,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 426.72 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 426.72 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 426.72 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 426.72 260.35 0)
 			(effects
 				(font
@@ -14932,7 +16381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 304.8 62.23 0)
 			(effects
 				(font
@@ -14978,6 +16427,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 304.8 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 304.8 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 304.8 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 304.8 62.23 0)
 			(effects
 				(font
@@ -15037,7 +16513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 66.04 252.73 0)
 			(effects
 				(font
@@ -15083,6 +16559,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 66.04 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 66.04 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 66.04 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 66.04 252.73 0)
 			(effects
 				(font
@@ -15339,7 +16842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 132.08 212.09 0)
 			(effects
 				(font
@@ -15393,6 +16896,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 132.08 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 132.08 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
+			(at 132.08 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aec0ce1d-f5b9-46eb-a6b4-d47448445743")
 		)
@@ -15427,7 +16957,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 171.45 81.2799 0)
 			(effects
 				(font
@@ -15490,6 +17020,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 168.91 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 168.91 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac703d3c-2af6-4127-8a5a-4504547fab9e")
 		)
@@ -15520,7 +17068,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 344.17 229.87 0)
 			(effects
 				(font
@@ -15583,6 +17131,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 341.63 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 341.63 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d8c9b0bb-5acd-4d2f-9728-b43c38bd5502")
 		)
@@ -15629,7 +17195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 132.08 231.14 0)
 			(effects
 				(font
@@ -15675,6 +17241,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 132.08 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 132.08 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 132.08 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 132.08 231.14 0)
 			(effects
 				(font
@@ -15800,7 +17393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 237.49 256.54 0)
 			(effects
 				(font
@@ -15854,6 +17447,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 237.49 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 237.49 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
+			(at 237.49 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7e9471e1-ab95-4535-bee1-89cd28201aae")
 		)
@@ -15888,7 +17508,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 344.17 255.2699 0)
 			(effects
 				(font
@@ -15951,6 +17571,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 341.63 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 341.63 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d55ea8d6-6f47-4488-9746-a0ef6ae7150d")
 		)
@@ -15997,7 +17635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 303.53 222.25 0)
 			(effects
 				(font
@@ -16043,6 +17681,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 303.53 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 303.53 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 303.53 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 303.53 222.25 0)
 			(effects
 				(font
@@ -16103,7 +17768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Yongyu-Photoelectric-SZYY0603YG_C434423.pdf"
 			(at 163.83 292.1 0)
 			(effects
 				(font
@@ -16149,6 +17814,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 163.83 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 163.83 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 163.83 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "SZYY0603YG"
 			(at 163.83 292.1 0)
 			(effects
 				(font
@@ -16274,7 +17966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-072K2L_C114762.pdf"
 			(at 527.05 116.84 0)
 			(effects
 				(font
@@ -16320,6 +18012,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 527.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 527.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 527.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-072K2L"
 			(at 527.05 116.84 0)
 			(effects
 				(font
@@ -16377,7 +18096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 303.53 228.6 0)
 			(effects
 				(font
@@ -16423,6 +18142,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 303.53 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 303.53 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 303.53 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 303.53 228.6 0)
 			(effects
 				(font
@@ -16546,7 +18292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 304.8 43.18 0)
 			(effects
 				(font
@@ -16600,6 +18346,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 304.8 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 304.8 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
+			(at 304.8 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "66ba3355-fedd-4b2f-b063-de5ada07b20a")
 		)
@@ -16634,7 +18407,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 344.17 78.7399 0)
 			(effects
 				(font
@@ -16697,6 +18470,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 341.63 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 341.63 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1e795cb-c30c-4472-8c54-f8adcaa9e762")
 		)
@@ -16743,7 +18534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 495.3 44.45 0)
 			(effects
 				(font
@@ -16797,6 +18588,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 495.3 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 495.3 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
+			(at 495.3 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4d84a407-ff00-4aa8-88d0-1a4fe06f713f")
 		)
@@ -16831,7 +18649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 535.94 82.5499 0)
 			(effects
 				(font
@@ -16886,6 +18704,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 533.4 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 533.4 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 533.4 82.55 0)
 			(effects
 				(font
@@ -17057,7 +18893,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 172.72 224.79 0)
 			(effects
 				(font
@@ -17120,6 +18956,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 170.18 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 170.18 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "884d0a53-565d-46fe-972e-32ee1cf19da4")
 		)
@@ -17166,7 +19020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 492.76 229.87 0)
 			(effects
 				(font
@@ -17212,6 +19066,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 492.76 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 492.76 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 492.76 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
 			(at 492.76 229.87 0)
 			(effects
 				(font
@@ -17271,7 +19152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2209081730_Murata-Electronics-GRM155R61H224KE01D_C5159775.pdf"
 			(at 429.26 87.63 0)
 			(effects
 				(font
@@ -17317,6 +19198,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 429.26 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 429.26 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 429.26 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R61H224KE01D"
 			(at 429.26 87.63 0)
 			(effects
 				(font
@@ -17376,7 +19284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-072K2L_C114762.pdf"
 			(at 335.28 288.29 0)
 			(effects
 				(font
@@ -17422,6 +19330,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 335.28 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 335.28 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 335.28 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RC0402FR-072K2L"
 			(at 335.28 288.29 0)
 			(effects
 				(font
@@ -17547,7 +19482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
 			(at 334.01 144.78 0)
 			(effects
 				(font
@@ -17593,6 +19528,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 334.01 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 334.01 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 334.01 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "RMC 0402 0R N"
 			(at 334.01 144.78 0)
 			(effects
 				(font
@@ -17899,7 +19861,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 535.94 57.15 0)
 			(effects
 				(font
@@ -17962,6 +19924,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 533.4 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 533.4 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13df8de6-67b4-4d23-9478-c34d1872e18b")
 		)
@@ -17993,7 +19973,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 344.17 66.0399 0)
 			(effects
 				(font
@@ -18048,6 +20028,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 341.63 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 341.63 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 341.63 66.04 0)
 			(effects
 				(font
@@ -18300,7 +20298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312201433_Samsung-Electro-Mechanics-CL05A106MP5NUNC_C315248.pdf"
 			(at 133.35 57.15 0)
 			(effects
 				(font
@@ -18354,6 +20352,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr.# " ""
+			(at 133.35 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 133.35 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "CL05A106MP5NUNC"
+			(at 133.35 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b0a30cb0-7f4e-45a4-a848-bce1d25ee383")
 		)
@@ -18388,7 +20413,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_M2.5"
 			(at 535.94 69.8499 0)
 			(effects
 				(font
@@ -18443,6 +20468,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 533.4 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 533.4 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
 			(at 533.4 69.85 0)
 			(effects
 				(font
@@ -18563,7 +20606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 495.3 50.8 0)
 			(effects
 				(font
@@ -18609,6 +20652,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 495.3 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.# " ""
+			(at 495.3 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part#" ""
+			(at 495.3 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr.#" "GRM155R71H104KE14D"
 			(at 495.3 50.8 0)
 			(effects
 				(font
