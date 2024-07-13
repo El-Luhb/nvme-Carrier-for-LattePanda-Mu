@@ -6,8 +6,8 @@
 	(paper "A2")
 	(title_block
 		(title "nvme Carrier for LattePanda Mu")
-		(date "2024-05-24")
-		(rev "V1.0.6")
+		(date "2024-07-13")
+		(rev "V1.0")
 	)
 	(lib_symbols
 		(symbol "Device:C"
@@ -2440,15 +2440,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 332.74 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 332.74 167.64 0)
 			(effects
@@ -2458,7 +2449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "RC0402FR-07100RL"
+		(property "MPN" "RC0402FR-07100RL"
 			(at 332.74 167.64 0)
 			(effects
 				(font
@@ -2578,15 +2569,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 332.74 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 332.74 243.84 0)
 			(effects
@@ -2596,7 +2578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "RC0402FR-07100RL"
+		(property "MPN" "RC0402FR-07100RL"
 			(at 332.74 243.84 0)
 			(effects
 				(font
@@ -2707,15 +2689,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 213.36 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
 			(at 213.36 158.75 0)
 			(effects
 				(font
@@ -2848,15 +2821,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 313.69 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 313.69 173.99 0)
 			(effects
@@ -2970,15 +2934,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 226.06 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
 			(at 226.06 165.1 0)
 			(effects
 				(font
@@ -3111,15 +3066,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 341.63 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 341.63 151.13 0)
 			(effects
@@ -3129,7 +3075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "GRM155R71H104KE14D"
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 341.63 151.13 0)
 			(effects
 				(font
@@ -3338,15 +3284,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 391.16 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 391.16 241.3 0)
 			(effects
@@ -3356,7 +3293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "470531000"
+		(property "MPN" "470531000"
 			(at 391.16 241.3 0)
 			(effects
 				(font
@@ -3583,15 +3520,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 365.76 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 365.76 228.6 0)
 			(effects
@@ -3601,7 +3529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "1N5819WS"
+		(property "MPN" "1N5819WS"
 			(at 365.76 228.6 0)
 			(effects
 				(font
@@ -3895,15 +3823,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 341.63 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 341.63 227.33 0)
 			(effects
@@ -3913,7 +3832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "GRM155R71H104KE14D"
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 341.63 227.33 0)
 			(effects
 				(font
@@ -4105,15 +4024,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 302.26 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 302.26 152.4 0)
 			(effects
@@ -4234,15 +4144,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 332.74 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 332.74 238.76 0)
 			(effects
@@ -4252,7 +4153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "RC0402FR-0721K5L"
+		(property "MPN" "RC0402FR-0721K5L"
 			(at 332.74 238.76 0)
 			(effects
 				(font
@@ -4461,25 +4362,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "B4B-PH-K-S-GW"
-			(at 391.16 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
-			(at 391.16 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
+			(at 391.16 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B4B-PH-K-S-GW"
 			(at 391.16 165.1 0)
 			(effects
 				(font
@@ -4705,15 +4597,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 302.26 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 302.26 228.6 0)
 			(effects
@@ -4832,15 +4715,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 332.74 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 332.74 162.56 0)
 			(effects
@@ -4850,7 +4724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "RC0402FR-0721K5L"
+		(property "MPN" "RC0402FR-0721K5L"
 			(at 332.74 162.56 0)
 			(effects
 				(font
@@ -5130,15 +5004,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 226.06 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 226.06 152.4 0)
 			(effects
@@ -5259,15 +5124,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 313.69 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 313.69 250.19 0)
 			(effects
@@ -5277,7 +5133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "RC0402FR-0721K5L"
+		(property "MPN" "RC0402FR-0721K5L"
 			(at 313.69 250.19 0)
 			(effects
 				(font
@@ -5470,15 +5326,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 365.76 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 365.76 152.4 0)
 			(effects
@@ -5488,7 +5335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "1N5819WS"
+		(property "MPN" "1N5819WS"
 			(at 365.76 152.4 0)
 			(effects
 				(font
@@ -5680,15 +5527,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 353.06 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 353.06 228.6 0)
 			(effects
@@ -5698,7 +5536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "RC0402FR-074K7L"
+		(property "MPN" "RC0402FR-074K7L"
 			(at 353.06 228.6 0)
 			(effects
 				(font
@@ -5818,15 +5656,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 353.06 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 353.06 152.4 0)
 			(effects
@@ -5836,7 +5665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "RC0402FR-074K7L"
+		(property "MPN" "RC0402FR-074K7L"
 			(at 353.06 152.4 0)
 			(effects
 				(font
@@ -5947,15 +5776,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 353.06 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
 			(at 353.06 215.9 0)
 			(effects
 				(font

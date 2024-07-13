@@ -6,8 +6,8 @@
 	(paper "A2")
 	(title_block
 		(title "nvme Carrier for LattePanda Mu")
-		(date "2024-05-24")
-		(rev "V1.0.6")
+		(date "2024-07-13")
+		(rev "V1.0")
 	)
 	(lib_symbols
 		(symbol "Connector:USB3_A"
@@ -3876,15 +3876,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 173.99 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 173.99 254 0)
 			(effects
@@ -3894,7 +3885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "ESD5V0B03-1006"
+		(property "MPN" "ESD5V0B03-1006"
 			(at 173.99 254 0)
 			(effects
 				(font
@@ -4006,15 +3997,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 309.88 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 309.88 152.4 0)
 			(effects
@@ -4024,7 +4006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "BSMD0805-100-6V"
+		(property "MPN" "BSMD0805-100-6V"
 			(at 309.88 152.4 0)
 			(effects
 				(font
@@ -4202,25 +4184,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "ULC0524P"
-			(at 287.02 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
-			(at 287.02 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
+			(at 287.02 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ULC0524P"
 			(at 287.02 181.61 0)
 			(effects
 				(font
@@ -4356,15 +4329,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 309.88 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 309.88 85.09 0)
 			(effects
@@ -4374,7 +4338,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "BSMD0805-100-6V"
+		(property "MPN" "BSMD0805-100-6V"
 			(at 309.88 85.09 0)
 			(effects
 				(font
@@ -4555,15 +4519,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 298.45 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 298.45 105.41 0)
 			(effects
@@ -4573,7 +4528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "ESD5V0B03-1006"
+		(property "MPN" "ESD5V0B03-1006"
 			(at 298.45 105.41 0)
 			(effects
 				(font
@@ -4685,15 +4640,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 309.88 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 309.88 154.94 0)
 			(effects
@@ -4703,7 +4649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "BSMD0805-100-6V"
+		(property "MPN" "BSMD0805-100-6V"
 			(at 309.88 154.94 0)
 			(effects
 				(font
@@ -4846,15 +4792,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 326.39 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 326.39 270.51 0)
 			(effects
@@ -4864,7 +4801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "692122030100"
+		(property "MPN" "692122030100"
 			(at 326.39 270.51 0)
 			(effects
 				(font
@@ -5067,15 +5004,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 293.37 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 293.37 152.4 0)
 			(effects
@@ -5085,7 +5013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MP8NUNE"
 			(at 293.37 152.4 0)
 			(effects
 				(font
@@ -5332,15 +5260,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 328.93 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 328.93 162.56 0)
 			(effects
@@ -5350,7 +5269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "UJ2-ADH-W1-TH"
+		(property "MPN" "UJ2-ADH-W1-TH"
 			(at 328.93 162.56 0)
 			(effects
 				(font
@@ -5483,15 +5402,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 256.54 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 256.54 280.67 0)
 			(effects
@@ -5501,7 +5411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "GRM155R71H104KE14D"
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 256.54 280.67 0)
 			(effects
 				(font
@@ -5613,15 +5523,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 293.37 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 293.37 260.35 0)
 			(effects
@@ -5631,7 +5532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MP8NUNE"
 			(at 293.37 260.35 0)
 			(effects
 				(font
@@ -5743,15 +5644,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 293.37 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 293.37 85.09 0)
 			(effects
@@ -5761,7 +5653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MP8NUNE"
 			(at 293.37 85.09 0)
 			(effects
 				(font
@@ -5873,15 +5765,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 256.54 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 256.54 283.21 0)
 			(effects
@@ -5891,7 +5774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "GRM155R71H104KE14D"
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 256.54 283.21 0)
 			(effects
 				(font
@@ -6003,25 +5886,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "ULC0524P"
-			(at 248.92 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
-			(at 248.92 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
+			(at 248.92 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ULC0524P"
 			(at 248.92 231.14 0)
 			(effects
 				(font
@@ -6359,15 +6233,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 163.83 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 163.83 254 0)
 			(effects
@@ -6377,7 +6242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "ESD5V0B03-1006"
+		(property "MPN" "ESD5V0B03-1006"
 			(at 163.83 254 0)
 			(effects
 				(font
@@ -6556,15 +6421,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 309.88 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 309.88 260.35 0)
 			(effects
@@ -6574,7 +6430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "BSMD0805L-200"
+		(property "MPN" "BSMD0805L-200"
 			(at 309.88 260.35 0)
 			(effects
 				(font
@@ -6689,15 +6545,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 288.29 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 288.29 105.41 0)
 			(effects
@@ -6707,7 +6554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "ESD5V0B03-1006"
+		(property "MPN" "ESD5V0B03-1006"
 			(at 288.29 105.41 0)
 			(effects
 				(font
@@ -6784,15 +6631,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 327.66 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 327.66 90.17 0)
 			(effects
@@ -6802,7 +6640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.#" "1050570001"
+		(property "MPN" "1050570001"
 			(at 327.66 90.17 0)
 			(effects
 				(font

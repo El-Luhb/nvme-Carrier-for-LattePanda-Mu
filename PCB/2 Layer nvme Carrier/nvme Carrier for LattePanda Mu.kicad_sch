@@ -6,9 +6,8 @@
 	(paper "A2")
 	(title_block
 		(title "nvme Carrier for LattePanda Mu")
-		(date "2024-05-24")
-		(rev "V1.0.6")
-		(comment 1 "20240406")
+		(date "2024-07-13")
+		(rev "V1.0")
 	)
 	(lib_symbols
 		(symbol "Mechanical:MountingHole_Pad"
@@ -1242,15 +1241,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 557.53 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 557.53 336.55 0)
 			(effects
@@ -1346,15 +1336,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 473.71 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
 			(at 473.71 336.55 0)
 			(effects
 				(font
@@ -1598,15 +1579,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 532.13 349.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 532.13 349.25 0)
 			(effects
@@ -1768,15 +1740,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 499.11 349.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
 			(at 499.11 349.25 0)
 			(effects
 				(font
@@ -1954,15 +1917,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 532.13 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 532.13 336.55 0)
 			(effects
@@ -2124,15 +2078,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 557.53 349.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
 			(at 557.53 349.25 0)
 			(effects
 				(font
@@ -2310,15 +2255,6 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr.# " ""
-			(at 473.71 349.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part#" ""
 			(at 473.71 349.25 0)
 			(effects
@@ -2414,15 +2350,6 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 499.11 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr.# " ""
 			(at 499.11 336.55 0)
 			(effects
 				(font
