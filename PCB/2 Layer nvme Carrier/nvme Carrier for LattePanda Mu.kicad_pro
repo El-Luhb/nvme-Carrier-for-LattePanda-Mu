@@ -601,6 +601,10 @@
       {
         "netclass": "90Ω",
         "pattern": "*CON_PCIE*"
+      },
+      {
+        "netclass": "100Ω",
+        "pattern": "+12V"
       }
     ]
   },
@@ -713,7 +717,7 @@
           "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "MPN",
           "name": "MPN",
           "show": true

@@ -2484,12 +2484,28 @@
 		(uuid "09796b80-7476-42e4-92df-5179604f9322")
 	)
 	(no_connect
+		(at 271.78 251.46)
+		(uuid "0ace3c12-d32a-4388-9bb8-eb1f22a864ba")
+	)
+	(no_connect
 		(at 273.05 96.52)
 		(uuid "0dcce870-c3d2-4c0a-8909-92d1ba5dae15")
 	)
 	(no_connect
+		(at 151.13 313.69)
+		(uuid "137530fa-8d9d-490f-8a24-61bf9ef40279")
+	)
+	(no_connect
+		(at 463.55 77.47)
+		(uuid "180377c5-01ad-4691-853b-305458319c2d")
+	)
+	(no_connect
 		(at 461.01 285.75)
 		(uuid "1cee45ba-8758-4ea7-b330-635bf182c5ae")
+	)
+	(no_connect
+		(at 461.01 252.73)
+		(uuid "1f8dd316-9cff-4d87-9c67-019262cf2655")
 	)
 	(no_connect
 		(at 152.4 138.43)
@@ -2560,12 +2576,20 @@
 		(uuid "56b2bf1a-2e66-4da9-ae34-643bcf972edb")
 	)
 	(no_connect
+		(at 273.05 78.74)
+		(uuid "5e50c797-9e7a-44a3-b891-678a5d2e3277")
+	)
+	(no_connect
 		(at 271.78 287.02)
 		(uuid "5f47e2a9-8a9e-4c12-9973-d324a081988e")
 	)
 	(no_connect
 		(at 101.6 120.65)
 		(uuid "631f4003-95d9-4d96-b29a-4579d16e23c5")
+	)
+	(no_connect
+		(at 461.01 250.19)
+		(uuid "63d69da6-9744-4ba9-84be-b60a082583d4")
 	)
 	(no_connect
 		(at 463.55 95.25)
@@ -2578,6 +2602,10 @@
 	(no_connect
 		(at 463.55 110.49)
 		(uuid "6d8ddf3e-f616-4a87-912f-4097073f112d")
+	)
+	(no_connect
+		(at 463.55 80.01)
+		(uuid "6f6e42c5-2536-46dc-9388-88fa0e097c67")
 	)
 	(no_connect
 		(at 322.58 309.88)
@@ -2642,6 +2670,10 @@
 	(no_connect
 		(at 461.01 267.97)
 		(uuid "87fb61bc-ee8c-4cf7-88e3-fde59018ff94")
+	)
+	(no_connect
+		(at 100.33 247.65)
+		(uuid "8976c0c7-afef-483a-bd64-f7b0dd19a356")
 	)
 	(no_connect
 		(at 100.33 290.83)
@@ -2716,8 +2748,24 @@
 		(uuid "ac2b4f2b-db41-4b02-9b8d-96ee34187b65")
 	)
 	(no_connect
+		(at 101.6 80.01)
+		(uuid "ac3798b3-c9af-4039-a3e8-7b56a59b1db3")
+	)
+	(no_connect
+		(at 100.33 245.11)
+		(uuid "ad960549-9e60-4389-b50e-7d1e3de45964")
+	)
+	(no_connect
+		(at 151.13 306.07)
+		(uuid "aed37cf4-b753-422f-b0e7-b0cc910fd14c")
+	)
+	(no_connect
 		(at 271.78 312.42)
 		(uuid "b013da50-c546-4213-a860-fb37d4c6cc44")
+	)
+	(no_connect
+		(at 152.4 146.05)
+		(uuid "b4d03fc3-34fb-4076-9759-5ddd6771553d")
 	)
 	(no_connect
 		(at 461.01 280.67)
@@ -2738,6 +2786,10 @@
 	(no_connect
 		(at 100.33 262.89)
 		(uuid "c5a57947-c196-471d-b03e-891ad641b9a0")
+	)
+	(no_connect
+		(at 511.81 318.77)
+		(uuid "ccf99e82-1004-4c96-baf5-1e744cd615ca")
 	)
 	(no_connect
 		(at 463.55 123.19)
@@ -2768,6 +2820,10 @@
 		(uuid "e7a5112e-060a-45f1-9392-50a2109a7d95")
 	)
 	(no_connect
+		(at 271.78 248.92)
+		(uuid "e8352972-5230-4d4b-b917-9a572090b9b5")
+	)
+	(no_connect
 		(at 273.05 111.76)
 		(uuid "f072e69f-c046-427e-b672-c329c790dabc")
 	)
@@ -2780,6 +2836,10 @@
 		(uuid "f25d2d4f-b02f-4ec0-b807-e5479a633dc7")
 	)
 	(no_connect
+		(at 514.35 146.05)
+		(uuid "f27afac3-e9bb-4f50-ac9d-b9a1f4ddb675")
+	)
+	(no_connect
 		(at 461.01 270.51)
 		(uuid "f36571ba-26e9-4489-9dea-1f4b24c468db")
 	)
@@ -2790,6 +2850,14 @@
 	(no_connect
 		(at 273.05 99.06)
 		(uuid "f89366cd-489c-4f02-825c-c3c53cd80ddd")
+	)
+	(no_connect
+		(at 322.58 317.5)
+		(uuid "fa64fe61-2790-4b95-98e4-dbd688fa9363")
+	)
+	(no_connect
+		(at 323.85 144.78)
+		(uuid "feaa200a-f00b-4316-a515-569e274d07cc")
 	)
 	(no_connect
 		(at 101.6 113.03)
@@ -2818,16 +2886,6 @@
 			(type default)
 		)
 		(uuid "0274be1c-3f75-44df-ba70-f91ad9579d37")
-	)
-	(wire
-		(pts
-			(xy 528.32 146.05) (xy 537.21 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "037b0349-df21-46e9-b730-f4cd94ab2582")
 	)
 	(wire
 		(pts
@@ -2901,16 +2959,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 306.07) (xy 172.72 306.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0fa24287-147f-4412-9896-ea75a8f8119e")
-	)
-	(wire
-		(pts
 			(xy 144.78 50.8) (xy 144.78 57.15)
 		)
 		(stroke
@@ -2958,16 +3006,6 @@
 			(type default)
 		)
 		(uuid "1fc6e887-9282-4aa5-a385-162721e146ae")
-	)
-	(wire
-		(pts
-			(xy 231.14 248.92) (xy 271.78 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22baf64a-262c-4f27-9a0a-37b955b27846")
 	)
 	(wire
 		(pts
@@ -3021,16 +3059,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 146.05) (xy 175.26 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e893f0e-fd3a-4362-9a71-539f73649aff")
-	)
-	(wire
-		(pts
 			(xy 299.72 234.95) (xy 297.18 234.95)
 		)
 		(stroke
@@ -3048,16 +3076,6 @@
 			(type default)
 		)
 		(uuid "33069f83-37d4-4c78-bec9-bf62cefa61e6")
-	)
-	(wire
-		(pts
-			(xy 151.13 313.69) (xy 157.48 313.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "330c250c-436c-4466-8c9c-8f2971123d86")
 	)
 	(wire
 		(pts
@@ -3108,16 +3126,6 @@
 			(type default)
 		)
 		(uuid "3ab4a232-9ee6-40af-a66a-0c8a02c4ae88")
-	)
-	(wire
-		(pts
-			(xy 151.13 306.07) (xy 157.48 306.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cda0b67-dc4d-4800-9626-e3c6673d505a")
 	)
 	(wire
 		(pts
@@ -3191,16 +3199,6 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 317.5) (xy 328.93 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43dce110-0491-4f40-8846-cd8627dd6cec")
-	)
-	(wire
-		(pts
 			(xy 127 63.5) (xy 127 69.85)
 		)
 		(stroke
@@ -3261,16 +3259,6 @@
 	)
 	(wire
 		(pts
-			(xy 511.81 318.77) (xy 518.16 318.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52c29821-af26-4f09-9f8b-e87e66945226")
-	)
-	(wire
-		(pts
 			(xy 59.69 260.35) (xy 100.33 260.35)
 		)
 		(stroke
@@ -3288,16 +3276,6 @@
 			(type default)
 		)
 		(uuid "5732ff72-2737-45be-87de-5d0b91774a5a")
-	)
-	(wire
-		(pts
-			(xy 420.37 250.19) (xy 461.01 250.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "579079db-8469-4477-913e-a1aad5deae81")
 	)
 	(wire
 		(pts
@@ -3338,16 +3316,6 @@
 			(type default)
 		)
 		(uuid "5eeae1d1-647a-46bd-ac22-45461b2b235c")
-	)
-	(wire
-		(pts
-			(xy 323.85 144.78) (xy 330.2 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f64ac99-7726-41c2-aa09-0b4da9297ed3")
 	)
 	(wire
 		(pts
@@ -3521,16 +3489,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 80.01) (xy 101.6 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7767e619-fa06-4948-a7d9-39735fda4acd")
-	)
-	(wire
-		(pts
 			(xy 60.96 85.09) (xy 64.77 85.09)
 		)
 		(stroke
@@ -3631,16 +3589,6 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 317.5) (xy 345.44 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "808eb425-f51b-489e-8ef8-8119f7e1ae7c")
-	)
-	(wire
-		(pts
 			(xy 68.58 255.27) (xy 100.33 255.27)
 		)
 		(stroke
@@ -3731,16 +3679,6 @@
 	)
 	(wire
 		(pts
-			(xy 422.91 77.47) (xy 463.55 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cb68d7b-a1e1-4ae9-8358-06efb6ad49ed")
-	)
-	(wire
-		(pts
 			(xy 128.27 224.79) (xy 125.73 224.79)
 		)
 		(stroke
@@ -3788,26 +3726,6 @@
 			(type default)
 		)
 		(uuid "8e0d8912-ce9d-4ee6-881c-dd092a502d5d")
-	)
-	(wire
-		(pts
-			(xy 59.69 245.11) (xy 100.33 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e4ebc19-aeaf-468f-964b-a5be017a5c72")
-	)
-	(wire
-		(pts
-			(xy 232.41 78.74) (xy 273.05 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e60bcb4-399b-4629-850b-ed90d827a076")
 	)
 	(wire
 		(pts
@@ -3968,16 +3886,6 @@
 			(type default)
 		)
 		(uuid "b0c48630-a0eb-4c7f-99cf-8ce7b995ae24")
-	)
-	(wire
-		(pts
-			(xy 337.82 144.78) (xy 346.71 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0de68ab-a1d7-402e-9020-3285a8004c6f")
 	)
 	(wire
 		(pts
@@ -4161,16 +4069,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 146.05) (xy 158.75 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd5ae314-44cf-4622-8abd-6cd55ee9274d")
-	)
-	(wire
-		(pts
 			(xy 231.14 264.16) (xy 271.78 264.16)
 		)
 		(stroke
@@ -4321,16 +4219,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 251.46) (xy 271.78 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1377e84-7eac-4255-8c87-e153d5532aac")
-	)
-	(wire
-		(pts
 			(xy 137.16 63.5) (xy 144.78 63.5)
 		)
 		(stroke
@@ -4348,16 +4236,6 @@
 			(type default)
 		)
 		(uuid "e304432a-535d-4c03-91cd-b8388be4c7d6")
-	)
-	(wire
-		(pts
-			(xy 525.78 318.77) (xy 534.67 318.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3196fab-0095-4cda-8789-85f8f64b2333")
 	)
 	(wire
 		(pts
@@ -4411,16 +4289,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 313.69) (xy 173.99 313.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9fbf0af-9dae-4eb2-9b8f-e53ad9850d60")
-	)
-	(wire
-		(pts
 			(xy 143.51 218.44) (xy 143.51 224.79)
 		)
 		(stroke
@@ -4441,16 +4309,6 @@
 	)
 	(wire
 		(pts
-			(xy 422.91 80.01) (xy 463.55 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0ab179c-4c65-40b4-9374-4bd896420fde")
-	)
-	(wire
-		(pts
 			(xy 499.11 50.8) (xy 506.73 50.8)
 		)
 		(stroke
@@ -4458,16 +4316,6 @@
 			(type default)
 		)
 		(uuid "f0bf0a8c-729a-4e23-be01-cff1a43592cd")
-	)
-	(wire
-		(pts
-			(xy 514.35 146.05) (xy 520.7 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1037378-90bb-4022-9521-4ffa4c8bc1a5")
 	)
 	(wire
 		(pts
@@ -4498,26 +4346,6 @@
 			(type default)
 		)
 		(uuid "f89a62e9-55a1-4dc3-a00c-de1044371e21")
-	)
-	(wire
-		(pts
-			(xy 420.37 252.73) (xy 461.01 252.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8b01dcd-d776-48eb-a57c-1e961f49300c")
-	)
-	(wire
-		(pts
-			(xy 59.69 247.65) (xy 100.33 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f91ac511-ef55-45a9-9429-2756ccd2f9f2")
 	)
 	(wire
 		(pts
@@ -4570,17 +4398,6 @@
 		)
 		(uuid "032353df-97f3-448d-8bc4-49dedd54d91a")
 	)
-	(text "To be grounded for SATA, No Connect for PCIe"
-		(exclude_from_sim no)
-		(at 152.4 311.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3732a6e5-5a69-4a17-96e7-f9e6577d07aa")
-	)
 	(text "SSD active LED"
 		(exclude_from_sim no)
 		(at 159.258 131.572 0)
@@ -4602,17 +4419,6 @@
 			(justify left bottom)
 		)
 		(uuid "6848b200-a45b-4ab8-a3f6-963cd428b0f3")
-	)
-	(text "32.768kHz clock for low power mode"
-		(exclude_from_sim no)
-		(at 152.4 151.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7433b75a-fb04-4db9-9a00-ff664d9cfc72")
 	)
 	(text "SSD active LED"
 		(exclude_from_sim no)
@@ -4636,50 +4442,6 @@
 		)
 		(uuid "786e61f3-a4c5-4073-a048-72526e508ec4")
 	)
-	(text "32.768kHz clock for low power mode"
-		(exclude_from_sim no)
-		(at 511.81 323.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7dbcea16-5517-4e44-8fb9-d605624a993f")
-	)
-	(text "32.768kHz clock for low power mode"
-		(exclude_from_sim no)
-		(at 322.58 322.58 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9bb77b36-a372-487a-bf51-5395092f7f1e")
-	)
-	(text "32.768kHz clock for low power mode"
-		(exclude_from_sim no)
-		(at 152.654 318.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a02e1797-49d3-4f69-a093-65dc364df16c")
-	)
-	(text "32.768kHz clock for low power mode"
-		(exclude_from_sim no)
-		(at 514.35 151.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a51a5ba2-037e-4d20-94a6-bce000c03312")
-	)
 	(text "SSD active LED"
 		(exclude_from_sim no)
 		(at 330.708 130.302 0)
@@ -4690,17 +4452,6 @@
 			(justify left bottom)
 		)
 		(uuid "bb660eeb-9baa-4db6-8b6c-2d0dfd002114")
-	)
-	(text "32.768kHz clock for low power mode"
-		(exclude_from_sim no)
-		(at 323.85 149.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e1493b2e-17e8-465f-9e14-c7d576e37af0")
 	)
 	(label "CON_PCIE_TX_0-"
 		(at 81.28 87.63 0)
@@ -4834,19 +4585,7 @@
 		)
 		(uuid "df5f164a-6555-4b60-ae7f-4f957eb78e09")
 	)
-	(hierarchical_label "SUSCLK"
-		(shape output)
-		(at 537.21 146.05 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0696ad95-a9bd-4333-af07-b4ead15dce22")
-	)
-	(hierarchical_label "REFCLKMF+"
+	(hierarchical_label "REFCLKM3+"
 		(shape input)
 		(at 60.96 153.67 180)
 		(fields_autoplaced yes)
@@ -4858,19 +4597,7 @@
 		)
 		(uuid "06c72e06-8301-4128-a9a4-a36c5972a3c0")
 	)
-	(hierarchical_label "~{WAKE}"
-		(shape input)
-		(at 232.41 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "083f0877-f3ac-4653-bd49-3b21fa137664")
-	)
-	(hierarchical_label "CLKREQF"
+	(hierarchical_label "CLKREQ3"
 		(shape input)
 		(at 60.96 77.47 180)
 		(fields_autoplaced yes)
@@ -4894,18 +4621,6 @@
 		)
 		(uuid "1119b9b6-de63-4b87-84af-4fea43943477")
 	)
-	(hierarchical_label "~{WAKE}"
-		(shape input)
-		(at 60.96 80.01 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1205ad0b-e590-4b5f-a52d-b20df3a1b42e")
-	)
 	(hierarchical_label "PCIE_RX_5+"
 		(shape output)
 		(at 420.37 262.89 180)
@@ -4918,19 +4633,7 @@
 		)
 		(uuid "1294ab4f-b0b8-451d-a51e-b7429be8f0ea")
 	)
-	(hierarchical_label "~{WAKE}"
-		(shape input)
-		(at 231.14 251.46 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "184af58a-92e2-45a0-9900-863ba5536d17")
-	)
-	(hierarchical_label "CLKREQF"
+	(hierarchical_label "CLKREQ4"
 		(shape input)
 		(at 232.41 76.2 180)
 		(fields_autoplaced yes)
@@ -4941,18 +4644,6 @@
 			(justify right)
 		)
 		(uuid "18db2f34-bf5e-4219-9e92-aa38b694871d")
-	)
-	(hierarchical_label "SUSCLK"
-		(shape output)
-		(at 175.26 146.05 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2c179da0-c69e-4a6a-b984-c1b6e7b0565d")
 	)
 	(hierarchical_label "~{PLT_RST}"
 		(shape input)
@@ -4965,18 +4656,6 @@
 			(justify right)
 		)
 		(uuid "2ed91d84-bdfb-4252-9f98-f250c3bba998")
-	)
-	(hierarchical_label "~{WAKE}"
-		(shape input)
-		(at 422.91 80.01 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "34c68273-cdf2-4981-bf5e-ad10d297eeb4")
 	)
 	(hierarchical_label "PCIE_RX_3-"
 		(shape output)
@@ -5038,7 +4717,7 @@
 		)
 		(uuid "428a4ef4-cd11-4fc9-8f36-e8f6bedfbab9")
 	)
-	(hierarchical_label "REFCLKMF+"
+	(hierarchical_label "REFCLKM2a+"
 		(shape input)
 		(at 422.91 153.67 180)
 		(fields_autoplaced yes)
@@ -5062,7 +4741,7 @@
 		)
 		(uuid "617a4c72-53f7-42ca-9c6b-8a758b770fd8")
 	)
-	(hierarchical_label "REFCLKMF-"
+	(hierarchical_label "REFCLKM4-"
 		(shape input)
 		(at 232.41 154.94 180)
 		(fields_autoplaced yes)
@@ -5097,18 +4776,6 @@
 			(justify right)
 		)
 		(uuid "6b9f4a8c-7560-4f77-b4f0-f1e59b552e70")
-	)
-	(hierarchical_label "SUSCLK"
-		(shape output)
-		(at 173.99 313.69 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6ebdf3b7-18ec-4c1c-9368-9367a4aa7461")
 	)
 	(hierarchical_label "PCIE_TX_3+"
 		(shape input)
@@ -5158,18 +4825,6 @@
 		)
 		(uuid "7bbdafa8-1ef7-4df7-893f-2f85a67cc753")
 	)
-	(hierarchical_label "CLKREQB"
-		(shape input)
-		(at 231.14 248.92 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8846b8b1-209b-4135-94ec-f7c989204ecb")
-	)
 	(hierarchical_label "PCIE_TX_4-"
 		(shape input)
 		(at 231.14 259.08 180)
@@ -5206,7 +4861,7 @@
 		)
 		(uuid "9492e9bc-4f6d-46f4-bb5d-fcc4a433261c")
 	)
-	(hierarchical_label "REFCLKMB-"
+	(hierarchical_label "REFCLKM2b-"
 		(shape input)
 		(at 59.69 323.85 180)
 		(fields_autoplaced yes)
@@ -5218,7 +4873,7 @@
 		)
 		(uuid "99621b81-8d52-4a0b-a9cc-41efcff63a5c")
 	)
-	(hierarchical_label "REFCLKMB-"
+	(hierarchical_label "REFCLKM3c-"
 		(shape input)
 		(at 420.37 328.93 180)
 		(fields_autoplaced yes)
@@ -5254,7 +4909,7 @@
 		)
 		(uuid "9fefeda5-c7c2-4695-be64-0fe472360e4a")
 	)
-	(hierarchical_label "REFCLKMF+"
+	(hierarchical_label "REFCLKM4+"
 		(shape input)
 		(at 232.41 152.4 180)
 		(fields_autoplaced yes)
@@ -5265,18 +4920,6 @@
 			(justify right)
 		)
 		(uuid "a6a76dc7-43b7-4af2-9066-a3bb4af2b775")
-	)
-	(hierarchical_label "CLKREQB"
-		(shape input)
-		(at 420.37 250.19 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "acebaa0a-1efc-40e7-997a-ff33bad9c87e")
 	)
 	(hierarchical_label "PCIE_TX_0-"
 		(shape input)
@@ -5302,7 +4945,7 @@
 		)
 		(uuid "b6c21dd5-c726-4514-8761-a791ed163d75")
 	)
-	(hierarchical_label "REFCLKMB+"
+	(hierarchical_label "REFCLKM3c+"
 		(shape input)
 		(at 420.37 326.39 180)
 		(fields_autoplaced yes)
@@ -5314,7 +4957,7 @@
 		)
 		(uuid "b7d51cc6-d2f9-426d-9519-20e4ff0008ca")
 	)
-	(hierarchical_label "REFCLKMB-"
+	(hierarchical_label "REFCLKM2c-"
 		(shape input)
 		(at 231.14 327.66 180)
 		(fields_autoplaced yes)
@@ -5326,7 +4969,7 @@
 		)
 		(uuid "b9282d07-1ebd-4794-a6fc-4ecd6425d5d8")
 	)
-	(hierarchical_label "REFCLKMB+"
+	(hierarchical_label "REFCLKM2b+"
 		(shape input)
 		(at 59.69 321.31 180)
 		(fields_autoplaced yes)
@@ -5338,7 +4981,7 @@
 		)
 		(uuid "bbdf1dd6-ac71-4410-9f08-57d66fe90faf")
 	)
-	(hierarchical_label "REFCLKMB+"
+	(hierarchical_label "REFCLKM2c+"
 		(shape input)
 		(at 231.14 325.12 180)
 		(fields_autoplaced yes)
@@ -5374,19 +5017,7 @@
 		)
 		(uuid "cd90e9f0-49b4-4b81-9350-b1efc00ea729")
 	)
-	(hierarchical_label "SUSCLK"
-		(shape output)
-		(at 346.71 144.78 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d96c952f-19dd-40aa-a0ed-f362d0dfec3d")
-	)
-	(hierarchical_label "REFCLKMF-"
+	(hierarchical_label "REFCLKM2a-"
 		(shape input)
 		(at 422.91 156.21 180)
 		(fields_autoplaced yes)
@@ -5410,30 +5041,6 @@
 		)
 		(uuid "db850d57-744e-414d-8c5f-946000010403")
 	)
-	(hierarchical_label "SUSCLK"
-		(shape output)
-		(at 534.67 318.77 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e08eb131-ad67-4f33-8d0d-c60ce6fe8ac6")
-	)
-	(hierarchical_label "CLKREQB"
-		(shape input)
-		(at 59.69 245.11 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e0f39c0d-1998-4901-9ec8-0bcf129a2d5a")
-	)
 	(hierarchical_label "~{PLT_RST}"
 		(shape input)
 		(at 60.96 74.93 180)
@@ -5446,18 +5053,6 @@
 		)
 		(uuid "e674f5e7-e006-4d1b-b594-2b0d5a649954")
 	)
-	(hierarchical_label "~{WAKE}"
-		(shape input)
-		(at 420.37 252.73 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e78a43a0-c567-48e1-bc47-56d328bb8f82")
-	)
 	(hierarchical_label "PCIE_RX_4-"
 		(shape output)
 		(at 231.14 264.16 180)
@@ -5469,18 +5064,6 @@
 			(justify right)
 		)
 		(uuid "ea143e5d-723f-47ae-97fa-4043ad8caa10")
-	)
-	(hierarchical_label "SUSCLK"
-		(shape output)
-		(at 345.44 317.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "eb737b2e-6971-4223-a0e8-9f934f25dd16")
 	)
 	(hierarchical_label "~{PLT_RST}"
 		(shape input)
@@ -5518,7 +5101,7 @@
 		)
 		(uuid "f4e8b1dc-99b1-4514-87ab-cecc24eddb29")
 	)
-	(hierarchical_label "REFCLKMF-"
+	(hierarchical_label "REFCLKM3-"
 		(shape input)
 		(at 60.96 156.21 180)
 		(fields_autoplaced yes)
@@ -5529,30 +5112,6 @@
 			(justify right)
 		)
 		(uuid "f6fa0dcf-e972-4b75-8636-05b19e3001bf")
-	)
-	(hierarchical_label "CLKREQF"
-		(shape input)
-		(at 422.91 77.47 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f98c7d93-0f1e-4257-a15e-d51816f5a960")
-	)
-	(hierarchical_label "~{WAKE}"
-		(shape input)
-		(at 59.69 247.65 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fd11eea6-0746-4270-a9c7-abbfb149a629")
 	)
 	(symbol
 		(lib_id "Connector:Bus_M.2_Socket_M")
@@ -5874,120 +5433,6 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
 					(reference "J100")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 161.29 306.07 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "010bb527-2d04-4506-a725-69d51f4e7293")
-		(property "Reference" "R134"
-			(at 167.64 307.34 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R/1%"
-			(at 157.48 307.34 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 161.29 307.848 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 161.29 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 161.29 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SCH_Show_Footprint" ""
-			(at 161.29 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 161.29 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 161.29 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 161.29 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" ""
-			(at 161.29 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5acbef99-2cc1-4796-8a15-bfc7a0db9a1f")
-		)
-		(pin "2"
-			(uuid "f49c29e3-4d6b-4b6a-a998-af0afc68e6fb")
-		)
-		(instances
-			(project "nvme Carrier for LattePanda Mu"
-				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
-					(reference "R134")
 					(unit 1)
 				)
 			)
@@ -8770,129 +8215,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 524.51 146.05 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3ff6b10e-6680-497a-8f33-b118a2b8d4df")
-		(property "Reference" "R123"
-			(at 530.86 147.32 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R/1%"
-			(at 520.7 147.32 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
-			(at 524.51 147.828 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
-			(at 524.51 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 524.51 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SCH_Show_Footprint" ""
-			(at 524.51 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 524.51 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 524.51 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 524.51 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" ""
-			(at 524.51 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RMC 0402 0R N"
-			(at 524.51 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a3608983-c7b3-4eb9-b7e1-bfe14596940c")
-		)
-		(pin "2"
-			(uuid "7b35dead-97b7-444a-af84-9ad455d82b95")
-		)
-		(instances
-			(project "nvme Carrier for LattePanda Mu"
-				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
-					(reference "R123")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 132.08 224.79 270)
 		(unit 1)
@@ -10253,252 +9575,6 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
 					(reference "#PWR0178")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 161.29 313.69 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5a4f4d80-408b-49c3-b8a9-b793f517bbd9")
-		(property "Reference" "R133"
-			(at 167.64 314.96 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R/1%"
-			(at 157.48 314.96 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
-			(at 161.29 315.468 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
-			(at 161.29 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 161.29 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SCH_Show_Footprint" ""
-			(at 161.29 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 161.29 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 161.29 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 161.29 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" ""
-			(at 161.29 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RMC 0402 0R N"
-			(at 161.29 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "18dfeccf-02ba-4993-a09e-3a8a96bdc2d2")
-		)
-		(pin "2"
-			(uuid "d18518df-0ba3-4895-94a1-b5996ea31e17")
-		)
-		(instances
-			(project "nvme Carrier for LattePanda Mu"
-				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
-					(reference "R133")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 332.74 317.5 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5d3fa3a6-b2c8-43de-b9ac-282df1f4f2d3")
-		(property "Reference" "R143"
-			(at 339.09 318.77 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R/1%"
-			(at 328.93 318.77 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
-			(at 332.74 319.278 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
-			(at 332.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 332.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SCH_Show_Footprint" ""
-			(at 332.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 332.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 332.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 332.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" ""
-			(at 332.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RMC 0402 0R N"
-			(at 332.74 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "86907cff-a8ae-479d-b731-1520b3d484e6")
-		)
-		(pin "2"
-			(uuid "59d214a5-4908-4551-b945-aa53ee5e62df")
-		)
-		(instances
-			(project "nvme Carrier for LattePanda Mu"
-				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
-					(reference "R143")
 					(unit 1)
 				)
 			)
@@ -13762,129 +12838,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 162.56 146.05 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9da9a8d8-b688-425b-8f1e-5bfe425f0b68")
-		(property "Reference" "R103"
-			(at 168.91 147.32 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R/1%"
-			(at 158.75 147.32 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
-			(at 162.56 147.828 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
-			(at 162.56 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 162.56 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SCH_Show_Footprint" ""
-			(at 162.56 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 162.56 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 162.56 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 162.56 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" ""
-			(at 162.56 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RMC 0402 0R N"
-			(at 162.56 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "46a8494a-82b5-4bb9-b4a2-4ac77e1e9802")
-		)
-		(pin "2"
-			(uuid "94dd26b8-fa89-43f8-8c5a-8becfe11673a")
-		)
-		(instances
-			(project "nvme Carrier for LattePanda Mu"
-				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
-					(reference "R103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 237.49 259.08 90)
 		(unit 1)
@@ -15565,129 +14518,6 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
 					(reference "R102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 521.97 318.77 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b13cce01-172d-4ea8-ba2f-40d904d3dc5c")
-		(property "Reference" "R153"
-			(at 528.32 320.04 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R/1%"
-			(at 518.16 320.04 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
-			(at 521.97 320.548 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
-			(at 521.97 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 521.97 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SCH_Show_Footprint" ""
-			(at 521.97 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 521.97 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 521.97 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 521.97 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" ""
-			(at 521.97 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RMC 0402 0R N"
-			(at 521.97 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e72cbbb4-f006-41fe-b88d-fd5fc2675d20")
-		)
-		(pin "2"
-			(uuid "cc32316c-7043-42b7-b099-9aaec003ede4")
-		)
-		(instances
-			(project "nvme Carrier for LattePanda Mu"
-				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
-					(reference "R153")
 					(unit 1)
 				)
 			)
@@ -18134,73 +16964,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 172.72 306.07 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d7724a32-b70f-45c1-8f05-27bf8074d2d6")
-		(property "Reference" "#PWR0137"
-			(at 179.07 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 176.53 306.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 172.72 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 172.72 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 172.72 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dfd3741a-f297-40d1-8fcc-7e4abc6f4146")
-		)
-		(instances
-			(project "nvme Carrier for LattePanda Mu"
-				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
-					(reference "#PWR0137")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 170.18 224.79 0)
 		(unit 1)
@@ -18730,129 +17493,6 @@
 			(project "nvme Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
 					(reference "#PWR0121")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 334.01 144.78 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "deb85caa-8777-425a-8c1b-5adaece1cc0b")
-		(property "Reference" "R113"
-			(at 340.36 146.05 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R/1%"
-			(at 330.2 146.05 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
-			(at 334.01 146.558 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_TyoHM-RMC-0402-0R-N_C325377.pdf"
-			(at 334.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 334.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SCH_Show_Footprint" ""
-			(at 334.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 334.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 334.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 334.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" ""
-			(at 334.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RMC 0402 0R N"
-			(at 334.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4eabe411-04dc-4b6a-ae4d-67e4c486df8a")
-		)
-		(pin "2"
-			(uuid "b54b1832-ab7b-4582-8636-aeac36772f15")
-		)
-		(instances
-			(project "nvme Carrier for LattePanda Mu"
-				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/ef6f480d-d7ca-4322-a73f-5177e707fe9e"
-					(reference "R113")
 					(unit 1)
 				)
 			)
