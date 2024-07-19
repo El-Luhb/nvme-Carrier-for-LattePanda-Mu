@@ -6147,7 +6147,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4d61678a-bda0-472e-a427-ea338889b60c")
 		(property "Reference" "#PWR0150"
 			(at 335.28 162.56 0)
@@ -6158,12 +6157,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12VA"
-			(at 335.28 153.67 0)
+		(property "Value" "+12V"
+			(at 333.502 154.178 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -7055,6 +7055,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN_alt" "2EG03227-D2D-DF"
+			(at 369.57 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A1"
 			(uuid "994f87f6-2cbb-435b-8df4-f9a7e77cf613")
 		)
@@ -7555,6 +7564,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN_alt" "2EG03227-D2D-DF"
+			(at 184.15 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A1"
 			(uuid "831f38e0-4223-4e94-ab81-b1a8fd6d94dd")
 		)
@@ -7770,7 +7788,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9c0dacaa-7c6b-4708-980a-75cb4038bd08")
 		(property "Reference" "#PWR013"
 			(at 149.86 161.29 0)
@@ -7781,12 +7798,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12VA"
-			(at 149.86 152.4 0)
+		(property "Value" "+12V"
+			(at 148.082 153.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
