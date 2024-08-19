@@ -28500,7 +28500,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD_AKL:D_SOD-128"
+		(property "Footprint" "Diode_SMD:D_SOD-128"
 			(at 92.71 111.76 0)
 			(effects
 				(font

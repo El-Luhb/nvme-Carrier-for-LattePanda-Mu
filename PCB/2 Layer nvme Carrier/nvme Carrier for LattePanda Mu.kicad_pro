@@ -84,6 +84,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -624,6 +625,7 @@
   },
   "schematic": {
     "annotate_start_num": 77,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -816,6 +818,14 @@
     [
       "3a597c52-640b-4e4c-bb57-6eff9e8fff95",
       "Fan_Temp"
+    ],
+    [
+      "1677a3e5-e8c7-4d6f-9008-9e798d440696",
+      "BIOS"
+    ],
+    [
+      "ffca69ad-2385-49e6-8204-ab2e1db64df1",
+      "PCIe CLK Buffer"
     ]
   ],
   "text_variables": {}
