@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
-			(at -2.54 0 0)
+			(at -0.508 -17.018 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -100,7 +100,7 @@
 			(pin output line
 				(at 13.97 -12.7 180)
 				(length 2.54)
-				(name "DIF2T_LRP"
+				(name "DIF2+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -118,7 +118,7 @@
 			(pin output line
 				(at 13.97 -10.16 180)
 				(length 2.54)
-				(name "DIF2C_LRP"
+				(name "DIF2-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -154,7 +154,7 @@
 			(pin output line
 				(at 13.97 -5.08 180)
 				(length 2.54)
-				(name "DIF1T_LRP"
+				(name "DIF1+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -172,7 +172,7 @@
 			(pin output line
 				(at 13.97 -2.54 180)
 				(length 2.54)
-				(name "DIF1C_LRP"
+				(name "DIF1-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -244,7 +244,7 @@
 			(pin output line
 				(at 13.97 7.62 180)
 				(length 2.54)
-				(name "DIF0T_LRP"
+				(name "DIF0+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -262,7 +262,7 @@
 			(pin input line
 				(at -13.97 7.62 0)
 				(length 2.54)
-				(name "DIF_INC"
+				(name "DIF_IN-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -280,7 +280,7 @@
 			(pin output line
 				(at 13.97 10.16 180)
 				(length 2.54)
-				(name "DIF0C_LRP"
+				(name "DIF0-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -298,7 +298,7 @@
 			(pin input line
 				(at -13.97 5.08 0)
 				(length 2.54)
-				(name "DIF_INT"
+				(name "DIF_IN+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -370,7 +370,7 @@
 			(pin output line
 				(at -13.97 -5.08 0)
 				(length 2.54)
-				(name "DIF3C_LRP"
+				(name "DIF3-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -388,7 +388,7 @@
 			(pin output line
 				(at -13.97 -7.62 0)
 				(length 2.54)
-				(name "DIF3T_LRP"
+				(name "DIF3+"
 					(effects
 						(font
 							(size 1.27 1.27)

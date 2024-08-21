@@ -4645,7 +4645,7 @@
 		)
 		(uuid "df5f164a-6555-4b60-ae7f-4f957eb78e09")
 	)
-	(hierarchical_label "REFCLKM3+"
+	(hierarchical_label "REFCLKM0+"
 		(shape input)
 		(at 60.96 153.67 180)
 		(fields_autoplaced yes)
@@ -4657,7 +4657,7 @@
 		)
 		(uuid "06c72e06-8301-4128-a9a4-a36c5972a3c0")
 	)
-	(hierarchical_label "CLKREQ3"
+	(hierarchical_label "CLKREQM0"
 		(shape output)
 		(at 60.96 77.47 180)
 		(fields_autoplaced yes)
@@ -4693,7 +4693,7 @@
 		)
 		(uuid "1294ab4f-b0b8-451d-a51e-b7429be8f0ea")
 	)
-	(hierarchical_label "CLKREQ4"
+	(hierarchical_label "CLKREQM1"
 		(shape output)
 		(at 232.41 76.2 180)
 		(fields_autoplaced yes)
@@ -4705,7 +4705,7 @@
 		)
 		(uuid "18db2f34-bf5e-4219-9e92-aa38b694871d")
 	)
-	(hierarchical_label "CLKREQM3"
+	(hierarchical_label "CLKREQM5"
 		(shape output)
 		(at 420.37 250.19 180)
 		(fields_autoplaced yes)
@@ -4717,7 +4717,7 @@
 		)
 		(uuid "1fb5e1d6-7e78-4c27-9abc-12df5d7b66e3")
 	)
-	(hierarchical_label "CLKREQM2"
+	(hierarchical_label "CLKREQM4"
 		(shape output)
 		(at 231.14 248.92 180)
 		(fields_autoplaced yes)
@@ -4753,7 +4753,7 @@
 		)
 		(uuid "33921163-9f9f-425c-b1aa-b71ce0348383")
 	)
-	(hierarchical_label "CLKREQM1"
+	(hierarchical_label "CLKREQM3"
 		(shape output)
 		(at 59.69 245.11 180)
 		(fields_autoplaced yes)
@@ -4837,7 +4837,7 @@
 		)
 		(uuid "4fdf0f58-e600-438c-a610-20a9285d304d")
 	)
-	(hierarchical_label "REFCLKM2a+"
+	(hierarchical_label "REFCLKM2+"
 		(shape input)
 		(at 422.91 153.67 180)
 		(fields_autoplaced yes)
@@ -4861,7 +4861,7 @@
 		)
 		(uuid "617a4c72-53f7-42ca-9c6b-8a758b770fd8")
 	)
-	(hierarchical_label "REFCLKM4-"
+	(hierarchical_label "REFCLKM1-"
 		(shape input)
 		(at 232.41 154.94 180)
 		(fields_autoplaced yes)
@@ -4993,7 +4993,7 @@
 		)
 		(uuid "9492e9bc-4f6d-46f4-bb5d-fcc4a433261c")
 	)
-	(hierarchical_label "REFCLKM2b-"
+	(hierarchical_label "REFCLKM3-"
 		(shape input)
 		(at 59.69 323.85 180)
 		(fields_autoplaced yes)
@@ -5017,7 +5017,7 @@
 		)
 		(uuid "9cc9526c-88ea-41bd-9215-ec7e9b8010c8")
 	)
-	(hierarchical_label "REFCLKM3c-"
+	(hierarchical_label "REFCLKM5-"
 		(shape input)
 		(at 420.37 328.93 180)
 		(fields_autoplaced yes)
@@ -5053,7 +5053,7 @@
 		)
 		(uuid "9fefeda5-c7c2-4695-be64-0fe472360e4a")
 	)
-	(hierarchical_label "REFCLKM4+"
+	(hierarchical_label "REFCLKM1+"
 		(shape input)
 		(at 232.41 152.4 180)
 		(fields_autoplaced yes)
@@ -5113,7 +5113,7 @@
 		)
 		(uuid "b6c21dd5-c726-4514-8761-a791ed163d75")
 	)
-	(hierarchical_label "REFCLKM3c+"
+	(hierarchical_label "REFCLKM5+"
 		(shape input)
 		(at 420.37 326.39 180)
 		(fields_autoplaced yes)
@@ -5125,7 +5125,7 @@
 		)
 		(uuid "b7d51cc6-d2f9-426d-9519-20e4ff0008ca")
 	)
-	(hierarchical_label "REFCLKM2c-"
+	(hierarchical_label "REFCLKM4-"
 		(shape input)
 		(at 231.14 327.66 180)
 		(fields_autoplaced yes)
@@ -5137,7 +5137,7 @@
 		)
 		(uuid "b9282d07-1ebd-4794-a6fc-4ecd6425d5d8")
 	)
-	(hierarchical_label "REFCLKM2b+"
+	(hierarchical_label "REFCLKM3+"
 		(shape input)
 		(at 59.69 321.31 180)
 		(fields_autoplaced yes)
@@ -5149,7 +5149,7 @@
 		)
 		(uuid "bbdf1dd6-ac71-4410-9f08-57d66fe90faf")
 	)
-	(hierarchical_label "REFCLKM2c+"
+	(hierarchical_label "REFCLKM4+"
 		(shape input)
 		(at 231.14 325.12 180)
 		(fields_autoplaced yes)
@@ -5185,7 +5185,7 @@
 		)
 		(uuid "cd90e9f0-49b4-4b81-9350-b1efc00ea729")
 	)
-	(hierarchical_label "REFCLKM2a-"
+	(hierarchical_label "REFCLKM2-"
 		(shape input)
 		(at 422.91 156.21 180)
 		(fields_autoplaced yes)
@@ -5257,7 +5257,7 @@
 		)
 		(uuid "f1731983-d9ca-4ea5-8883-abdd06025ac1")
 	)
-	(hierarchical_label "CLKREQM0"
+	(hierarchical_label "CLKREQM2"
 		(shape output)
 		(at 422.91 77.47 180)
 		(fields_autoplaced yes)
@@ -5281,7 +5281,7 @@
 		)
 		(uuid "f4e8b1dc-99b1-4514-87ab-cecc24eddb29")
 	)
-	(hierarchical_label "REFCLKM3-"
+	(hierarchical_label "REFCLKM0-"
 		(shape input)
 		(at 60.96 156.21 180)
 		(fields_autoplaced yes)

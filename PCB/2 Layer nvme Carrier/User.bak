@@ -428,7 +428,7 @@
 		(in_bom no)
 		(on_board yes)
 		(property "Reference" "Q"
-			(at -13.208 31.75 0)
+			(at -13.462 33.528 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -436,7 +436,7 @@
 			)
 		)
 		(property "Value" ""
-			(at -2.54 5.08 0)
+			(at -2.54 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -445,7 +445,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-48_6.1x12.5mm_P0.5mm"
-			(at -2.54 -32.004 0)
+			(at -2.54 -34.798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -454,7 +454,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.ch/htmldatasheets/production/1248881/0/0/1/PI6C20800.pdf"
-			(at -0.762 -34.29 0)
+			(at -0.762 -37.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -463,7 +463,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -2.54 5.08 0)
+			(at -2.54 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -472,7 +472,7 @@
 			)
 		)
 		(property "MPN" "PI6C20800AE"
-			(at 8.89 32.004 0)
+			(at 8.128 33.528 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -482,8 +482,8 @@
 		)
 		(symbol "PI6C20800AE_0_1"
 			(rectangle
-				(start -15.24 30.48)
-				(end 15.24 -30.48)
+				(start -15.24 31.75)
+				(end 15.24 -31.75)
 				(stroke
 					(width 0)
 					(type default)
@@ -495,7 +495,7 @@
 		)
 		(symbol "PI6C20800AE_1_1"
 			(pin input line
-				(at -17.78 27.94 0)
+				(at -17.78 29.21 0)
 				(length 2.54)
 				(name "SRC_DIV#"
 					(effects
@@ -513,7 +513,7 @@
 				)
 			)
 			(pin power_in line
-				(at -17.78 7.62 0)
+				(at -17.78 6.35 0)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -531,7 +531,7 @@
 				)
 			)
 			(pin power_in line
-				(at -17.78 5.08 0)
+				(at -17.78 3.81 0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -549,7 +549,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 2.54 0)
+				(at -17.78 1.27 0)
 				(length 2.54)
 				(name "OUT1"
 					(effects
@@ -567,7 +567,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 0 0)
+				(at -17.78 -1.27 0)
 				(length 2.54)
 				(name "OUT1#"
 					(effects
@@ -585,7 +585,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 -2.54 0)
+				(at -17.78 -3.81 0)
 				(length 2.54)
 				(name "OE_1"
 					(effects
@@ -603,7 +603,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 -5.08 0)
+				(at -17.78 -6.35 0)
 				(length 2.54)
 				(name "OE_2"
 					(effects
@@ -621,7 +621,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 -7.62 0)
+				(at -17.78 -8.89 0)
 				(length 2.54)
 				(name "OUT2"
 					(effects
@@ -639,7 +639,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 -10.16 0)
+				(at -17.78 -11.43 0)
 				(length 2.54)
 				(name "OUT2#"
 					(effects
@@ -657,7 +657,7 @@
 				)
 			)
 			(pin power_in line
-				(at -17.78 -12.7 0)
+				(at -17.78 -13.97 0)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -675,7 +675,7 @@
 				)
 			)
 			(pin power_in line
-				(at -17.78 -15.24 0)
+				(at -17.78 -16.51 0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -693,7 +693,7 @@
 				)
 			)
 			(pin power_in line
-				(at -17.78 25.4 0)
+				(at -17.78 26.67 0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -711,7 +711,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 -17.78 0)
+				(at -17.78 -19.05 0)
 				(length 2.54)
 				(name "OUT3"
 					(effects
@@ -729,7 +729,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 -20.32 0)
+				(at -17.78 -21.59 0)
 				(length 2.54)
 				(name "OUT3#"
 					(effects
@@ -747,7 +747,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 -22.86 0)
+				(at -17.78 -24.13 0)
 				(length 2.54)
 				(name "PLL/BYPASS#"
 					(effects
@@ -765,7 +765,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 -25.4 0)
+				(at -17.78 -26.67 0)
 				(length 2.54)
 				(name "SCLK"
 					(effects
@@ -783,7 +783,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 -27.94 0)
+				(at -17.78 -29.21 0)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -801,7 +801,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -27.94 180)
+				(at 17.78 -29.21 180)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -819,7 +819,7 @@
 				)
 			)
 			(pin input line
-				(at 17.78 -25.4 180)
+				(at 17.78 -26.67 180)
 				(length 2.54)
 				(name "PWRDWN#"
 					(effects
@@ -837,7 +837,25 @@
 				)
 			)
 			(pin input line
-				(at 17.78 -22.86 180)
+				(at 17.78 -21.59 180)
+				(length 2.54)
+				(name "PLL_BW#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 17.78 -24.13 180)
 				(length 2.54)
 				(name "SRC_STOP#"
 					(effects
@@ -846,7 +864,7 @@
 						)
 					)
 				)
-				(number "28"
+				(number "27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -855,7 +873,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 -20.32 180)
+				(at 17.78 -19.05 180)
 				(length 2.54)
 				(name "OUT4#"
 					(effects
@@ -873,7 +891,7 @@
 				)
 			)
 			(pin power_in line
-				(at -17.78 22.86 0)
+				(at -17.78 24.13 0)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -891,7 +909,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 -17.78 180)
+				(at 17.78 -16.51 180)
 				(length 2.54)
 				(name "OUT4"
 					(effects
@@ -909,7 +927,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -15.24 180)
+				(at 17.78 -13.97 180)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -927,7 +945,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -12.7 180)
+				(at 17.78 -11.43 180)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -945,7 +963,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 -10.16 180)
+				(at 17.78 -8.89 180)
 				(length 2.54)
 				(name "OUT5#"
 					(effects
@@ -963,7 +981,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 -7.62 180)
+				(at 17.78 -6.35 180)
 				(length 2.54)
 				(name "OUT5"
 					(effects
@@ -981,7 +999,7 @@
 				)
 			)
 			(pin input line
-				(at 17.78 -5.08 180)
+				(at 17.78 -3.81 180)
 				(length 2.54)
 				(name "OE_5"
 					(effects
@@ -999,7 +1017,7 @@
 				)
 			)
 			(pin input line
-				(at 17.78 -2.54 180)
+				(at 17.78 -1.27 180)
 				(length 2.54)
 				(name "OE_6"
 					(effects
@@ -1017,7 +1035,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 0 180)
+				(at 17.78 1.27 180)
 				(length 2.54)
 				(name "OUT6#"
 					(effects
@@ -1035,7 +1053,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 2.54 180)
+				(at 17.78 3.81 180)
 				(length 2.54)
 				(name "OUT6"
 					(effects
@@ -1053,7 +1071,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 5.08 180)
+				(at 17.78 6.35 180)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -1071,7 +1089,25 @@
 				)
 			)
 			(pin input line
-				(at 17.78 7.62 180)
+				(at -17.78 21.59 0)
+				(length 2.54)
+				(name "SRC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 17.78 8.89 180)
 				(length 2.54)
 				(name "OE_INV"
 					(effects
@@ -1089,7 +1125,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 10.16 180)
+				(at 17.78 11.43 180)
 				(length 2.54)
 				(name "OUT7#"
 					(effects
@@ -1107,7 +1143,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 12.7 180)
+				(at 17.78 13.97 180)
 				(length 2.54)
 				(name "OUT7"
 					(effects
@@ -1125,7 +1161,7 @@
 				)
 			)
 			(pin input line
-				(at 17.78 15.24 180)
+				(at 17.78 16.51 180)
 				(length 2.54)
 				(name "OE_4"
 					(effects
@@ -1143,7 +1179,7 @@
 				)
 			)
 			(pin input line
-				(at 17.78 17.78 180)
+				(at 17.78 19.05 180)
 				(length 2.54)
 				(name "OE_7"
 					(effects
@@ -1161,7 +1197,7 @@
 				)
 			)
 			(pin input line
-				(at 17.78 20.32 180)
+				(at 17.78 21.59 180)
 				(length 2.54)
 				(name "LOCK"
 					(effects
@@ -1179,7 +1215,7 @@
 				)
 			)
 			(pin input line
-				(at 17.78 22.86 180)
+				(at 17.78 24.13 180)
 				(length 2.54)
 				(name "IREF"
 					(effects
@@ -1197,7 +1233,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 25.4 180)
+				(at 17.78 26.67 180)
 				(length 2.54)
 				(name "VSS_A"
 					(effects
@@ -1215,7 +1251,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 27.94 180)
+				(at 17.78 29.21 180)
 				(length 2.54)
 				(name "VDD_A"
 					(effects
@@ -1233,7 +1269,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 20.32 0)
+				(at -17.78 19.05 0)
 				(length 2.54)
 				(name "SRC#"
 					(effects
@@ -1251,7 +1287,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 17.78 0)
+				(at -17.78 16.51 0)
 				(length 2.54)
 				(name "OE_0"
 					(effects
@@ -1269,7 +1305,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 15.24 0)
+				(at -17.78 13.97 0)
 				(length 2.54)
 				(name "OE_3"
 					(effects
@@ -1287,7 +1323,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 12.7 0)
+				(at -17.78 11.43 0)
 				(length 2.54)
 				(name "OUT0"
 					(effects
@@ -1305,7 +1341,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 10.16 0)
+				(at -17.78 8.89 0)
 				(length 2.54)
 				(name "OUT0#"
 					(effects

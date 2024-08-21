@@ -4373,7 +4373,7 @@
 			)
 			(uuid "dbe98dea-40fd-42a2-b02e-dbd8a43e30de")
 		)
-		(pin "CLKREQ3" output
+		(pin "CLKREQM0" output
 			(at 367.03 265.43 180)
 			(effects
 				(font
@@ -4383,7 +4383,7 @@
 			)
 			(uuid "409b8a3b-e7ca-47a0-baad-fe0726c648d6")
 		)
-		(pin "REFCLKM2c+" input
+		(pin "REFCLKM4+" input
 			(at 367.03 331.47 180)
 			(effects
 				(font
@@ -4393,7 +4393,7 @@
 			)
 			(uuid "fdb024a8-7fe6-42d0-b84b-f2afc1760e46")
 		)
-		(pin "REFCLKM2c-" input
+		(pin "REFCLKM4-" input
 			(at 367.03 334.01 180)
 			(effects
 				(font
@@ -4403,7 +4403,7 @@
 			)
 			(uuid "d9be7a53-1786-4083-bee0-ca14a0e4119b")
 		)
-		(pin "REFCLKM3+" input
+		(pin "REFCLKM5+" input
 			(at 367.03 340.36 180)
 			(effects
 				(font
@@ -4413,7 +4413,7 @@
 			)
 			(uuid "c9869bea-43e0-494f-9dfe-a7df659c2fb2")
 		)
-		(pin "REFCLKM3-" input
+		(pin "REFCLKM5-" input
 			(at 367.03 342.9 180)
 			(effects
 				(font
@@ -4423,7 +4423,7 @@
 			)
 			(uuid "93e6f448-0e4e-4870-b4df-49400dd6f487")
 		)
-		(pin "REFCLKM2b+" input
+		(pin "REFCLKM3+" input
 			(at 367.03 322.58 180)
 			(effects
 				(font
@@ -4433,7 +4433,7 @@
 			)
 			(uuid "2637f78d-5160-4de3-a573-76ce30fe8561")
 		)
-		(pin "REFCLKM2b-" input
+		(pin "REFCLKM3-" input
 			(at 367.03 325.12 180)
 			(effects
 				(font
@@ -4443,7 +4443,7 @@
 			)
 			(uuid "737f243d-262c-485a-a701-adc54d088941")
 		)
-		(pin "REFCLKM4+" input
+		(pin "REFCLKM1+" input
 			(at 367.03 287.02 180)
 			(effects
 				(font
@@ -4453,7 +4453,7 @@
 			)
 			(uuid "8b424b5e-1de5-4a30-a3da-ac37ca32f47a")
 		)
-		(pin "REFCLKM4-" input
+		(pin "REFCLKM1-" input
 			(at 367.03 289.56 180)
 			(effects
 				(font
@@ -4463,7 +4463,7 @@
 			)
 			(uuid "dd708052-0a0f-4c8c-95c2-9f7632a13090")
 		)
-		(pin "CLKREQ4" output
+		(pin "CLKREQM1" output
 			(at 367.03 284.48 180)
 			(effects
 				(font
@@ -4473,7 +4473,7 @@
 			)
 			(uuid "83c69aa6-052c-4ece-9b06-54e8e0f30d83")
 		)
-		(pin "REFCLKM2a+" input
+		(pin "REFCLKM2+" input
 			(at 367.03 313.69 180)
 			(effects
 				(font
@@ -4483,7 +4483,7 @@
 			)
 			(uuid "fe9b9d23-f829-434e-a4e0-10c2da1a3bbf")
 		)
-		(pin "REFCLKM2a-" input
+		(pin "REFCLKM2-" input
 			(at 367.03 316.23 180)
 			(effects
 				(font
@@ -4493,7 +4493,7 @@
 			)
 			(uuid "99f2a6bd-b333-484c-b5c1-a0a083949566")
 		)
-		(pin "REFCLKM3c+" input
+		(pin "REFCLKM0+" input
 			(at 367.03 267.97 180)
 			(effects
 				(font
@@ -4503,7 +4503,7 @@
 			)
 			(uuid "9d3e9a4e-5ac3-44cc-9cfc-38731661eac4")
 		)
-		(pin "REFCLKM3c-" input
+		(pin "REFCLKM0-" input
 			(at 367.03 270.51 180)
 			(effects
 				(font
@@ -4523,7 +4523,7 @@
 			)
 			(uuid "76d597a9-fe31-40ee-9c9b-1a537370fbe8")
 		)
-		(pin "CLKREQM3" output
+		(pin "CLKREQM5" output
 			(at 367.03 337.82 180)
 			(effects
 				(font
@@ -4533,7 +4533,7 @@
 			)
 			(uuid "3d87c05b-5265-4690-ac41-9c4e5d712dc4")
 		)
-		(pin "CLKREQM0" output
+		(pin "CLKREQM2" output
 			(at 367.03 311.15 180)
 			(effects
 				(font
@@ -4543,7 +4543,7 @@
 			)
 			(uuid "6a7935cf-c7bb-4471-ae8a-ce74f058f260")
 		)
-		(pin "CLKREQM2" output
+		(pin "CLKREQM4" output
 			(at 367.03 328.93 180)
 			(effects
 				(font
@@ -4553,7 +4553,7 @@
 			)
 			(uuid "c8d5971b-7fbb-4b53-bab1-02b961bb8285")
 		)
-		(pin "CLKREQM1" output
+		(pin "CLKREQM3" output
 			(at 367.03 320.04 180)
 			(effects
 				(font
@@ -4758,107 +4758,7 @@
 				(justify left top)
 			)
 		)
-		(pin "CLKREQM0" input
-			(at 195.58 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "9171efc6-8c00-4100-81a9-1b2260b23d00")
-		)
-		(pin "CLKREQM3" input
-			(at 195.58 337.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "5c74ccb6-054f-403c-a437-ad16c9141420")
-		)
-		(pin "REFCLKM3-" output
-			(at 195.58 342.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "e88ba644-e731-4ee7-b57a-34afb7bd2549")
-		)
-		(pin "REFCLKM3+" output
-			(at 195.58 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "ae618fc8-033d-4a90-ab08-58d3662e880b")
-		)
-		(pin "REFCLK2+" input
-			(at 195.58 293.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "50436294-9932-408c-ba7d-fa7213fe4205")
-		)
-		(pin "REFCLK2-" input
-			(at 195.58 295.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "8bde5f33-d62b-4c3d-b833-9d0564540385")
-		)
-		(pin "REFCLKM1+" output
-			(at 195.58 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "5e8a9305-73e2-4fc2-836d-dec53d59e835")
-		)
-		(pin "REFCLKM1-" output
-			(at 195.58 325.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "d0b60ad1-a3aa-4ba6-bd71-46b11601359d")
-		)
-		(pin "REFCLKM2+" output
-			(at 195.58 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "24379b3b-9034-4902-9a4c-15af464d9b4e")
-		)
-		(pin "REFCLKM2-" output
-			(at 195.58 334.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "5fb1ab59-f7d5-4308-81bd-80e2480c278f")
-		)
-		(pin "REFCLKM0+" output
+		(pin "REFCLKB0+" output
 			(at 195.58 313.69 0)
 			(effects
 				(font
@@ -4866,9 +4766,9 @@
 				)
 				(justify right)
 			)
-			(uuid "fbab068f-cda2-465c-ab83-40585fd600eb")
+			(uuid "20353e6f-2c72-4aa3-b14e-ad535eebb619")
 		)
-		(pin "REFCLKM0-" output
+		(pin "REFCLKB0-" output
 			(at 195.58 316.23 0)
 			(effects
 				(font
@@ -4876,19 +4776,109 @@
 				)
 				(justify right)
 			)
-			(uuid "de9886ad-d3bc-47aa-a8ec-a1f2788b5651")
+			(uuid "8e89a561-1659-4201-91cb-21f1c78c1453")
 		)
-		(pin "CLKREQM2" input
-			(at 195.58 328.93 0)
+		(pin "REFCLKB2+" output
+			(at 195.58 331.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "8cfcdbef-a903-4a5c-a8f3-e0e595226d01")
+			(uuid "4a823e95-e5da-4cb1-b7cc-93c6d4a3c415")
 		)
-		(pin "CLKREQM1" input
+		(pin "REFCLKB1+" output
+			(at 195.58 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f641374d-08dd-4fc2-8317-b540d58877a8")
+		)
+		(pin "REFCLKB1-" output
+			(at 195.58 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "cc9ab6d6-a874-44b2-ab42-d9ca65748f35")
+		)
+		(pin "REFCLKB2-" output
+			(at 195.58 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bf575787-0ab3-40c7-b623-ebfd918c01cb")
+		)
+		(pin "REFCLK_IN-" input
+			(at 195.58 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6ad10725-5667-4ec0-8a0f-6dcfcdcc3cb2")
+		)
+		(pin "REFCLK_IN+" input
+			(at 195.58 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "be4ed537-0b71-4a3f-ab78-4a1d7a9b14df")
+		)
+		(pin "CLKREQB0" input
+			(at 195.58 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3ffb2870-fc41-49fc-b87f-72d26992ce35")
+		)
+		(pin "REFCLKB3-" output
+			(at 195.58 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "53e0473d-a4f3-4f77-9aac-9beb417c863a")
+		)
+		(pin "REFCLKB3+" output
+			(at 195.58 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d33e32ff-23e4-4f29-9047-97a9cfb9d26d")
+		)
+		(pin "CLKREQB3" input
+			(at 195.58 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3b68bcaf-9e18-4bce-815c-fdad99fea257")
+		)
+		(pin "CLKREQB1" input
 			(at 195.58 320.04 0)
 			(effects
 				(font
@@ -4896,7 +4886,17 @@
 				)
 				(justify right)
 			)
-			(uuid "60f9ead3-e1cb-4ba7-929b-96020fc4e88e")
+			(uuid "9a8b60ea-752d-4dea-9c43-7f7dd4893ff8")
+		)
+		(pin "CLKREQB2" input
+			(at 195.58 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8d2bbebb-7076-4b95-93e2-822836e8fb37")
 		)
 		(instances
 			(project "nvme Carrier for LattePanda Mu"
