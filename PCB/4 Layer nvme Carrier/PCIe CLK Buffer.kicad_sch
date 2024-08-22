@@ -1242,6 +1242,16 @@
 	)
 	(wire
 		(pts
+			(xy 223.52 93.98) (xy 227.33 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69549de9-9ffe-46d9-aaf7-1e55fa3419a1")
+	)
+	(wire
+		(pts
 			(xy 163.83 86.36) (xy 163.83 59.69)
 		)
 		(stroke
@@ -1269,6 +1279,16 @@
 			(type default)
 		)
 		(uuid "71d5c926-3d97-4c98-b7d7-4fc610817e9e")
+	)
+	(wire
+		(pts
+			(xy 215.9 107.95) (xy 227.33 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73051e10-eb27-4965-9f69-135b59d9e7e8")
 	)
 	(wire
 		(pts
@@ -1502,16 +1522,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 91.44) (xy 227.33 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c62b9222-e257-4d8f-83e7-290ef6bb9e4f")
-	)
-	(wire
-		(pts
 			(xy 176.53 110.49) (xy 176.53 104.14)
 		)
 		(stroke
@@ -1592,16 +1602,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 107.95) (xy 227.33 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df29970d-a98f-4d32-a653-dcbf763ca408")
-	)
-	(wire
-		(pts
 			(xy 80.01 99.06) (xy 90.17 99.06)
 		)
 		(stroke
@@ -1609,6 +1609,16 @@
 			(type default)
 		)
 		(uuid "e194b7f5-43a0-4a54-84c9-b74def7c3897")
+	)
+	(wire
+		(pts
+			(xy 223.52 110.49) (xy 227.33 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e23f3ea9-7c59-43cc-8bfd-3d31f52f472f")
 	)
 	(wire
 		(pts
@@ -1632,13 +1642,13 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 93.98) (xy 227.33 93.98)
+			(xy 215.9 91.44) (xy 227.33 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e765594c-5ca4-40d5-890c-9a1d79cc3d9a")
+		(uuid "eaa17065-22a4-478a-abeb-e0ea7766f908")
 	)
 	(wire
 		(pts
@@ -1659,16 +1669,6 @@
 			(type default)
 		)
 		(uuid "ed854d5e-69c3-4151-adb5-29fb84781925")
-	)
-	(wire
-		(pts
-			(xy 223.52 110.49) (xy 227.33 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f33fa3d5-a755-4680-889d-a28cb4bc181a")
 	)
 	(wire
 		(pts
@@ -1926,7 +1926,7 @@
 		)
 		(uuid "e398c732-68a6-43c8-819b-d09597f245c8")
 	)
-	(hierarchical_label "REFCLKB3-"
+	(hierarchical_label "REFCLKB3+"
 		(shape output)
 		(at 80.01 99.06 180)
 		(fields_autoplaced yes)
@@ -1938,7 +1938,7 @@
 		)
 		(uuid "00b1c936-9a39-4ffa-be07-b3ba565fcf18")
 	)
-	(hierarchical_label "REFCLKB0-"
+	(hierarchical_label "REFCLKB0+"
 		(shape output)
 		(at 227.33 77.47 0)
 		(fields_autoplaced yes)
@@ -1950,7 +1950,7 @@
 		)
 		(uuid "106dba53-8a0d-4b41-b018-5689e46a78f4")
 	)
-	(hierarchical_label "REFCLKB1-"
+	(hierarchical_label "REFCLKB1+"
 		(shape output)
 		(at 227.33 93.98 0)
 		(fields_autoplaced yes)
@@ -1974,7 +1974,7 @@
 		)
 		(uuid "4010bac7-b3fb-4536-aec0-2b935bdd9e1c")
 	)
-	(hierarchical_label "REFCLKB3+"
+	(hierarchical_label "REFCLKB3-"
 		(shape output)
 		(at 80.01 96.52 180)
 		(fields_autoplaced yes)
@@ -1998,7 +1998,7 @@
 		)
 		(uuid "6894b85c-8f56-4f61-8317-fd3f1c74a29f")
 	)
-	(hierarchical_label "REFCLKB1+"
+	(hierarchical_label "REFCLKB1-"
 		(shape output)
 		(at 227.33 91.44 0)
 		(fields_autoplaced yes)
@@ -2010,7 +2010,7 @@
 		)
 		(uuid "7e3ea717-71cd-478b-b616-984566f4e908")
 	)
-	(hierarchical_label "REFCLKB0+"
+	(hierarchical_label "REFCLKB0-"
 		(shape output)
 		(at 227.33 74.93 0)
 		(fields_autoplaced yes)
@@ -2060,7 +2060,7 @@
 	)
 	(hierarchical_label "REFCLKB2-"
 		(shape output)
-		(at 227.33 110.49 0)
+		(at 227.33 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2072,7 +2072,7 @@
 	)
 	(hierarchical_label "REFCLKB2+"
 		(shape output)
-		(at 227.33 107.95 0)
+		(at 227.33 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2868,7 +2868,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b02131c-d98a-4746-9285-2bd7c9a0ed50")
 		(property "Reference" "R96"
@@ -2880,7 +2880,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "100K/1%"
 			(at 252.73 105.4099 0)
 			(effects
 				(font
@@ -2889,7 +2889,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 248.412 104.14 90)
 			(effects
 				(font
@@ -2898,7 +2898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 250.19 104.14 0)
 			(effects
 				(font
@@ -2944,6 +2944,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 250.19 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-07100KL"
 			(at 250.19 104.14 0)
 			(effects
 				(font
@@ -3623,7 +3632,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "951eaa81-7de3-434d-bd71-81cfc21920e3")
 		(property "Reference" "R99"
@@ -3635,7 +3644,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "100K/1%"
 			(at 53.34 77.4699 0)
 			(effects
 				(font
@@ -3644,7 +3653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 49.022 76.2 90)
 			(effects
 				(font
@@ -3653,7 +3662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 50.8 76.2 0)
 			(effects
 				(font
@@ -3699,6 +3708,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 50.8 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-07100KL"
 			(at 50.8 76.2 0)
 			(effects
 				(font
@@ -4307,7 +4325,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6e06b43-a072-46bc-9c56-1d79c619f910")
 		(property "Reference" "R98"
@@ -4319,7 +4337,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "100K/1%"
 			(at 53.34 95.2499 0)
 			(effects
 				(font
@@ -4328,7 +4346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 49.022 93.98 90)
 			(effects
 				(font
@@ -4337,7 +4355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 50.8 93.98 0)
 			(effects
 				(font
@@ -4383,6 +4401,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 50.8 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-07100KL"
 			(at 50.8 93.98 0)
 			(effects
 				(font
@@ -4413,7 +4440,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebf19d22-461a-4342-8aed-3c4e5690937b")
 		(property "Reference" "R97"
@@ -4425,7 +4452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "100K/1%"
 			(at 252.73 87.6299 0)
 			(effects
 				(font
@@ -4434,7 +4461,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 248.412 86.36 90)
 			(effects
 				(font
@@ -4443,7 +4470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-07100KL_C60491.pdf"
 			(at 250.19 86.36 0)
 			(effects
 				(font
@@ -4489,6 +4516,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 250.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-07100KL"
 			(at 250.19 86.36 0)
 			(effects
 				(font
@@ -4530,7 +4566,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "9DBL411BGLFT"
 			(at 144.78 77.47 0)
 			(effects
 				(font

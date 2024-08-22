@@ -1693,6 +1693,187 @@
 				)
 			)
 		)
+		(symbol "Jumper:SolderJumper_2_Open"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at 0 2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SolderJumper_2_Open"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Solder Jumper, 2-pole, open"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "solder jumper SPST"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SolderJumper*Open*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SolderJumper_2_Open_0_1"
+				(arc
+					(start -0.254 1.016)
+					(mid -1.2656 0)
+					(end -0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.254 1.016)
+					(mid -1.2656 0)
+					(end -0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 1.016) (xy -0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 1.016) (xy 0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.254 -1.016)
+					(mid 1.2656 0)
+					(end 0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.254 -1.016)
+					(mid 1.2656 0)
+					(end 0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "SolderJumper_2_Open_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "PCM_Diode_TVS_AKL:PTVS12VP1UP"
 			(pin_numbers hide)
 			(pin_names
@@ -5370,6 +5551,16 @@
 			(color 255 0 0 1)
 		)
 		(uuid "1dcc26f9-7b1d-4da3-92a3-af72b109067f")
+	)
+	(wire
+		(pts
+			(xy 440.69 135.89) (xy 440.69 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e007ff3-8d11-4162-b43d-11618ce40ca9")
 	)
 	(wire
 		(pts
@@ -9160,7 +9351,7 @@
 	)
 	(wire
 		(pts
-			(xy 440.69 113.03) (xy 440.69 130.81)
+			(xy 440.69 113.03) (xy 440.69 128.27)
 		)
 		(stroke
 			(width 0)
@@ -10616,16 +10807,6 @@
 	)
 	(wire
 		(pts
-			(xy 440.69 133.35) (xy 440.69 186.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8f20bd1-d568-4813-a69d-be381c6404bc")
-	)
-	(wire
-		(pts
 			(xy 392.43 191.77) (xy 392.43 201.93)
 		)
 		(stroke
@@ -11186,7 +11367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 431.8 302.26 0)
 			(effects
 				(font
@@ -11535,7 +11716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 365.4552 113.03 0)
 			(effects
 				(font
@@ -14558,7 +14739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 71.628 279.4 90)
 			(effects
 				(font
@@ -14567,7 +14748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0710KL_C60490.pdf"
 			(at 69.85 279.4 0)
 			(effects
 				(font
@@ -14622,6 +14803,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 69.85 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0710KL"
 			(at 69.85 279.4 0)
 			(effects
 				(font
@@ -14791,7 +14981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 367.9952 298.45 0)
 			(effects
 				(font
@@ -15898,7 +16088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 505.46 299.72 0)
 			(effects
 				(font
@@ -15961,6 +16151,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10A226MP8NUNE"
+			(at 505.46 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a627a69-ca26-438a-952a-82d16b9c770b")
 		)
@@ -16010,7 +16209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 515.62 299.72 0)
 			(effects
 				(font
@@ -16065,6 +16264,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 515.62 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71H104KE14D"
 			(at 515.62 299.72 0)
 			(effects
 				(font
@@ -16862,7 +17070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 426.72 302.26 0)
 			(effects
 				(font
@@ -18566,7 +18774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 365.4552 151.13 0)
 			(effects
 				(font
@@ -19050,7 +19258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1809272047_Murata-Electronics-GRM155R71H104KE14D_C77020.pdf"
 			(at 473.71 292.1 0)
 			(effects
 				(font
@@ -19395,7 +19603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 496.2652 189.23 0)
 			(effects
 				(font
@@ -21281,7 +21489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 498.8052 299.72 0)
 			(effects
 				(font
@@ -21496,7 +21704,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6d496326-9b2f-4557-a0be-85a776970de8")
 		(property "Reference" "J80"
@@ -22691,6 +22899,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 440.69 132.08 90)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f28c580-9afc-4ce3-a28c-616a0305b6b6")
+		(property "Reference" "JP78"
+			(at 443.23 130.8099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 443.23 133.3499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 440.69 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 440.69 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 440.69 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d800cf04-8887-4309-bea2-5e1b56af2e0b")
+		)
+		(pin "1"
+			(uuid "994df60e-7c13-478a-874b-4159168d6582")
+		)
+		(instances
+			(project "nvme Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
+					(reference "JP78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 231.14 148.59 90)
 		(unit 1)
@@ -23080,7 +23358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 365.4552 187.96 0)
 			(effects
 				(font
@@ -23379,7 +23657,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 497.5352 226.06 0)
 			(effects
 				(font
@@ -24672,7 +24950,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 498.8052 262.89 0)
 			(effects
 				(font
@@ -25815,7 +26093,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a6aedc45-8f50-4356-8477-a472ef2e1e88")
 		(property "Reference" "J79"
@@ -27835,7 +28113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 128.778 279.4 90)
 			(effects
 				(font
@@ -27844,7 +28122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0710KL_C60490.pdf"
 			(at 127 279.4 0)
 			(effects
 				(font
@@ -27899,6 +28177,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 127 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0710KL"
 			(at 127 279.4 0)
 			(effects
 				(font
@@ -29812,7 +30099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 525.78 299.72 0)
 			(effects
 				(font
@@ -29867,6 +30154,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 525.78 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MP8NUNE"
 			(at 525.78 299.72 0)
 			(effects
 				(font
@@ -30287,7 +30583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 510.54 299.72 0)
 			(effects
 				(font
@@ -30350,6 +30646,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10A226MP8NUNE"
+			(at 510.54 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6b05d5f9-5b5a-4f91-9d16-1420a9218782")
 		)
@@ -30390,7 +30695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 366.7252 224.79 0)
 			(effects
 				(font
@@ -31250,7 +31555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310251551_Sunlord-WPN4020H2R2MT_C98361.pdf"
 			(at 481.33 292.1 0)
 			(effects
 				(font
@@ -31305,6 +31610,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 481.33 292.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WPN4020H2R2MT"
 			(at 481.33 292.1 0)
 			(effects
 				(font
@@ -32456,7 +32770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 496.2652 115.57 0)
 			(effects
 				(font
@@ -32643,7 +32957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 520.7 299.72 0)
 			(effects
 				(font
@@ -32698,6 +33012,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 520.7 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MP8NUNE"
 			(at 520.7 299.72 0)
 			(effects
 				(font
@@ -33559,94 +33882,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x02_Pin")
-		(at 445.77 133.35 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e37a0790-229c-407a-b459-366e4924ee8f")
-		(property "Reference" "J481"
-			(at 447.04 130.8099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Conn_01x02_Pin"
-			(at 447.04 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 445.77 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 445.77 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 445.77 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part#" ""
-			(at 445.77 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "2.54-1*2"
-			(at 445.77 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "41dcfbe4-c6bc-4fb4-a0da-da300421a992")
-		)
-		(pin "1"
-			(uuid "1d969cf4-7298-4528-8f84-3c9e998e7f85")
-		)
-		(instances
-			(project "nvme Carrier for LattePanda Mu"
-				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/b23aee49-27d1-466d-98e2-113ee657e42b"
-					(reference "J481")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 382.27 113.03 0)
 		(unit 1)
@@ -34479,7 +34714,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f408f1e0-816b-4d4c-a04f-acaa95ca85dc")
 		(property "Reference" "J82"
@@ -34897,7 +35132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 367.9952 261.62 0)
 			(effects
 				(font

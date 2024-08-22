@@ -2506,7 +2506,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 332.74 245.618 90)
 			(effects
 				(font
@@ -2612,10 +2612,10 @@
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 213.36 158.75 0)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ac5e136-bb1b-42b9-9168-486ee138bec4")
 		(property "Reference" "JP2"
@@ -2758,7 +2758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 311.912 173.99 90)
 			(effects
 				(font
@@ -2767,7 +2767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0721K5L_C185442.pdf"
 			(at 313.69 173.99 0)
 			(effects
 				(font
@@ -2822,6 +2822,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 313.69 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0721K5L"
 			(at 313.69 173.99 0)
 			(effects
 				(font
@@ -2856,9 +2865,9 @@
 		(at 226.06 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37160b4e-0889-4062-b83f-f04ee302f524")
 		(property "Reference" "TH1"
@@ -2888,7 +2897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.de/datasheet/2/281/NCU18XH103F60RB-1519762.pdf"
 			(at 226.06 163.83 0)
 			(effects
 				(font
@@ -2943,6 +2952,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 226.06 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " NCU18XH103F60RB "
 			(at 226.06 165.1 0)
 			(effects
 				(font
@@ -3961,7 +3979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 300.482 152.4 90)
 			(effects
 				(font
@@ -3970,7 +3988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-074K7L_C105871.pdf"
 			(at 302.26 152.4 0)
 			(effects
 				(font
@@ -4033,6 +4051,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402FR-074K7L"
+			(at 302.26 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "45a7c586-92da-484e-9605-9bb35624768b")
 		)
@@ -4081,7 +4108,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 332.74 240.538 90)
 			(effects
 				(font
@@ -4534,7 +4561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 300.482 228.6 90)
 			(effects
 				(font
@@ -4543,7 +4570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-074K7L_C105871.pdf"
 			(at 302.26 228.6 0)
 			(effects
 				(font
@@ -4598,6 +4625,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 302.26 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-074K7L"
 			(at 302.26 228.6 0)
 			(effects
 				(font
@@ -4919,9 +4955,9 @@
 		(at 226.06 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "c8ef5010-2e4b-4176-9413-3fa8662542f4")
 		(property "Reference" "R63"
 			(at 227.33 153.67 0)
@@ -4941,7 +4977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 224.282 152.4 90)
 			(effects
 				(font
@@ -4950,7 +4986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YAGEO-RC0402FR-0710KL_C60490.pdf"
 			(at 226.06 152.4 0)
 			(effects
 				(font
@@ -5013,6 +5049,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402FR-0710KL"
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d9fa117-513f-444a-93b8-8555503b2f0b")
 		)
@@ -5061,7 +5106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 311.912 250.19 90)
 			(effects
 				(font
@@ -5464,7 +5509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:R_0402_1005Metric"
 			(at 351.282 228.6 90)
 			(effects
 				(font
