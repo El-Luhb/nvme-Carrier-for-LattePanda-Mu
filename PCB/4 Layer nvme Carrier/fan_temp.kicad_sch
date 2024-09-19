@@ -2440,7 +2440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C106232"
 			(at 332.74 167.64 0)
 			(effects
 				(font
@@ -2450,6 +2450,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-07100RL"
+			(at 332.74 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 332.74 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C106232"
 			(at 332.74 167.64 0)
 			(effects
 				(font
@@ -2569,7 +2587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C106232"
 			(at 332.74 243.84 0)
 			(effects
 				(font
@@ -2579,6 +2597,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-07100RL"
+			(at 332.74 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 332.74 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C106232"
 			(at 332.74 243.84 0)
 			(effects
 				(font
@@ -2613,7 +2649,7 @@
 		(at 213.36 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2698,6 +2734,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 213.36 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SolderJumper"
 			(at 213.36 158.75 0)
 			(effects
 				(font
@@ -2821,7 +2866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C185442"
 			(at 313.69 173.99 0)
 			(effects
 				(font
@@ -2831,6 +2876,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0721K5L"
+			(at 313.69 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 313.69 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C185442"
 			(at 313.69 173.99 0)
 			(effects
 				(font
@@ -2951,7 +3014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C440252"
 			(at 226.06 165.1 0)
 			(effects
 				(font
@@ -2960,7 +3023,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " NCU18XH103F60RB "
+		(property "MPN" "NCU18XH103F60RB "
+			(at 226.06 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 226.06 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C440252"
 			(at 226.06 165.1 0)
 			(effects
 				(font
@@ -3084,7 +3165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 341.63 151.13 0)
 			(effects
 				(font
@@ -3094,6 +3175,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 341.63 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 341.63 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 341.63 151.13 0)
 			(effects
 				(font
@@ -3302,7 +3401,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C240840"
 			(at 391.16 241.3 0)
 			(effects
 				(font
@@ -3312,6 +3411,24 @@
 			)
 		)
 		(property "MPN" "470531000"
+			(at 391.16 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Plugin,P=2.54mm"
+			(at 391.16 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C240840"
 			(at 391.16 241.3 0)
 			(effects
 				(font
@@ -3538,7 +3655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2828425"
 			(at 365.76 228.6 0)
 			(effects
 				(font
@@ -3548,6 +3665,24 @@
 			)
 		)
 		(property "MPN" "1N5819WS"
+			(at 365.76 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-323"
+			(at 365.76 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2828425"
 			(at 365.76 228.6 0)
 			(effects
 				(font
@@ -3778,7 +3913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
 			(at 342.5952 231.14 0)
 			(effects
 				(font
@@ -3841,7 +3976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 341.63 227.33 0)
 			(effects
 				(font
@@ -3851,6 +3986,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 341.63 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 341.63 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 341.63 227.33 0)
 			(effects
 				(font
@@ -4042,7 +4195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C105871"
 			(at 302.26 152.4 0)
 			(effects
 				(font
@@ -4052,6 +4205,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-074K7L"
+			(at 302.26 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 302.26 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C105871"
 			(at 302.26 152.4 0)
 			(effects
 				(font
@@ -4171,7 +4342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C185442"
 			(at 332.74 238.76 0)
 			(effects
 				(font
@@ -4181,6 +4352,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0721K5L"
+			(at 332.74 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 332.74 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C185442"
 			(at 332.74 238.76 0)
 			(effects
 				(font
@@ -4389,7 +4578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C566011"
 			(at 391.16 165.1 0)
 			(effects
 				(font
@@ -4399,6 +4588,24 @@
 			)
 		)
 		(property "MPN" "B4B-PH-K-S-GW"
+			(at 391.16 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Plugin,P=2mm"
+			(at 391.16 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C566011"
 			(at 391.16 165.1 0)
 			(effects
 				(font
@@ -4624,7 +4831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C105871"
 			(at 302.26 228.6 0)
 			(effects
 				(font
@@ -4634,6 +4841,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-074K7L"
+			(at 302.26 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 302.26 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C105871"
 			(at 302.26 228.6 0)
 			(effects
 				(font
@@ -4751,7 +4976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C185442"
 			(at 332.74 162.56 0)
 			(effects
 				(font
@@ -4761,6 +4986,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0721K5L"
+			(at 332.74 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 332.74 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C185442"
 			(at 332.74 162.56 0)
 			(effects
 				(font
@@ -5040,7 +5283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C60490"
 			(at 226.06 152.4 0)
 			(effects
 				(font
@@ -5050,6 +5293,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0710KL"
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C60490"
 			(at 226.06 152.4 0)
 			(effects
 				(font
@@ -5169,7 +5430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C185442"
 			(at 313.69 250.19 0)
 			(effects
 				(font
@@ -5179,6 +5440,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0721K5L"
+			(at 313.69 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 313.69 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C185442"
 			(at 313.69 250.19 0)
 			(effects
 				(font
@@ -5371,7 +5650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2828425"
 			(at 365.76 152.4 0)
 			(effects
 				(font
@@ -5381,6 +5660,24 @@
 			)
 		)
 		(property "MPN" "1N5819WS"
+			(at 365.76 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-323"
+			(at 365.76 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2828425"
 			(at 365.76 152.4 0)
 			(effects
 				(font
@@ -5572,7 +5869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C105871"
 			(at 353.06 228.6 0)
 			(effects
 				(font
@@ -5582,6 +5879,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-074K7L"
+			(at 353.06 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 353.06 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C105871"
 			(at 353.06 228.6 0)
 			(effects
 				(font
@@ -5701,7 +6016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C105871"
 			(at 353.06 152.4 0)
 			(effects
 				(font
@@ -5711,6 +6026,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-074K7L"
+			(at 353.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 353.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C105871"
 			(at 353.06 152.4 0)
 			(effects
 				(font
@@ -5830,6 +6163,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 353.06 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 353.06 215.9 0)
 			(effects
 				(font

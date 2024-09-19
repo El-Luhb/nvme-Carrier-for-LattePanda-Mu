@@ -5094,7 +5094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C5159775"
 			(at 318.77 224.79 0)
 			(effects
 				(font
@@ -5104,6 +5104,24 @@
 			)
 		)
 		(property "MPN" "GRM155R61H224KE01D"
+			(at 318.77 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 318.77 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5159775"
 			(at 318.77 224.79 0)
 			(effects
 				(font
@@ -5215,7 +5233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 207.01 165.1 0)
 			(effects
 				(font
@@ -5225,6 +5243,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 207.01 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 207.01 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 207.01 165.1 0)
 			(effects
 				(font
@@ -5336,7 +5372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 340.36 166.37 0)
 			(effects
 				(font
@@ -5346,6 +5382,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 340.36 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 340.36 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 340.36 166.37 0)
 			(effects
 				(font
@@ -5525,7 +5579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C5159775"
 			(at 133.35 220.98 0)
 			(effects
 				(font
@@ -5535,6 +5589,24 @@
 			)
 		)
 		(property "MPN" "GRM155R61H224KE01D"
+			(at 133.35 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 133.35 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5159775"
 			(at 133.35 220.98 0)
 			(effects
 				(font
@@ -5792,7 +5864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2886300"
 			(at 160.02 165.1 0)
 			(effects
 				(font
@@ -5801,7 +5873,34 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PM101M025E077PTR"
+		(property "MPN" "VT1E101M-CRE54"
+			(at 160.02 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_alt" "PM101M025E077PTR"
+			(at 160.02 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD,D6.3xL7.7mm"
+			(at 160.02 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2886300"
 			(at 160.02 165.1 0)
 			(effects
 				(font
@@ -5985,7 +6084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 149.86 165.1 0)
 			(effects
 				(font
@@ -5995,6 +6094,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 149.86 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 149.86 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 149.86 165.1 0)
 			(effects
 				(font
@@ -6106,7 +6223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C315248"
 			(at 374.65 144.78 0)
 			(effects
 				(font
@@ -6116,6 +6233,24 @@
 			)
 		)
 		(property "MPN" "CL05A106MP5NUNC"
+			(at 374.65 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 374.65 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C315248"
 			(at 374.65 144.78 0)
 			(effects
 				(font
@@ -6295,7 +6430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C384654"
 			(at 212.09 165.1 0)
 			(effects
 				(font
@@ -6305,6 +6440,24 @@
 			)
 		)
 		(property "MPN" "VZT471M1ATR-0607"
+			(at 212.09 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD,D6.3xL7.7mm"
+			(at 212.09 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C384654"
 			(at 212.09 165.1 0)
 			(effects
 				(font
@@ -6418,7 +6571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2886300"
 			(at 345.44 166.37 0)
 			(effects
 				(font
@@ -6427,7 +6580,34 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PM101M025E077PTR"
+		(property "MPN" "VT1E101M-CRE54"
+			(at 345.44 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_alt" "PM101M025E077PTR"
+			(at 345.44 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD,D6.3xL7.7mm"
+			(at 345.44 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2886300"
 			(at 345.44 166.37 0)
 			(effects
 				(font
@@ -6539,7 +6719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C315248"
 			(at 189.23 143.51 0)
 			(effects
 				(font
@@ -6549,6 +6729,24 @@
 			)
 		)
 		(property "MPN" "CL05A106MP5NUNC"
+			(at 189.23 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 189.23 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C315248"
 			(at 189.23 143.51 0)
 			(effects
 				(font
@@ -6726,7 +6924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 392.43 166.37 0)
 			(effects
 				(font
@@ -6736,6 +6934,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 392.43 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 392.43 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 392.43 166.37 0)
 			(effects
 				(font
@@ -6913,7 +7129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 369.57 144.78 0)
 			(effects
 				(font
@@ -6923,6 +7139,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 369.57 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 369.57 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 369.57 144.78 0)
 			(effects
 				(font
@@ -7037,7 +7271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2926855"
 			(at 369.57 214.63 0)
 			(effects
 				(font
@@ -7056,6 +7290,24 @@
 			)
 		)
 		(property "MPN_alt" "2EG03227-D2D-DF"
+			(at 369.57 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Plugin,P=2mm"
+			(at 369.57 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2926855"
 			(at 369.57 214.63 0)
 			(effects
 				(font
@@ -7421,7 +7673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C5159775"
 			(at 318.77 222.25 0)
 			(effects
 				(font
@@ -7431,6 +7683,24 @@
 			)
 		)
 		(property "MPN" "GRM155R61H224KE01D"
+			(at 318.77 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 318.77 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5159775"
 			(at 318.77 222.25 0)
 			(effects
 				(font
@@ -7546,7 +7816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2926855"
 			(at 184.15 213.36 0)
 			(effects
 				(font
@@ -7565,6 +7835,24 @@
 			)
 		)
 		(property "MPN_alt" "2EG03227-D2D-DF"
+			(at 184.15 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Plugin,P=2mm"
+			(at 184.15 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2926855"
 			(at 184.15 213.36 0)
 			(effects
 				(font
@@ -7936,7 +8224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2886300"
 			(at 165.1 165.1 0)
 			(effects
 				(font
@@ -7945,7 +8233,34 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PM101M025E077PTR"
+		(property "MPN" "VT1E101M-CRE54"
+			(at 165.1 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_alt" "PM101M025E077PTR"
+			(at 165.1 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD,D6.3xL7.7mm"
+			(at 165.1 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2886300"
 			(at 165.1 165.1 0)
 			(effects
 				(font
@@ -8057,7 +8372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 184.15 143.51 0)
 			(effects
 				(font
@@ -8067,6 +8382,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 184.15 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 184.15 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 184.15 143.51 0)
 			(effects
 				(font
@@ -8180,7 +8513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C384654"
 			(at 397.51 166.37 0)
 			(effects
 				(font
@@ -8190,6 +8523,24 @@
 			)
 		)
 		(property "MPN" "VZT471M1ATR-0607"
+			(at 397.51 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD,D6.3xL7.7mm"
+			(at 397.51 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C384654"
 			(at 397.51 166.37 0)
 			(effects
 				(font
@@ -8369,7 +8720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C5159775"
 			(at 133.35 223.52 0)
 			(effects
 				(font
@@ -8379,6 +8730,24 @@
 			)
 		)
 		(property "MPN" "GRM155R61H224KE01D"
+			(at 133.35 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 133.35 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5159775"
 			(at 133.35 223.52 0)
 			(effects
 				(font
@@ -8498,7 +8867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2886300"
 			(at 350.52 166.37 0)
 			(effects
 				(font
@@ -8507,7 +8876,34 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PM101M025E077PTR"
+		(property "MPN" "VT1E101M-CRE54"
+			(at 350.52 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_alt" "PM101M025E077PTR"
+			(at 350.52 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD,D6.3xL7.7mm"
+			(at 350.52 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2886300"
 			(at 350.52 166.37 0)
 			(effects
 				(font
@@ -8751,7 +9147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 335.28 166.37 0)
 			(effects
 				(font
@@ -8761,6 +9157,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 335.28 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 335.28 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 335.28 166.37 0)
 			(effects
 				(font
@@ -9004,7 +9418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 154.94 165.1 0)
 			(effects
 				(font
@@ -9014,6 +9428,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 154.94 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 154.94 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 154.94 165.1 0)
 			(effects
 				(font

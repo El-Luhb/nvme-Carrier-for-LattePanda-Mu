@@ -9281,7 +9281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C962126"
 			(at 311.15 190.5 0)
 			(effects
 				(font
@@ -9291,6 +9291,24 @@
 			)
 		)
 		(property "MPN" "ADDR0069-P009A"
+			(at 311.15 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD,P=0.5mm,Surface Mount，Right Angle"
+			(at 311.15 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C962126"
 			(at 311.15 190.5 0)
 			(effects
 				(font
@@ -10230,7 +10248,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b872f90-256b-4e86-a99b-a4c01a22c878")
 		(property "Reference" "J1"
@@ -10278,6 +10296,15 @@
 		)
 		(property "MPN" "PZ2.54-1*3"
 			(at 215.9 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Jumper"
+			(at 215.9 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10524,7 +10551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C106235"
 			(at 336.55 44.45 0)
 			(effects
 				(font
@@ -10534,6 +10561,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-071KL"
+			(at 336.55 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 336.55 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C106235"
 			(at 336.55 44.45 0)
 			(effects
 				(font
@@ -10647,7 +10692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C60490"
 			(at 373.38 280.67 0)
 			(effects
 				(font
@@ -10657,6 +10702,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0710KL"
+			(at 373.38 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 373.38 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C60490"
 			(at 373.38 280.67 0)
 			(effects
 				(font
@@ -10817,7 +10880,7 @@
 		(at 439.42 302.26 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10883,7 +10946,7 @@
 		(at 414.02 302.26 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11099,7 +11162,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C60491"
 			(at 257.81 246.38 0)
 			(effects
 				(font
@@ -11109,6 +11172,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-07100KL"
+			(at 257.81 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 257.81 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C60491"
 			(at 257.81 246.38 0)
 			(effects
 				(font
@@ -11214,7 +11295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C60491"
 			(at 393.7 120.65 0)
 			(effects
 				(font
@@ -11224,6 +11305,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-07100KL"
+			(at 393.7 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 393.7 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C60491"
 			(at 393.7 120.65 0)
 			(effects
 				(font
@@ -11463,7 +11562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C60491"
 			(at 381 120.65 0)
 			(effects
 				(font
@@ -11473,6 +11572,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-07100KL"
+			(at 381 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 381 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C60491"
 			(at 381 120.65 0)
 			(effects
 				(font
@@ -11584,7 +11701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C60491"
 			(at 257.81 284.48 0)
 			(effects
 				(font
@@ -11594,6 +11711,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-07100KL"
+			(at 257.81 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 257.81 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C60491"
 			(at 257.81 284.48 0)
 			(effects
 				(font
@@ -11624,8 +11759,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
+		(dnp no)
 		(uuid "b2d3c080-ce8a-4969-befe-463fd4506f50")
 		(property "Reference" "J11"
 			(at 381 270.5099 0)
@@ -11673,6 +11807,15 @@
 			)
 		)
 		(property "MPN" "PZ2.54-1*3"
+			(at 379.73 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Jumper"
 			(at 379.73 271.78 0)
 			(effects
 				(font
@@ -11735,7 +11878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://content.harwin.com/m/8aa8c741728fa9cb/original/DRG-02355-Technical-Drawing-Datasheet-S8411R-pdf.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2405081637_Q-J-CR1220-2_C70381.pdf"
 			(at 348.996 44.45 90)
 			(effects
 				(font
@@ -11789,7 +11932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C70381"
 			(at 350.52 44.45 0)
 			(effects
 				(font
@@ -11798,7 +11941,34 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "S8411-45R"
+		(property "MPN" "CR1220-2"
+			(at 350.52 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD"
+			(at 350.52 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C70381"
+			(at 350.52 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_alt" "S8411-45R"
 			(at 350.52 44.45 0)
 			(effects
 				(font
@@ -11827,7 +11997,7 @@
 		(at 414.02 299.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11905,6 +12075,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 414.02 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "MountingHole"
 			(at 414.02 299.72 0)
 			(effects
 				(font
@@ -12213,7 +12392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C60490"
 			(at 373.38 262.89 0)
 			(effects
 				(font
@@ -12223,6 +12402,24 @@
 			)
 		)
 		(property "MPN" "RC0402FR-0710KL"
+			(at 373.38 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 373.38 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C60490"
 			(at 373.38 262.89 0)
 			(effects
 				(font
@@ -12251,7 +12448,7 @@
 		(at 439.42 299.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12329,6 +12526,15 @@
 			)
 		)
 		(property "Part#" ""
+			(at 439.42 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "MountingHole"
 			(at 439.42 299.72 0)
 			(effects
 				(font

@@ -3876,7 +3876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C521894"
 			(at 321.31 210.82 0)
 			(effects
 				(font
@@ -3886,6 +3886,24 @@
 			)
 		)
 		(property "MPN" "ESD5V0B03-1006"
+			(at 321.31 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 321.31 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C521894"
 			(at 321.31 210.82 0)
 			(effects
 				(font
@@ -3997,7 +4015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C883112"
 			(at 193.04 233.68 0)
 			(effects
 				(font
@@ -4007,6 +4025,24 @@
 			)
 		)
 		(property "MPN" "BSMD0805-100-6V"
+			(at 193.04 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 193.04 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C883112"
 			(at 193.04 233.68 0)
 			(effects
 				(font
@@ -4184,7 +4220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2835428"
 			(at 170.18 262.89 0)
 			(effects
 				(font
@@ -4194,6 +4230,24 @@
 			)
 		)
 		(property "MPN" "ULC0524P"
+			(at 170.18 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "DFN2510"
+			(at 170.18 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2835428"
 			(at 170.18 262.89 0)
 			(effects
 				(font
@@ -4329,7 +4383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C883112"
 			(at 193.04 166.37 0)
 			(effects
 				(font
@@ -4339,6 +4393,24 @@
 			)
 		)
 		(property "MPN" "BSMD0805-100-6V"
+			(at 193.04 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 193.04 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C883112"
 			(at 193.04 166.37 0)
 			(effects
 				(font
@@ -4519,7 +4591,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C521894"
 			(at 181.61 186.69 0)
 			(effects
 				(font
@@ -4529,6 +4601,24 @@
 			)
 		)
 		(property "MPN" "ESD5V0B03-1006"
+			(at 181.61 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 181.61 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C521894"
 			(at 181.61 186.69 0)
 			(effects
 				(font
@@ -4640,7 +4730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C883112"
 			(at 193.04 236.22 0)
 			(effects
 				(font
@@ -4650,6 +4740,24 @@
 			)
 		)
 		(property "MPN" "BSMD0805-100-6V"
+			(at 193.04 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 193.04 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C883112"
 			(at 193.04 236.22 0)
 			(effects
 				(font
@@ -4745,7 +4853,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6d9be953-7eeb-4c06-b968-2c8100d36a74")
@@ -4802,6 +4910,24 @@
 			)
 		)
 		(property "MPN" "692122030100"
+			(at 473.71 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Plugin"
+			(at 473.71 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_alt" "692122030100"
 			(at 473.71 227.33 0)
 			(effects
 				(font
@@ -5004,7 +5130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C86295"
 			(at 176.53 233.68 0)
 			(effects
 				(font
@@ -5014,6 +5140,24 @@
 			)
 		)
 		(property "MPN" "CL10A226MP8NUNE"
+			(at 176.53 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 176.53 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C86295"
 			(at 176.53 233.68 0)
 			(effects
 				(font
@@ -5206,7 +5350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/datasheet/2/670/uj2_adh_th-1779175.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2401291333_CUI-UJ2-ADH-1-TH_C3197848.pdf"
 			(at 207.01 242.57 0)
 			(effects
 				(font
@@ -5260,7 +5404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C3197848"
 			(at 212.09 243.84 0)
 			(effects
 				(font
@@ -5269,7 +5413,34 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "UJ2-ADH-W1-TH"
+		(property "MPN" "UJ2-ADH-1-TH"
+			(at 212.09 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Plugin"
+			(at 212.09 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN_alt" "AF SS-JB17.6"
+			(at 212.09 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C456021"
 			(at 212.09 243.84 0)
 			(effects
 				(font
@@ -5402,7 +5573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 403.86 237.49 0)
 			(effects
 				(font
@@ -5412,6 +5583,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 403.86 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 403.86 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 403.86 237.49 0)
 			(effects
 				(font
@@ -5523,7 +5712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C86295"
 			(at 440.69 217.17 0)
 			(effects
 				(font
@@ -5533,6 +5722,24 @@
 			)
 		)
 		(property "MPN" "CL10A226MP8NUNE"
+			(at 440.69 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 440.69 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C86295"
 			(at 440.69 217.17 0)
 			(effects
 				(font
@@ -5644,7 +5851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C86295"
 			(at 176.53 166.37 0)
 			(effects
 				(font
@@ -5654,6 +5861,24 @@
 			)
 		)
 		(property "MPN" "CL10A226MP8NUNE"
+			(at 176.53 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 176.53 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C86295"
 			(at 176.53 166.37 0)
 			(effects
 				(font
@@ -5765,7 +5990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C77020"
 			(at 403.86 240.03 0)
 			(effects
 				(font
@@ -5775,6 +6000,24 @@
 			)
 		)
 		(property "MPN" "GRM155R71H104KE14D"
+			(at 403.86 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 403.86 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C77020"
 			(at 403.86 240.03 0)
 			(effects
 				(font
@@ -5886,7 +6129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2835428"
 			(at 396.24 187.96 0)
 			(effects
 				(font
@@ -5896,6 +6139,24 @@
 			)
 		)
 		(property "MPN" "ULC0524P"
+			(at 396.24 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "DFN2510"
+			(at 396.24 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2835428"
 			(at 396.24 187.96 0)
 			(effects
 				(font
@@ -6233,7 +6494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C521894"
 			(at 311.15 210.82 0)
 			(effects
 				(font
@@ -6243,6 +6504,24 @@
 			)
 		)
 		(property "MPN" "ESD5V0B03-1006"
+			(at 311.15 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 311.15 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C521894"
 			(at 311.15 210.82 0)
 			(effects
 				(font
@@ -6421,7 +6700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C2757931"
 			(at 457.2 217.17 0)
 			(effects
 				(font
@@ -6431,6 +6710,24 @@
 			)
 		)
 		(property "MPN" "BSMD0805L-200"
+			(at 457.2 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 457.2 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2757931"
 			(at 457.2 217.17 0)
 			(effects
 				(font
@@ -6545,7 +6842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C521894"
 			(at 171.45 186.69 0)
 			(effects
 				(font
@@ -6555,6 +6852,24 @@
 			)
 		)
 		(property "MPN" "ESD5V0B03-1006"
+			(at 171.45 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 171.45 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C521894"
 			(at 171.45 186.69 0)
 			(effects
 				(font
@@ -6631,7 +6946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part#" ""
+		(property "Part#" "C586225"
 			(at 210.82 171.45 0)
 			(effects
 				(font
@@ -6641,6 +6956,24 @@
 			)
 		)
 		(property "MPN" "1050570001"
+			(at 210.82 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Plugin"
+			(at 210.82 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C586225"
 			(at 210.82 171.45 0)
 			(effects
 				(font
