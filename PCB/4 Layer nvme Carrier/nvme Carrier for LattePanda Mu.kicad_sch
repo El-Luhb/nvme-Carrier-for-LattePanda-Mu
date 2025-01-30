@@ -285,16 +285,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 218.44) (xy 227.33 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "195932a3-de98-4563-ba20-6409501ba35d")
-	)
-	(wire
-		(pts
 			(xy 195.58 322.58) (xy 367.03 322.58)
 		)
 		(stroke
@@ -445,6 +435,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 218.44) (xy 227.33 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e95d97b-199a-4175-951d-f599c4d6224a")
+	)
+	(wire
+		(pts
 			(xy 195.58 334.01) (xy 367.03 334.01)
 		)
 		(stroke
@@ -495,6 +495,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 220.98) (xy 227.33 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42b6bfe9-59e9-4878-b671-301246b20a1a")
+	)
+	(wire
+		(pts
 			(xy 199.39 161.29) (xy 195.58 161.29)
 		)
 		(stroke
@@ -532,16 +542,6 @@
 			(type default)
 		)
 		(uuid "47924f1d-ddd6-458f-a1c7-bd88b0bc6c81")
-	)
-	(wire
-		(pts
-			(xy 195.58 220.98) (xy 227.33 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4beea25f-9b68-40e8-90e0-4f31011b0ab5")
 	)
 	(wire
 		(pts
@@ -1015,16 +1015,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 213.36) (xy 227.33 213.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9de5e02-1328-42af-9b4e-4a43f8a20bc4")
-	)
-	(wire
-		(pts
 			(xy 341.63 279.4) (xy 367.03 279.4)
 		)
 		(stroke
@@ -1085,6 +1075,26 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 213.36) (xy 227.33 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df835706-7c21-485c-8dd9-2788f844663a")
+	)
+	(wire
+		(pts
+			(xy 195.58 215.9) (xy 227.33 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1653dae-0b31-4df7-bfe9-7edb850a61d6")
+	)
+	(wire
+		(pts
 			(xy 341.63 219.71) (xy 367.03 219.71)
 		)
 		(stroke
@@ -1132,16 +1142,6 @@
 			(type default)
 		)
 		(uuid "f053200a-9b08-4df4-9e2e-a88cf7700f4d")
-	)
-	(wire
-		(pts
-			(xy 195.58 215.9) (xy 227.33 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f14e8915-1aaa-476e-934f-875c110ae912")
 	)
 	(wire
 		(pts
@@ -1205,7 +1205,6 @@
 	)
 	(label "~{PLT_RST}"
 		(at 350.52 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1216,7 +1215,6 @@
 	)
 	(label "~{PLT_RST}"
 		(at 355.6 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1227,7 +1225,6 @@
 	)
 	(label "~{PWR_LED}{slash}~{PSON}"
 		(at 204.47 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1238,7 +1235,6 @@
 	)
 	(label "~{WAKE}"
 		(at 355.6 173.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1249,7 +1245,6 @@
 	)
 	(label "~{PWR_LED}{slash}~{PSON}"
 		(at 199.39 161.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1260,7 +1255,6 @@
 	)
 	(label "~{WAKE}"
 		(at 350.52 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3268,7 +3262,7 @@
 			(uuid "d32afbae-10e2-4ae5-add7-25483999ac3b")
 		)
 		(pin "HSIO_0_TX-" output
-			(at 227.33 215.9 180)
+			(at 227.33 220.98 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3278,7 +3272,7 @@
 			(uuid "575488a3-f8bc-4038-8383-c746d33859f5")
 		)
 		(pin "HSIO_0_TX+" output
-			(at 227.33 213.36 180)
+			(at 227.33 218.44 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3388,7 +3382,7 @@
 			(uuid "ded585b7-7277-4a0d-bbc3-60073d035524")
 		)
 		(pin "HSIO_0_RX-" input
-			(at 227.33 220.98 180)
+			(at 227.33 215.9 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3408,7 +3402,7 @@
 			(uuid "803dfe48-a70e-4226-9ad9-5632f3b38468")
 		)
 		(pin "HSIO_0_RX+" input
-			(at 227.33 218.44 180)
+			(at 227.33 213.36 180)
 			(effects
 				(font
 					(size 1.27 1.27)

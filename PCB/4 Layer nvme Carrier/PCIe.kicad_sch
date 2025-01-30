@@ -4746,7 +4746,6 @@
 	)
 	(label "PCIE30_TX0_N"
 		(at 146.05 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4757,7 +4756,6 @@
 	)
 	(label "PCIE30_TX1_N"
 		(at 331.47 224.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4768,7 +4766,6 @@
 	)
 	(label "PCIE30_TX1_P"
 		(at 331.47 222.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4779,7 +4776,6 @@
 	)
 	(label "PCIE30_TX0_P"
 		(at 146.05 220.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4791,7 +4787,6 @@
 	(hierarchical_label "PCIE_RX_0-"
 		(shape output)
 		(at 222.25 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4803,7 +4798,6 @@
 	(hierarchical_label "PCIE_TX_0+"
 		(shape input)
 		(at 120.65 220.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4815,7 +4809,6 @@
 	(hierarchical_label "~{WAKE}"
 		(shape input)
 		(at 420.37 199.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4827,7 +4820,6 @@
 	(hierarchical_label "~{WAKE}"
 		(shape input)
 		(at 234.95 198.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4839,7 +4831,6 @@
 	(hierarchical_label "PCIE_RX_1-"
 		(shape output)
 		(at 407.67 224.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4851,7 +4842,6 @@
 	(hierarchical_label "REFCLK_0-"
 		(shape input)
 		(at 118.11 200.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4863,7 +4853,6 @@
 	(hierarchical_label "CLKREQF"
 		(shape input)
 		(at 234.95 193.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4875,7 +4864,6 @@
 	(hierarchical_label "CLKREQF"
 		(shape input)
 		(at 420.37 194.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4887,7 +4875,6 @@
 	(hierarchical_label "REFCLK_0+"
 		(shape input)
 		(at 118.11 198.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4899,7 +4886,6 @@
 	(hierarchical_label "~{PLT_RST}"
 		(shape input)
 		(at 234.95 200.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4911,7 +4897,6 @@
 	(hierarchical_label "PCIE_RX_0+"
 		(shape output)
 		(at 222.25 220.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4923,7 +4908,6 @@
 	(hierarchical_label "PCIE_TX_1+"
 		(shape input)
 		(at 306.07 222.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4935,7 +4919,6 @@
 	(hierarchical_label "PCIE_TX_1-"
 		(shape input)
 		(at 306.07 224.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4947,7 +4930,6 @@
 	(hierarchical_label "PCIE_TX_0-"
 		(shape input)
 		(at 120.65 223.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4959,7 +4941,6 @@
 	(hierarchical_label "REFCLK_1+"
 		(shape input)
 		(at 303.53 199.39 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4971,7 +4952,6 @@
 	(hierarchical_label "PCIE_RX_1+"
 		(shape output)
 		(at 407.67 222.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4983,7 +4963,6 @@
 	(hierarchical_label "REFCLK_1-"
 		(shape input)
 		(at 303.53 201.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4995,7 +4974,6 @@
 	(hierarchical_label "~{PLT_RST}"
 		(shape input)
 		(at 420.37 201.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

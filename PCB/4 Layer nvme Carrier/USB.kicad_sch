@@ -3423,7 +3423,6 @@
 	)
 	(label "CON_USB3_SSRX_P"
 		(at 408.94 185.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3434,7 +3433,6 @@
 	)
 	(label "CON_USB2_D_P"
 		(at 160.02 246.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3445,7 +3443,6 @@
 	)
 	(label "CON_USB3_D_N"
 		(at 354.33 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3456,7 +3453,6 @@
 	)
 	(label "CON_USB3_D_P"
 		(at 354.33 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3467,7 +3463,6 @@
 	)
 	(label "CON_USB3_SSRX_N"
 		(at 408.94 195.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3478,7 +3473,6 @@
 	)
 	(label "CON_USB2_D_N"
 		(at 160.02 248.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3489,7 +3483,6 @@
 	)
 	(label "CON_USB1_D_P"
 		(at 160.02 241.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3500,7 +3493,6 @@
 	)
 	(label "CON_USB3_SSTX_N"
 		(at 363.22 195.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3511,7 +3503,6 @@
 	)
 	(label "CON_USB3_SSTX_N"
 		(at 421.64 237.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3522,7 +3513,6 @@
 	)
 	(label "CON_USB3_SSRX_P"
 		(at 421.64 232.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3533,7 +3523,6 @@
 	)
 	(label "CON_USB3_SSTX_P"
 		(at 421.64 240.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3544,7 +3533,6 @@
 	)
 	(label "CON_USB3_SSRX_N"
 		(at 421.64 229.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3555,7 +3543,6 @@
 	)
 	(label "CON_USB2_D_N"
 		(at 182.88 270.51 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3566,7 +3553,6 @@
 	)
 	(label "CON_USB3_D_N"
 		(at 421.64 222.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3577,7 +3563,6 @@
 	)
 	(label "CON_USB3_D_P"
 		(at 421.64 224.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3588,7 +3573,6 @@
 	)
 	(label "CON_USB1_D_N"
 		(at 160.02 243.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3599,7 +3583,6 @@
 	)
 	(label "CON_USB3_SSTX_P"
 		(at 363.22 185.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3610,7 +3593,6 @@
 	)
 	(label "CON_USB1_D_P"
 		(at 142.24 260.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3621,7 +3603,6 @@
 	)
 	(label "CON_USB2_D_P"
 		(at 182.88 260.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3632,7 +3613,6 @@
 	)
 	(label "CON_USB1_D_N"
 		(at 142.24 270.51 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3644,7 +3624,6 @@
 	(hierarchical_label "USB_2_P2+"
 		(shape bidirectional)
 		(at 125.73 246.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3656,7 +3635,6 @@
 	(hierarchical_label "USB_2_P3-"
 		(shape bidirectional)
 		(at 125.73 243.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3668,7 +3646,6 @@
 	(hierarchical_label "USB3_SSTX_N"
 		(shape output)
 		(at 392.43 237.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3680,7 +3657,6 @@
 	(hierarchical_label "USB_2_P3+"
 		(shape bidirectional)
 		(at 125.73 241.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3692,7 +3668,6 @@
 	(hierarchical_label "USB_2_P4-"
 		(shape bidirectional)
 		(at 125.73 173.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3704,7 +3679,6 @@
 	(hierarchical_label "USB3_SSRX_P"
 		(shape input)
 		(at 392.43 232.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3716,7 +3690,6 @@
 	(hierarchical_label "USB_2_P2-"
 		(shape bidirectional)
 		(at 125.73 248.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3728,7 +3701,6 @@
 	(hierarchical_label "USB_2_P4+"
 		(shape bidirectional)
 		(at 125.73 171.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3740,7 +3712,6 @@
 	(hierarchical_label "USB3_SSRX_N"
 		(shape input)
 		(at 392.43 229.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3752,7 +3723,6 @@
 	(hierarchical_label "USB_2_P1-"
 		(shape bidirectional)
 		(at 392.43 222.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3764,7 +3734,6 @@
 	(hierarchical_label "USB_2_P1+"
 		(shape bidirectional)
 		(at 392.43 224.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3776,7 +3745,6 @@
 	(hierarchical_label "USB3_SSTX_P"
 		(shape output)
 		(at 392.43 240.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5076,7 +5044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 176.53 233.68 0)
 			(effects
 				(font
@@ -5658,7 +5626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 440.69 217.17 0)
 			(effects
 				(font
@@ -5797,7 +5765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 176.53 166.37 0)
 			(effects
 				(font

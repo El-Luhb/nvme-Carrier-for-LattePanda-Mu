@@ -8194,7 +8194,6 @@
 	(hierarchical_label "REFCLK1-"
 		(shape output)
 		(at 369.57 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8206,7 +8205,6 @@
 	(hierarchical_label "DDI_B_DDC_SCL"
 		(shape output)
 		(at 238.76 214.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8218,7 +8216,6 @@
 	(hierarchical_label "FAN_1_TAC"
 		(shape input)
 		(at 369.57 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8230,7 +8227,6 @@
 	(hierarchical_label "HSIO_9_TX-"
 		(shape output)
 		(at 238.76 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8242,7 +8238,6 @@
 	(hierarchical_label "FAN2_TAC"
 		(shape input)
 		(at 369.57 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8254,7 +8249,6 @@
 	(hierarchical_label "HSIO_11_RX+"
 		(shape input)
 		(at 238.76 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8266,7 +8260,6 @@
 	(hierarchical_label "SPI-IO3"
 		(shape bidirectional)
 		(at 368.3 248.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8278,7 +8271,6 @@
 	(hierarchical_label "USB_2_P1-"
 		(shape bidirectional)
 		(at 238.76 177.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8290,7 +8282,6 @@
 	(hierarchical_label "~{PEWAKE}"
 		(shape output)
 		(at 369.57 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8302,7 +8293,6 @@
 	(hierarchical_label "SPI-IO2"
 		(shape bidirectional)
 		(at 368.3 246.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8314,7 +8304,6 @@
 	(hierarchical_label "HSIO_8_TX-"
 		(shape output)
 		(at 238.76 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8326,7 +8315,6 @@
 	(hierarchical_label "DDI_B_HPD"
 		(shape input)
 		(at 238.76 208.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8338,7 +8326,6 @@
 	(hierarchical_label "REFCLK2+"
 		(shape output)
 		(at 369.57 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8350,7 +8337,6 @@
 	(hierarchical_label "REFCLK3-"
 		(shape output)
 		(at 369.57 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8362,7 +8348,6 @@
 	(hierarchical_label "DDI_B_TX2-"
 		(shape output)
 		(at 238.76 231.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8374,7 +8359,6 @@
 	(hierarchical_label "CLKREQ4"
 		(shape input)
 		(at 382.27 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8386,7 +8370,6 @@
 	(hierarchical_label "REFCLK1+"
 		(shape output)
 		(at 369.57 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8398,7 +8381,6 @@
 	(hierarchical_label "HSIO_11_TX-"
 		(shape output)
 		(at 238.76 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8410,7 +8392,6 @@
 	(hierarchical_label "DDI_B_TX0+"
 		(shape output)
 		(at 238.76 238.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8422,7 +8403,6 @@
 	(hierarchical_label "USB_2_P3+"
 		(shape bidirectional)
 		(at 238.76 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8434,7 +8414,6 @@
 	(hierarchical_label "USB_2_P2+"
 		(shape bidirectional)
 		(at 238.76 180.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8446,7 +8425,6 @@
 	(hierarchical_label "DDI_B_TX3-"
 		(shape output)
 		(at 238.76 226.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8458,7 +8436,6 @@
 	(hierarchical_label "DDI_B_TX0-"
 		(shape output)
 		(at 238.76 241.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8470,7 +8447,6 @@
 	(hierarchical_label "HSIO_0_RX+"
 		(shape input)
 		(at 238.76 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8482,7 +8458,6 @@
 	(hierarchical_label "~{PWR_LED}{slash}~{PSON}"
 		(shape output)
 		(at 247.65 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8494,7 +8469,6 @@
 	(hierarchical_label "SLS_S3"
 		(shape output)
 		(at 247.65 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8506,7 +8480,6 @@
 	(hierarchical_label "HSIO_8_TX+"
 		(shape output)
 		(at 238.76 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8518,7 +8491,6 @@
 	(hierarchical_label "HSIO_11_TX+"
 		(shape output)
 		(at 238.76 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8530,7 +8502,6 @@
 	(hierarchical_label "HSIO_9_RX+"
 		(shape input)
 		(at 238.76 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8542,7 +8513,6 @@
 	(hierarchical_label "REFCLK0+"
 		(shape output)
 		(at 369.57 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8554,7 +8524,6 @@
 	(hierarchical_label "HSIO_6_RX-"
 		(shape input)
 		(at 238.76 172.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8566,7 +8535,6 @@
 	(hierarchical_label "~{PWR_SW}"
 		(shape input)
 		(at 247.65 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8578,7 +8546,6 @@
 	(hierarchical_label "SPI-CS"
 		(shape bidirectional)
 		(at 368.3 251.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8590,7 +8557,6 @@
 	(hierarchical_label "USB_2_P4-"
 		(shape bidirectional)
 		(at 238.76 193.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8602,7 +8568,6 @@
 	(hierarchical_label "HSIO_0_TX+"
 		(shape output)
 		(at 238.76 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8614,7 +8579,6 @@
 	(hierarchical_label "HSIO_3_TX+"
 		(shape output)
 		(at 238.76 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8626,7 +8590,6 @@
 	(hierarchical_label "USB_2_P2-"
 		(shape bidirectional)
 		(at 238.76 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8638,7 +8601,6 @@
 	(hierarchical_label "HSIO_3_TX-"
 		(shape output)
 		(at 238.76 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8650,7 +8612,6 @@
 	(hierarchical_label "HSIO_1_RX-"
 		(shape input)
 		(at 238.76 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8662,7 +8623,6 @@
 	(hierarchical_label "TSENSE"
 		(shape input)
 		(at 369.57 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8674,7 +8634,6 @@
 	(hierarchical_label "HSIO_6_RX+"
 		(shape input)
 		(at 238.76 170.18 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8686,7 +8645,6 @@
 	(hierarchical_label "DDI_B_TX2+"
 		(shape output)
 		(at 238.76 228.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8698,7 +8656,6 @@
 	(hierarchical_label "SPI_CLK"
 		(shape output)
 		(at 368.3 238.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8710,7 +8667,6 @@
 	(hierarchical_label "USB_2_P3-"
 		(shape bidirectional)
 		(at 238.76 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8722,7 +8678,6 @@
 	(hierarchical_label "HSIO_2_TX+"
 		(shape output)
 		(at 238.76 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8734,7 +8689,6 @@
 	(hierarchical_label "FAN_1_PWM"
 		(shape output)
 		(at 369.57 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8746,7 +8700,6 @@
 	(hierarchical_label "SPI-IO1"
 		(shape bidirectional)
 		(at 368.3 243.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8758,7 +8711,6 @@
 	(hierarchical_label "USB_2_P4+"
 		(shape bidirectional)
 		(at 238.76 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8770,7 +8722,6 @@
 	(hierarchical_label "HSIO_1_RX+"
 		(shape input)
 		(at 238.76 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8782,7 +8733,6 @@
 	(hierarchical_label "HSIO_2_RX+"
 		(shape input)
 		(at 238.76 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8794,7 +8744,6 @@
 	(hierarchical_label "DDI_B_TX1-"
 		(shape output)
 		(at 238.76 236.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8806,7 +8755,6 @@
 	(hierarchical_label "REFCLK4+"
 		(shape output)
 		(at 369.57 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8818,7 +8766,6 @@
 	(hierarchical_label "SPI-IO0"
 		(shape bidirectional)
 		(at 368.3 241.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8830,7 +8777,6 @@
 	(hierarchical_label "HSIO_9_RX-"
 		(shape input)
 		(at 238.76 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8842,7 +8788,6 @@
 	(hierarchical_label "HSIO_10_RX+"
 		(shape input)
 		(at 238.76 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8854,7 +8799,6 @@
 	(hierarchical_label "HSIO_10_TX-"
 		(shape output)
 		(at 238.76 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8866,7 +8810,6 @@
 	(hierarchical_label "~{PLT_RST}"
 		(shape output)
 		(at 369.57 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8878,7 +8821,6 @@
 	(hierarchical_label "HSIO_0_RX-"
 		(shape input)
 		(at 238.76 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8890,7 +8832,6 @@
 	(hierarchical_label "FAN2_PWM"
 		(shape input)
 		(at 369.57 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8902,7 +8843,6 @@
 	(hierarchical_label "USB_2_P1+"
 		(shape bidirectional)
 		(at 238.76 175.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8914,7 +8854,6 @@
 	(hierarchical_label "REFCLK3+"
 		(shape output)
 		(at 369.57 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8926,7 +8865,6 @@
 	(hierarchical_label "HSIO_1_TX-"
 		(shape output)
 		(at 238.76 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8938,7 +8876,6 @@
 	(hierarchical_label "REFCLK2-"
 		(shape output)
 		(at 369.57 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8950,7 +8887,6 @@
 	(hierarchical_label "DDI_B_DDC_SDA"
 		(shape bidirectional)
 		(at 238.76 212.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8962,7 +8898,6 @@
 	(hierarchical_label "DDI_B_TX1+"
 		(shape output)
 		(at 238.76 233.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8974,7 +8909,6 @@
 	(hierarchical_label "HSIO_2_RX-"
 		(shape input)
 		(at 238.76 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8986,7 +8920,6 @@
 	(hierarchical_label "HSIO_3_RX+"
 		(shape input)
 		(at 238.76 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8998,7 +8931,6 @@
 	(hierarchical_label "HSIO_1_TX+"
 		(shape output)
 		(at 238.76 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9010,7 +8942,6 @@
 	(hierarchical_label "HSIO_10_TX+"
 		(shape output)
 		(at 238.76 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9022,7 +8953,6 @@
 	(hierarchical_label "HSIO_2_TX-"
 		(shape output)
 		(at 238.76 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9034,7 +8964,6 @@
 	(hierarchical_label "HSIO_6_TX-"
 		(shape output)
 		(at 238.76 167.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9046,7 +8975,6 @@
 	(hierarchical_label "HSIO_6_TX+"
 		(shape output)
 		(at 238.76 165.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9058,7 +8986,6 @@
 	(hierarchical_label "~{RST_SW}"
 		(shape input)
 		(at 247.65 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9070,7 +8997,6 @@
 	(hierarchical_label "CLKREQ3"
 		(shape input)
 		(at 394.97 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9082,7 +9008,6 @@
 	(hierarchical_label "DDI_B_TX3+"
 		(shape output)
 		(at 238.76 223.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9094,7 +9019,6 @@
 	(hierarchical_label "HSIO_0_TX-"
 		(shape output)
 		(at 238.76 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9106,7 +9030,6 @@
 	(hierarchical_label "REFCLK0-"
 		(shape output)
 		(at 369.57 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9118,7 +9041,6 @@
 	(hierarchical_label "REFCLK4-"
 		(shape output)
 		(at 369.57 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9130,7 +9052,6 @@
 	(hierarchical_label "HSIO_9_TX+"
 		(shape output)
 		(at 238.76 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9142,7 +9063,6 @@
 	(hierarchical_label "HSIO_3_RX-"
 		(shape input)
 		(at 238.76 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9154,7 +9074,6 @@
 	(hierarchical_label "HSIO_8_RX-"
 		(shape input)
 		(at 238.76 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9166,7 +9085,6 @@
 	(hierarchical_label "HSIO_11_RX-"
 		(shape input)
 		(at 238.76 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9178,7 +9096,6 @@
 	(hierarchical_label "HSIO_10_RX-"
 		(shape input)
 		(at 238.76 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9190,7 +9107,6 @@
 	(hierarchical_label "HSIO_8_RX+"
 		(shape input)
 		(at 238.76 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

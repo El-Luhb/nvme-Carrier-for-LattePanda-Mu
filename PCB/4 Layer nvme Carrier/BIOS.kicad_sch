@@ -1408,7 +1408,6 @@
 	(hierarchical_label "SPI-CS"
 		(shape bidirectional)
 		(at 100.33 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1420,7 +1419,6 @@
 	(hierarchical_label "SPI_CLK"
 		(shape output)
 		(at 100.33 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1432,7 +1430,6 @@
 	(hierarchical_label "SPI-IO1"
 		(shape bidirectional)
 		(at 100.33 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1444,7 +1441,6 @@
 	(hierarchical_label "SPI-IO0"
 		(shape bidirectional)
 		(at 100.33 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1456,7 +1452,6 @@
 	(hierarchical_label "SPI-IO3"
 		(shape bidirectional)
 		(at 100.33 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1468,7 +1463,6 @@
 	(hierarchical_label "SPI-IO2"
 		(shape bidirectional)
 		(at 100.33 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

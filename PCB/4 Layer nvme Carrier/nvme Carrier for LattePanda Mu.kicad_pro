@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -625,7 +625,7 @@
   },
   "schematic": {
     "annotate_start_num": 77,
-    "bom_export_filename": "",
+    "bom_export_filename": "nvme Carrier for LattePanda Mu.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -819,7 +819,7 @@
   "sheets": [
     [
       "2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa",
-      "Stammblatt"
+      "Root"
     ],
     [
       "6eee02c2-78c9-4e83-9ccf-e0f7690b57bf",

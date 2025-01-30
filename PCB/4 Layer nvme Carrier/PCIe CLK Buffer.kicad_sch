@@ -1752,7 +1752,6 @@
 	)
 	(label "DIF1-"
 		(at 166.37 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1763,7 +1762,6 @@
 	)
 	(label "RDIF1+"
 		(at 193.04 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1774,7 +1772,6 @@
 	)
 	(label "DIF1+"
 		(at 166.37 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1785,7 +1782,6 @@
 	)
 	(label "DIF2+"
 		(at 166.37 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1796,7 +1792,6 @@
 	)
 	(label "RDIF0-"
 		(at 193.04 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1807,7 +1802,6 @@
 	)
 	(label "DIF2-"
 		(at 166.37 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1818,7 +1812,6 @@
 	)
 	(label "RDIF3+"
 		(at 101.6 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1829,7 +1822,6 @@
 	)
 	(label "RDIF1-"
 		(at 193.04 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1840,7 +1832,6 @@
 	)
 	(label "RDIF0+"
 		(at 193.04 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1851,7 +1842,6 @@
 	)
 	(label "RDIF2+"
 		(at 193.04 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1862,7 +1852,6 @@
 	)
 	(label "DIF0+"
 		(at 166.37 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1873,7 +1862,6 @@
 	)
 	(label "DIF0-"
 		(at 166.37 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1884,7 +1872,6 @@
 	)
 	(label "DIF3-"
 		(at 121.92 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1895,7 +1882,6 @@
 	)
 	(label "RDIF2-"
 		(at 193.04 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1906,7 +1892,6 @@
 	)
 	(label "RDIF3-"
 		(at 101.6 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1917,7 +1902,6 @@
 	)
 	(label "DIF3+"
 		(at 121.92 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1929,7 +1913,6 @@
 	(hierarchical_label "REFCLKB3+"
 		(shape output)
 		(at 80.01 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1941,7 +1924,6 @@
 	(hierarchical_label "REFCLKB0+"
 		(shape output)
 		(at 227.33 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1953,7 +1935,6 @@
 	(hierarchical_label "REFCLKB1+"
 		(shape output)
 		(at 227.33 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1965,7 +1946,6 @@
 	(hierarchical_label "CLKREQB1"
 		(shape input)
 		(at 265.43 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1977,7 +1957,6 @@
 	(hierarchical_label "REFCLKB3-"
 		(shape output)
 		(at 80.01 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1989,7 +1968,6 @@
 	(hierarchical_label "CLKREQB2"
 		(shape input)
 		(at 265.43 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2001,7 +1979,6 @@
 	(hierarchical_label "REFCLKB1-"
 		(shape output)
 		(at 227.33 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2013,7 +1990,6 @@
 	(hierarchical_label "REFCLKB0-"
 		(shape output)
 		(at 227.33 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2025,7 +2001,6 @@
 	(hierarchical_label "CLKREQB0"
 		(shape input)
 		(at 39.37 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2037,7 +2012,6 @@
 	(hierarchical_label "REFCLK_IN+"
 		(shape input)
 		(at 72.39 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2049,7 +2023,6 @@
 	(hierarchical_label "CLKREQB3"
 		(shape input)
 		(at 39.37 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2061,7 +2034,6 @@
 	(hierarchical_label "REFCLKB2-"
 		(shape output)
 		(at 227.33 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2073,7 +2045,6 @@
 	(hierarchical_label "REFCLKB2+"
 		(shape output)
 		(at 227.33 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2085,7 +2056,6 @@
 	(hierarchical_label "REFCLK_IN-"
 		(shape input)
 		(at 72.39 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

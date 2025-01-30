@@ -11035,7 +11035,6 @@
 	)
 	(label "PWR_EN"
 		(at 252.73 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11046,7 +11045,6 @@
 	)
 	(label "PWR_EN"
 		(at 300.99 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11058,7 +11056,6 @@
 	(hierarchical_label "~{PWR_SW}"
 		(shape output)
 		(at 59.69 288.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11070,7 +11067,6 @@
 	(hierarchical_label "~{PWR_LED}{slash}~{PSON}"
 		(shape input)
 		(at 218.44 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11082,7 +11078,6 @@
 	(hierarchical_label "~{RST_SW}"
 		(shape output)
 		(at 116.84 288.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11125,7 +11120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 377.19 151.13 0)
 			(effects
 				(font
@@ -11247,7 +11242,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 433.07 196.85 90)
 			(effects
 				(font
@@ -11264,7 +11259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 431.8 191.77 0)
 			(effects
 				(font
@@ -11327,7 +11322,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 431.8 191.77 0)
 			(effects
 				(font
@@ -11345,7 +11340,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 431.8 191.77 0)
 			(effects
 				(font
@@ -11386,7 +11381,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 433.07 307.34 90)
 			(effects
 				(font
@@ -12718,7 +12713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 389.89 261.62 0)
 			(effects
 				(font
@@ -12996,7 +12991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 387.35 113.03 0)
 			(effects
 				(font
@@ -13202,7 +13197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 203.2 127 0)
 			(effects
 				(font
@@ -13480,7 +13475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 505.46 262.89 0)
 			(effects
 				(font
@@ -13668,7 +13663,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 302.26 195.58 90)
 			(effects
 				(font
@@ -13685,7 +13680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 300.99 190.5 0)
 			(effects
 				(font
@@ -13748,7 +13743,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 300.99 190.5 0)
 			(effects
 				(font
@@ -13766,7 +13761,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 300.99 190.5 0)
 			(effects
 				(font
@@ -13963,7 +13958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 372.11 187.96 0)
 			(effects
 				(font
@@ -14424,7 +14419,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 302.26 232.41 90)
 			(effects
 				(font
@@ -14441,7 +14436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 300.99 227.33 0)
 			(effects
 				(font
@@ -14504,7 +14499,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 300.99 227.33 0)
 			(effects
 				(font
@@ -14522,7 +14517,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 300.99 227.33 0)
 			(effects
 				(font
@@ -14580,7 +14575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 394.97 261.62 0)
 			(effects
 				(font
@@ -15373,7 +15368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 388.62 224.79 0)
 			(effects
 				(font
@@ -15633,7 +15628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 379.73 298.45 0)
 			(effects
 				(font
@@ -15962,7 +15957,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 433.07 124.46 90)
 			(effects
 				(font
@@ -15979,7 +15974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 431.8 119.38 0)
 			(effects
 				(font
@@ -16042,7 +16037,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 431.8 119.38 0)
 			(effects
 				(font
@@ -16060,7 +16055,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 431.8 119.38 0)
 			(effects
 				(font
@@ -16997,7 +16992,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 427.99 233.68 90)
 			(effects
 				(font
@@ -17014,7 +17009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 426.72 228.6 0)
 			(effects
 				(font
@@ -17077,7 +17072,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 426.72 228.6 0)
 			(effects
 				(font
@@ -17095,7 +17090,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 426.72 228.6 0)
 			(effects
 				(font
@@ -17153,7 +17148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 377.19 187.96 0)
 			(effects
 				(font
@@ -17292,7 +17287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 510.54 262.89 0)
 			(effects
 				(font
@@ -17622,7 +17617,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 427.99 196.85 90)
 			(effects
 				(font
@@ -17639,7 +17634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 426.72 191.77 0)
 			(effects
 				(font
@@ -17702,7 +17697,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 426.72 191.77 0)
 			(effects
 				(font
@@ -17720,7 +17715,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 426.72 191.77 0)
 			(effects
 				(font
@@ -17827,7 +17822,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 427.99 307.34 90)
 			(effects
 				(font
@@ -18188,7 +18183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 387.35 187.96 0)
 			(effects
 				(font
@@ -19082,7 +19077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 374.65 261.62 0)
 			(effects
 				(font
@@ -19221,7 +19216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 520.7 262.89 0)
 			(effects
 				(font
@@ -19997,7 +19992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 525.78 262.89 0)
 			(effects
 				(font
@@ -20136,7 +20131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 379.73 261.62 0)
 			(effects
 				(font
@@ -20553,7 +20548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 523.24 115.57 0)
 			(effects
 				(font
@@ -21825,7 +21820,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 302.26 306.07 90)
 			(effects
 				(font
@@ -21842,7 +21837,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 300.99 300.99 0)
 			(effects
 				(font
@@ -21905,7 +21900,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 300.99 300.99 0)
 			(effects
 				(font
@@ -21923,7 +21918,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 300.99 300.99 0)
 			(effects
 				(font
@@ -22646,7 +22641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 393.7 224.79 0)
 			(effects
 				(font
@@ -23208,7 +23203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 389.89 298.45 0)
 			(effects
 				(font
@@ -23330,7 +23325,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 297.18 306.07 90)
 			(effects
 				(font
@@ -23347,7 +23342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 295.91 300.99 0)
 			(effects
 				(font
@@ -23410,7 +23405,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 295.91 300.99 0)
 			(effects
 				(font
@@ -23428,7 +23423,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 295.91 300.99 0)
 			(effects
 				(font
@@ -23764,7 +23759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 524.51 226.06 0)
 			(effects
 				(font
@@ -24242,7 +24237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 508 115.57 0)
 			(effects
 				(font
@@ -24601,7 +24596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 392.43 151.13 0)
 			(effects
 				(font
@@ -24740,7 +24735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 392.43 113.03 0)
 			(effects
 				(font
@@ -25049,7 +25044,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 179.07 132.08 90)
 			(effects
 				(font
@@ -25066,7 +25061,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 177.8 127 0)
 			(effects
 				(font
@@ -25129,7 +25124,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 177.8 127 0)
 			(effects
 				(font
@@ -25147,7 +25142,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 177.8 127 0)
 			(effects
 				(font
@@ -25459,7 +25454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 519.43 226.06 0)
 			(effects
 				(font
@@ -25598,7 +25593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 502.92 189.23 0)
 			(effects
 				(font
@@ -25737,7 +25732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 509.27 226.06 0)
 			(effects
 				(font
@@ -25876,7 +25871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 394.97 298.45 0)
 			(effects
 				(font
@@ -26122,7 +26117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 518.16 115.57 0)
 			(effects
 				(font
@@ -26261,7 +26256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 372.11 151.13 0)
 			(effects
 				(font
@@ -27144,7 +27139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 518.16 189.23 0)
 			(effects
 				(font
@@ -27425,7 +27420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 392.43 187.96 0)
 			(effects
 				(font
@@ -28137,7 +28132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 377.19 113.03 0)
 			(effects
 				(font
@@ -29702,7 +29697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 504.19 226.06 0)
 			(effects
 				(font
@@ -30349,7 +30344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 374.65 298.45 0)
 			(effects
 				(font
@@ -30815,7 +30810,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 302.26 158.75 90)
 			(effects
 				(font
@@ -30832,7 +30827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 300.99 153.67 0)
 			(effects
 				(font
@@ -30895,7 +30890,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 300.99 153.67 0)
 			(effects
 				(font
@@ -30913,7 +30908,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 300.99 153.67 0)
 			(effects
 				(font
@@ -31060,7 +31055,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 300.99 121.92 90)
 			(effects
 				(font
@@ -31077,7 +31072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 299.72 116.84 0)
 			(effects
 				(font
@@ -31140,7 +31135,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 299.72 116.84 0)
 			(effects
 				(font
@@ -31158,7 +31153,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 299.72 116.84 0)
 			(effects
 				(font
@@ -31216,7 +31211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 523.24 189.23 0)
 			(effects
 				(font
@@ -31821,7 +31816,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 427.99 124.46 90)
 			(effects
 				(font
@@ -31838,7 +31833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 426.72 119.38 0)
 			(effects
 				(font
@@ -31901,7 +31896,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 426.72 119.38 0)
 			(effects
 				(font
@@ -31919,7 +31914,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 426.72 119.38 0)
 			(effects
 				(font
@@ -32614,7 +32609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 387.35 151.13 0)
 			(effects
 				(font
@@ -32875,7 +32870,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 297.18 195.58 90)
 			(effects
 				(font
@@ -32892,7 +32887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 295.91 190.5 0)
 			(effects
 				(font
@@ -32955,7 +32950,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 295.91 190.5 0)
 			(effects
 				(font
@@ -32973,7 +32968,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 295.91 190.5 0)
 			(effects
 				(font
@@ -33291,7 +33286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 508 189.23 0)
 			(effects
 				(font
@@ -33413,7 +33408,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 297.18 232.41 90)
 			(effects
 				(font
@@ -33430,7 +33425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 295.91 227.33 0)
 			(effects
 				(font
@@ -33493,7 +33488,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 295.91 227.33 0)
 			(effects
 				(font
@@ -33511,7 +33506,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 295.91 227.33 0)
 			(effects
 				(font
@@ -33618,7 +33613,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 302.26 269.24 90)
 			(effects
 				(font
@@ -33635,7 +33630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 300.99 264.16 0)
 			(effects
 				(font
@@ -33698,7 +33693,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 300.99 264.16 0)
 			(effects
 				(font
@@ -33716,7 +33711,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 300.99 264.16 0)
 			(effects
 				(font
@@ -33897,7 +33892,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 433.07 233.68 90)
 			(effects
 				(font
@@ -33914,7 +33909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 431.8 228.6 0)
 			(effects
 				(font
@@ -33977,7 +33972,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 431.8 228.6 0)
 			(effects
 				(font
@@ -33995,7 +33990,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 431.8 228.6 0)
 			(effects
 				(font
@@ -34522,7 +34517,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 433.07 270.51 90)
 			(effects
 				(font
@@ -34539,7 +34534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 431.8 265.43 0)
 			(effects
 				(font
@@ -34602,7 +34597,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 431.8 265.43 0)
 			(effects
 				(font
@@ -34620,7 +34615,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 431.8 265.43 0)
 			(effects
 				(font
@@ -34950,7 +34945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 372.11 113.03 0)
 			(effects
 				(font
@@ -35072,7 +35067,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 297.18 269.24 90)
 			(effects
 				(font
@@ -35089,7 +35084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 295.91 264.16 0)
 			(effects
 				(font
@@ -35152,7 +35147,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 295.91 264.16 0)
 			(effects
 				(font
@@ -35170,7 +35165,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 295.91 264.16 0)
 			(effects
 				(font
@@ -35228,7 +35223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 502.92 115.57 0)
 			(effects
 				(font
@@ -35350,7 +35345,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 427.99 270.51 90)
 			(effects
 				(font
@@ -35367,7 +35362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 426.72 265.43 0)
 			(effects
 				(font
@@ -35430,7 +35425,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 426.72 265.43 0)
 			(effects
 				(font
@@ -35448,7 +35443,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 426.72 265.43 0)
 			(effects
 				(font
@@ -37777,7 +37772,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 295.91 121.92 90)
 			(effects
 				(font
@@ -37794,7 +37789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 294.64 116.84 0)
 			(effects
 				(font
@@ -37857,7 +37852,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 294.64 116.84 0)
 			(effects
 				(font
@@ -37875,7 +37870,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 294.64 116.84 0)
 			(effects
 				(font
@@ -37982,7 +37977,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22uF/16V"
 			(at 297.18 158.75 90)
 			(effects
 				(font
@@ -37999,7 +37994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2208111030_Samsung-Electro-Mechanics-CL10A226MO7JZNC_C2762594.pdf"
 			(at 295.91 153.67 0)
 			(effects
 				(font
@@ -38062,7 +38057,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL10A226MP8NUNE"
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 295.91 153.67 0)
 			(effects
 				(font
@@ -38080,7 +38075,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C86295"
+		(property "LCSC Part #" "C2762594"
 			(at 295.91 153.67 0)
 			(effects
 				(font
@@ -38817,7 +38812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 378.46 224.79 0)
 			(effects
 				(font
@@ -39022,7 +39017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10A226MP8NUNE_C86295.pdf"
 			(at 373.38 224.79 0)
 			(effects
 				(font

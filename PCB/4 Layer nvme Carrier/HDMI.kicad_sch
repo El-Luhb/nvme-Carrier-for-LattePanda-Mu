@@ -5397,7 +5397,6 @@
 	)
 	(label "TMDS_CK-"
 		(at 368.3 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5408,7 +5407,6 @@
 	)
 	(label "TMDS_D2+"
 		(at 271.78 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5419,7 +5417,6 @@
 	)
 	(label "TMDS_D0+"
 		(at 368.3 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5430,7 +5427,6 @@
 	)
 	(label "TMDS_D2-"
 		(at 285.75 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5441,7 +5437,6 @@
 	)
 	(label "DDC_SCL"
 		(at 281.94 243.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5452,7 +5447,6 @@
 	)
 	(label "TMDS_CK-"
 		(at 271.78 176.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5463,7 +5457,6 @@
 	)
 	(label "TMDS_D2-"
 		(at 271.78 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5474,7 +5467,6 @@
 	)
 	(label "TMDS_D1-"
 		(at 368.3 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5485,7 +5477,6 @@
 	)
 	(label "TMDS_D0-"
 		(at 336.55 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5496,7 +5487,6 @@
 	)
 	(label "TMDS_D0-"
 		(at 271.78 165.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5507,7 +5497,6 @@
 	)
 	(label "TMDS_D0+"
 		(at 271.78 162.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5518,7 +5507,6 @@
 	)
 	(label "TMDS_D0+"
 		(at 336.55 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5529,7 +5517,6 @@
 	)
 	(label "TMDS_D2+"
 		(at 285.75 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5540,7 +5527,6 @@
 	)
 	(label "TMDS_CK+"
 		(at 373.38 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5551,7 +5537,6 @@
 	)
 	(label "TMDS_CK-"
 		(at 373.38 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5562,7 +5547,6 @@
 	)
 	(label "TMDS_D1-"
 		(at 271.78 153.67 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5573,7 +5557,6 @@
 	)
 	(label "TMDS_D1+"
 		(at 322.58 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5584,7 +5567,6 @@
 	)
 	(label "TMDS_D0-"
 		(at 368.3 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5595,7 +5577,6 @@
 	)
 	(label "TMDS_CK+"
 		(at 271.78 173.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5606,7 +5587,6 @@
 	)
 	(label "TMDS_CK+"
 		(at 368.3 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5617,7 +5597,6 @@
 	)
 	(label "TMDS_D1+"
 		(at 368.3 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5628,7 +5607,6 @@
 	)
 	(label "DDC_SDA"
 		(at 281.94 262.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5639,7 +5617,6 @@
 	)
 	(label "TMDS_D2+"
 		(at 368.3 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5650,7 +5627,6 @@
 	)
 	(label "TMDS_D2-"
 		(at 368.3 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5661,7 +5637,6 @@
 	)
 	(label "TMDS_D1-"
 		(at 322.58 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5672,7 +5647,6 @@
 	)
 	(label "HPD"
 		(at 283.21 294.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5683,7 +5657,6 @@
 	)
 	(label "TMDS_D1+"
 		(at 271.78 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5695,7 +5668,6 @@
 	(hierarchical_label "DDI_B_TX3-"
 		(shape input)
 		(at 181.61 176.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5707,7 +5679,6 @@
 	(hierarchical_label "DDI_B_DDC_SDA"
 		(shape bidirectional)
 		(at 181.61 262.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5719,7 +5690,6 @@
 	(hierarchical_label "DDI_B_TX0+"
 		(shape input)
 		(at 181.61 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5731,7 +5701,6 @@
 	(hierarchical_label "DDI_B_TX2+"
 		(shape input)
 		(at 181.61 162.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5743,7 +5712,6 @@
 	(hierarchical_label "DDI_B_HPD"
 		(shape input)
 		(at 182.88 294.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5755,7 +5723,6 @@
 	(hierarchical_label "DDI_B_TX3+"
 		(shape input)
 		(at 181.61 173.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5767,7 +5734,6 @@
 	(hierarchical_label "DDI_B_DDC_SCL"
 		(shape output)
 		(at 181.61 243.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5779,7 +5745,6 @@
 	(hierarchical_label "DDI_B_TX0-"
 		(shape input)
 		(at 181.61 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5791,7 +5756,6 @@
 	(hierarchical_label "~{PWR_LED}{slash}~{PSON}"
 		(shape input)
 		(at 281.94 212.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5803,7 +5767,6 @@
 	(hierarchical_label "DDI_B_TX1+"
 		(shape input)
 		(at 181.61 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5815,7 +5778,6 @@
 	(hierarchical_label "DDI_B_TX1-"
 		(shape input)
 		(at 181.61 153.67 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5827,7 +5789,6 @@
 	(hierarchical_label "DDI_B_TX2-"
 		(shape input)
 		(at 181.61 165.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

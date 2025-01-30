@@ -2293,7 +2293,6 @@
 	(hierarchical_label "FAN_1_TAC"
 		(shape output)
 		(at 289.56 162.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2305,7 +2304,6 @@
 	(hierarchical_label "FAN_1_PWM"
 		(shape input)
 		(at 289.56 167.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2317,7 +2315,6 @@
 	(hierarchical_label "TEMP"
 		(shape output)
 		(at 200.66 158.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2329,7 +2326,6 @@
 	(hierarchical_label "FAN_2_PWM"
 		(shape input)
 		(at 289.56 243.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2341,7 +2337,6 @@
 	(hierarchical_label "FAN_2_TAC"
 		(shape output)
 		(at 289.56 238.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
