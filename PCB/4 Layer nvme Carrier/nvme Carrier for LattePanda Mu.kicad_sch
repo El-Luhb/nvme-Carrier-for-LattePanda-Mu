@@ -435,16 +435,6 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 218.44) (xy 227.33 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e95d97b-199a-4175-951d-f599c4d6224a")
-	)
-	(wire
-		(pts
 			(xy 195.58 334.01) (xy 367.03 334.01)
 		)
 		(stroke
@@ -492,16 +482,6 @@
 			(type default)
 		)
 		(uuid "42b2a0b3-7cfa-4b5c-b698-15cad525c71b")
-	)
-	(wire
-		(pts
-			(xy 195.58 220.98) (xy 227.33 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42b6bfe9-59e9-4878-b671-301246b20a1a")
 	)
 	(wire
 		(pts
@@ -802,6 +782,16 @@
 			(type default)
 		)
 		(uuid "95018daa-6cee-406f-85fb-6987a953cb85")
+	)
+	(wire
+		(pts
+			(xy 195.58 220.98) (xy 227.33 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9837c268-7c1c-4d35-b37f-38a7aead552e")
 	)
 	(wire
 		(pts
@@ -1112,6 +1102,16 @@
 			(type default)
 		)
 		(uuid "e726a7ff-dfae-4c56-8393-e19e0f893884")
+	)
+	(wire
+		(pts
+			(xy 195.58 218.44) (xy 227.33 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb525ba4-5dc4-4bea-9d09-f12c6cd978b9")
 	)
 	(wire
 		(pts
@@ -4763,7 +4763,7 @@
 			(uuid "c931ca97-01f3-4aee-b3a0-3e740c798ee0")
 		)
 		(pin "USB3_SSTX_N" output
-			(at 195.58 218.44 0)
+			(at 195.58 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4773,7 +4773,7 @@
 			(uuid "56403d9e-37f0-4da2-bf71-e92b35661a8b")
 		)
 		(pin "USB3_SSTX_P" output
-			(at 195.58 220.98 0)
+			(at 195.58 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
