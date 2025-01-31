@@ -5942,7 +5942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3cc"
+		(property "Value" "+3V3f"
 			(at 482.6 212.598 0)
 			(effects
 				(font
@@ -6470,8 +6470,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "18d2e11d-a98f-4d5a-9f1e-c47c43ec3861")
 		(property "Reference" "#PWR0157"
@@ -6603,8 +6603,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1b87f5c4-e669-4986-bf90-0399a96d038b")
 		(property "Reference" "#PWR0165"
@@ -9711,8 +9711,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5168a559-944e-4215-91b4-9423388fa60e")
 		(property "Reference" "H1560"
@@ -10852,8 +10852,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6d736b8b-fc24-406c-ac90-970eee2076e6")
 		(property "Reference" "#PWR0177"
@@ -10918,8 +10918,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6e1e13b3-c12e-4165-9b40-e8acdf1058d8")
 		(property "Reference" "#PWR0161"
@@ -11535,8 +11535,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7a2027c8-6485-4fd5-8113-69db8fb37177")
 		(property "Reference" "H1360"
@@ -12676,8 +12676,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "88b537eb-e730-47f9-a590-9896ce0b8a5d")
 		(property "Reference" "#PWR0173"
@@ -14140,7 +14140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3aa"
+		(property "Value" "+3V3d"
 			(at 121.92 208.026 0)
 			(effects
 				(font
@@ -16257,8 +16257,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bad808c2-5bc3-4360-9a17-b0de1c6ec94c")
 		(property "Reference" "H1060"
@@ -16826,8 +16826,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bf4c9cd0-2d54-4e1f-b62f-2f555b4c1327")
 		(property "Reference" "H1460"
@@ -17231,7 +17231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3bb"
+		(property "Value" "+3V3e"
 			(at 293.37 211.836 0)
 			(effects
 				(font
@@ -17770,8 +17770,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d269e570-be9f-444d-8bb5-03176d3c9e1e")
 		(property "Reference" "H1160"
@@ -18021,8 +18021,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d575c3d6-10eb-4d00-8b38-e974372b9f68")
 		(property "Reference" "H1260"
@@ -18133,8 +18133,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d6d35f99-40b4-4a3d-9369-9f38b74827a3")
 		(property "Reference" "#PWR0169"

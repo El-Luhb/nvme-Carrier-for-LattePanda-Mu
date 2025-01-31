@@ -5419,7 +5419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3d"
+		(property "Value" "+3V3g"
 			(at 393.7 153.162 0)
 			(effects
 				(font
