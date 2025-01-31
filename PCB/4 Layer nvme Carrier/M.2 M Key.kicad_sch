@@ -7521,8 +7521,9 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3bb"
+		(property "Value" "+3V3e"
 			(at 335.28 279.4 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9836,8 +9837,9 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3cc"
+		(property "Value" "+3V3f"
 			(at 524.51 280.67 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12623,8 +12625,9 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3aa"
+		(property "Value" "+3V3d"
 			(at 163.83 275.59 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
