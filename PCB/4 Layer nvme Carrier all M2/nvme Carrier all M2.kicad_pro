@@ -63,7 +63,15 @@
           "width": 0.1705
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|113571000|113432800|8a92f9b9-bef3-4728-b195-bb761562f4b5|cec563ad-1407-4b87-af0f-2e6cb240815f",
+        "courtyards_overlap|114821000|111682800|cec563ad-1407-4b87-af0f-2e6cb240815f|da74d412-3e77-47ce-9978-cb53b1ba270f",
+        "courtyards_overlap|164085210|86186495|964b4282-0a81-4bcd-aeb2-25a31e8522ca|cec563ad-1407-4b87-af0f-2e6cb240815f",
+        "courtyards_overlap|164643608|149794647|3d93e218-875d-460b-a021-3cdb6694243b|cec563ad-1407-4b87-af0f-2e6cb240815f",
+        "courtyards_overlap|167539510|127017800|64357147-95a8-4792-a2e2-b7497568ec21|cec563ad-1407-4b87-af0f-2e6cb240815f",
+        "courtyards_overlap|167539552|125967800|b72767b0-c95e-4bf1-b75d-70960833663d|cec563ad-1407-4b87-af0f-2e6cb240815f",
+        "via_dangling|167246000|60147800|c0c7a854-ed2a-4a50-8ea7-3fd769fedc57|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -225,10 +233,6 @@
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.4,
-          "drill": 0.2
         },
         {
           "diameter": 0.5,
@@ -662,7 +666,7 @@
           "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -725,7 +729,7 @@
           "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "MPN",
           "name": "MPN",
           "show": true
@@ -759,6 +763,36 @@
           "label": "LCSC Part #",
           "name": "LCSC Part #",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Supplier Part",
+          "name": "Supplier Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Supplier",
+          "name": "Supplier",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part Name",
+          "name": "LCSC Part Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part",
+          "name": "Manufacturer Part",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -826,32 +860,32 @@
       "LattePanda Module"
     ],
     [
-      "0716e4e5-1aca-46b3-961a-42a6c1122566",
-      "M.2 E&M-Key"
+      "b23aee49-27d1-466d-98e2-113ee657e42b",
+      "PSU"
     ],
     [
-      "b169c362-0273-44a3-bb19-0bcbad977976",
-      "HDMI DP"
+      "1677a3e5-e8c7-4d6f-9008-9e798d440696",
+      "BIOS"
     ],
     [
       "f9aa04f2-8362-4e9f-9e54-e2b1a8ec9b0a",
       "USB"
     ],
     [
+      "b169c362-0273-44a3-bb19-0bcbad977976",
+      "HDMI DP"
+    ],
+    [
       "ef6f480d-d7ca-4322-a73f-5177e707fe9e",
       "M.2 M Key"
     ],
     [
-      "b23aee49-27d1-466d-98e2-113ee657e42b",
-      "PSU"
+      "0716e4e5-1aca-46b3-961a-42a6c1122566",
+      "M.2 E&M-Key"
     ],
     [
       "3a597c52-640b-4e4c-bb57-6eff9e8fff95",
       "Fan_Temp"
-    ],
-    [
-      "1677a3e5-e8c7-4d6f-9008-9e798d440696",
-      "BIOS"
     ],
     [
       "ffca69ad-2385-49e6-8204-ab2e1db64df1",

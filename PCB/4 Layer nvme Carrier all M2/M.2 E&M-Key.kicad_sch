@@ -4655,7 +4655,7 @@
 		)
 		(uuid "1b6c23aa-b3d1-4b77-9173-7e8251b2c7a7")
 	)
-	(hierarchical_label "USB_2_P7-"
+	(hierarchical_label "USB_2_P5-"
 		(shape bidirectional)
 		(at 353.06 209.55 180)
 		(effects
@@ -4820,7 +4820,7 @@
 		)
 		(uuid "ea3204a6-d793-4405-83fa-01af452d6da4")
 	)
-	(hierarchical_label "USB_2_P7+"
+	(hierarchical_label "USB_2_P5+"
 		(shape bidirectional)
 		(at 353.06 207.01 180)
 		(effects
@@ -5002,7 +5002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3g"
 			(at 461.01 179.07 0)
 			(effects
 				(font
@@ -5948,6 +5948,127 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 257.81 207.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50dc5f45-fcfb-43d2-a0f1-f780add3e99c")
+		(property "Reference" "H242"
+			(at 260.35 204.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad_15"
+			(at 260.35 207.0099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "MountingHole"
+			(at 257.81 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d9ccba7-0b2b-442b-bc90-ba3326bddbe9")
+		)
+		(instances
+			(project "nvme Carrier all M2"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/0716e4e5-1aca-46b3-961a-42a6c1122566"
+					(reference "H242")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 231.14 222.25 90)
 		(unit 1)
@@ -6054,6 +6175,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 257.81 209.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b633096-0f78-4459-aeb9-ec6edcfd69dd")
+		(property "Reference" "#PWR0150"
+			(at 257.81 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 257.81 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 257.81 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 257.81 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0a1ab544-18ca-4dff-becf-fe7ff0f97d51")
+		)
+		(instances
+			(project "nvme Carrier all M2"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/0716e4e5-1aca-46b3-961a-42a6c1122566"
+					(reference "#PWR0150")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 307.34 191.77 0)
 		(unit 1)
@@ -6072,7 +6259,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_Pad_15"
 			(at 309.88 191.77 0)
 			(effects
 				(font
@@ -6081,7 +6268,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:MountingHole_2.75mm_M2_4.4mm_Pad_TopOnly"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 307.34 191.77 0)
 			(effects
 				(font
@@ -6090,7 +6277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 307.34 191.77 0)
 			(effects
 				(font
@@ -6127,6 +6314,33 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 307.34 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 307.34 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
+			(at 307.34 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "MountingHole"
 			(at 307.34 191.77 0)
 			(effects
 				(font
@@ -6401,7 +6615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3g"
 			(at 193.04 137.16 0)
 			(effects
 				(font
@@ -7293,7 +7507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3g"
 			(at 419.1 138.43 0)
 			(effects
 				(font
@@ -8043,7 +8257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df38eb92-2515-45ff-84cf-f7c8f5080159")
-		(property "Reference" "H200"
+		(property "Reference" "H280"
 			(at 260.35 189.2299 0)
 			(effects
 				(font
@@ -8052,7 +8266,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.0"
+		(property "Value" "MountingHole_Pad_15"
 			(at 260.35 191.7699 0)
 			(effects
 				(font
@@ -8061,7 +8275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:MountingHole_2.75mm_M2_4.4mm_Pad_TopOnly"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 257.81 191.77 0)
 			(effects
 				(font
@@ -8070,7 +8284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 257.81 191.77 0)
 			(effects
 				(font
@@ -8115,13 +8329,40 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5221852"
+			(at 257.81 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
+			(at 257.81 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "MountingHole"
+			(at 257.81 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eddbf76e-06b5-45d4-ad43-8f52e6fffb2d")
 		)
 		(instances
 			(project "nvme Carrier all M2"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/0716e4e5-1aca-46b3-961a-42a6c1122566"
-					(reference "H200")
+					(reference "H280")
 					(unit 1)
 				)
 			)
@@ -8527,7 +8768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3g"
 			(at 231.14 205.74 0)
 			(effects
 				(font

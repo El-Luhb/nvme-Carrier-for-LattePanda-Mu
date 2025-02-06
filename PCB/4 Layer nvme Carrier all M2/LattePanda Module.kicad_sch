@@ -6408,10 +6408,6 @@
 		(uuid "127229bc-9e0f-48d7-9371-fda260d52c5a")
 	)
 	(no_connect
-		(at 351.79 147.32)
-		(uuid "15292ce2-227b-4373-bc84-a248ff3b7634")
-	)
-	(no_connect
 		(at 351.79 180.34)
 		(uuid "15951f87-0e72-4db5-bcb1-d077209f3f56")
 	)
@@ -6426,10 +6422,6 @@
 	(no_connect
 		(at 270.51 309.88)
 		(uuid "1b3a7a76-d2e5-4ab9-9410-77f1da88e6e0")
-	)
-	(no_connect
-		(at 270.51 195.58)
-		(uuid "216224e2-b3b2-40ab-a4cd-6fe320da7fd6")
 	)
 	(no_connect
 		(at 351.79 134.62)
@@ -6508,10 +6500,6 @@
 		(uuid "4f8d4e9e-2f79-4c21-b37b-59996468d869")
 	)
 	(no_connect
-		(at 351.79 119.38)
-		(uuid "511c2fdc-6b2e-493d-b63e-67ab463a3b03")
-	)
-	(no_connect
 		(at 270.51 297.18)
 		(uuid "53139611-db6b-46e0-bfd8-6cca055e3a7b")
 	)
@@ -6520,20 +6508,8 @@
 		(uuid "56baab66-e3cb-4623-9d52-5f6f9aa855be")
 	)
 	(no_connect
-		(at 270.51 200.66)
-		(uuid "56f801fd-36d4-4349-9db7-64010a1a4c10")
-	)
-	(no_connect
 		(at 351.79 269.24)
 		(uuid "593e0b75-c8a3-4dd2-a5cd-da1fea55a01c")
-	)
-	(no_connect
-		(at 270.51 198.12)
-		(uuid "5a29d428-dcc3-46b8-9e73-bbd39b66ccb2")
-	)
-	(no_connect
-		(at 270.51 203.2)
-		(uuid "5c2bad1c-6522-48d2-83ca-6d0075d1f26b")
 	)
 	(no_connect
 		(at 351.79 271.78)
@@ -6672,10 +6648,6 @@
 		(uuid "eaada651-00fe-4b65-b762-1626a63b33ae")
 	)
 	(no_connect
-		(at 351.79 116.84)
-		(uuid "f0eca5b0-04d4-412d-b197-2f7f5c4d456c")
-	)
-	(no_connect
 		(at 270.51 317.5)
 		(uuid "f1244cc0-1ae9-4795-aea9-408182319469")
 	)
@@ -6748,6 +6720,16 @@
 			(type default)
 		)
 		(uuid "03ae88c6-9c03-4eab-90b6-4a59306ca4ca")
+	)
+	(wire
+		(pts
+			(xy 351.79 147.32) (xy 369.57 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0639b637-7882-4ffb-aa9e-a845afeac65e")
 	)
 	(wire
 		(pts
@@ -6838,6 +6820,16 @@
 			(type default)
 		)
 		(uuid "1b3b66bf-30cb-4fd5-bf31-d61374e84093")
+	)
+	(wire
+		(pts
+			(xy 238.76 195.58) (xy 270.51 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b41dc90-73d5-4302-9ff5-084a3f0222b7")
 	)
 	(wire
 		(pts
@@ -7111,6 +7103,16 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 200.66) (xy 270.51 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52112ea3-97ea-4792-9779-107da21b0b85")
+	)
+	(wire
+		(pts
 			(xy 238.76 139.7) (xy 270.51 139.7)
 		)
 		(stroke
@@ -7291,6 +7293,16 @@
 	)
 	(wire
 		(pts
+			(xy 351.79 116.84) (xy 363.22 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79d2437a-1726-46b1-acee-b4c974204af2")
+	)
+	(wire
+		(pts
 			(xy 238.76 254) (xy 266.7 254)
 		)
 		(stroke
@@ -7421,6 +7433,16 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 198.12) (xy 270.51 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c4849e8-1f17-4389-b75f-b31f7e794d70")
+	)
+	(wire
+		(pts
 			(xy 215.9 73.66) (xy 270.51 73.66)
 		)
 		(stroke
@@ -7518,6 +7540,16 @@
 			(type default)
 		)
 		(uuid "a235d3c2-c7a8-46ad-9dbc-9330399262ef")
+	)
+	(wire
+		(pts
+			(xy 351.79 119.38) (xy 363.22 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a30ad7a3-510f-4a2f-bb98-f7210f7b94c3")
 	)
 	(wire
 		(pts
@@ -7668,6 +7700,16 @@
 			(type default)
 		)
 		(uuid "c21e617c-0f35-4651-88b9-04a13a8c072b")
+	)
+	(wire
+		(pts
+			(xy 238.76 203.2) (xy 270.51 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c59ead01-cc04-4e50-84f4-787afd090070")
 	)
 	(wire
 		(pts
@@ -8282,6 +8324,17 @@
 		)
 		(uuid "00c8e315-c422-4ab1-88a2-405da9c34e5e")
 	)
+	(hierarchical_label "SUSCLK"
+		(shape input)
+		(at 369.57 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "02930e38-5cd9-4264-b3c8-c7d46157e071")
+	)
 	(hierarchical_label "FAN_1_TAC"
 		(shape input)
 		(at 369.57 66.04 0)
@@ -8403,6 +8456,17 @@
 		)
 		(uuid "1c07c2e5-9994-4449-9eba-d4e2959b6534")
 	)
+	(hierarchical_label "USB_2_P7-"
+		(shape bidirectional)
+		(at 238.76 198.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1c90c513-fabc-4e3c-8d34-95e76298ea4b")
+	)
 	(hierarchical_label "REFCLK2+"
 		(shape output)
 		(at 369.57 92.71 0)
@@ -8413,6 +8477,17 @@
 			(justify left)
 		)
 		(uuid "25cb1d44-2afd-4aaa-9d16-d24466361511")
+	)
+	(hierarchical_label "USB_2_P8+"
+		(shape bidirectional)
+		(at 238.76 200.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2c457f98-2ce8-477e-b36a-a49da2763697")
 	)
 	(hierarchical_label "REFCLK3-"
 		(shape output)
@@ -8435,6 +8510,17 @@
 			(justify right)
 		)
 		(uuid "2ff85284-a3de-4f39-9ecc-02e376128f92")
+	)
+	(hierarchical_label "USB_2_P5-"
+		(shape bidirectional)
+		(at 363.22 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "317cce6d-037f-4c74-bec4-5962c3882e87")
 	)
 	(hierarchical_label "TCP_0_HPD"
 		(shape input)
@@ -8479,6 +8565,17 @@
 			(justify right)
 		)
 		(uuid "3725544c-0bd3-4c6e-8ac4-14dd0e7add01")
+	)
+	(hierarchical_label "USB_2_P7+"
+		(shape bidirectional)
+		(at 238.76 195.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3736a3bd-d557-4d97-839d-8b3ff6f44b93")
 	)
 	(hierarchical_label "HSIO_11_TX-"
 		(shape output)
@@ -8678,6 +8775,17 @@
 		)
 		(uuid "5552eef7-31f7-42e0-865e-5485037d81f3")
 	)
+	(hierarchical_label "USB_2_P8-"
+		(shape bidirectional)
+		(at 238.76 203.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "590d704b-5114-4549-ba1a-70ae65c294f8")
+	)
 	(hierarchical_label "HSIO_0_TX+"
 		(shape output)
 		(at 238.76 78.74 180)
@@ -8776,6 +8884,17 @@
 			(justify left)
 		)
 		(uuid "7c0ba0b9-4b8a-49ac-8117-826214b19095")
+	)
+	(hierarchical_label "USB_2_P5+"
+		(shape bidirectional)
+		(at 363.22 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "81151213-0b0a-4a2a-a84b-21c0f0c27cad")
 	)
 	(hierarchical_label "HSIO_6_RX+"
 		(shape input)
@@ -11911,7 +12030,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_Pad"
+		(property "Value" "MountingHole_Pad_50"
 			(at 416.56 299.72 0)
 			(effects
 				(font
@@ -11929,7 +12048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM250STR_C5301799.pdf"
 			(at 414.02 299.72 0)
 			(effects
 				(font
@@ -11992,6 +12111,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5301799"
+			(at 414.02 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM250STR"
+			(at 414.02 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72b06b27-6b76-41ed-86f5-8ca1971603e6")
 		)
@@ -12022,7 +12159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V"
+		(property "Value" "VDC"
 			(at 303.022 33.02 0)
 			(effects
 				(font
@@ -12362,7 +12499,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_Pad"
+		(property "Value" "MountingHole_Pad_50"
 			(at 441.96 299.72 0)
 			(effects
 				(font
@@ -12380,7 +12517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM250STR_C5301799.pdf"
 			(at 439.42 299.72 0)
 			(effects
 				(font
@@ -12435,6 +12572,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 439.42 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5301799"
+			(at 439.42 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM250STR"
 			(at 439.42 299.72 0)
 			(effects
 				(font

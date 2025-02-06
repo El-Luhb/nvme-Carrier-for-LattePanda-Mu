@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "5e150b59-b943-4b74-a7a0-2831c1e3b781")
 	(paper "A4")
+	(title_block
+		(title "nvme Carrier for LattePanda Mu")
+		(date "2024-07-13")
+		(rev "V1.0")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)

@@ -6008,7 +6008,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 534.67 231.14 0)
 			(effects
 				(font
@@ -6017,7 +6017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 532.13 231.14 0)
 			(effects
 				(font
@@ -6026,7 +6026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 532.13 231.14 0)
 			(effects
 				(font
@@ -6081,6 +6081,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 532.13 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 532.13 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 532.13 231.14 0)
 			(effects
 				(font
@@ -6259,7 +6277,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 535.94 95.2499 0)
 			(effects
 				(font
@@ -6268,7 +6286,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 533.4 95.25 0)
 			(effects
 				(font
@@ -6277,7 +6295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 533.4 95.25 0)
 			(effects
 				(font
@@ -6332,6 +6350,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 533.4 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 533.4 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 533.4 95.25 0)
 			(effects
 				(font
@@ -6371,7 +6407,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 344.17 242.5699 0)
 			(effects
 				(font
@@ -6380,7 +6416,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 341.63 242.57 0)
 			(effects
 				(font
@@ -6389,7 +6425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 341.63 242.57 0)
 			(effects
 				(font
@@ -6444,6 +6480,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 341.63 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 341.63 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 341.63 242.57 0)
 			(effects
 				(font
@@ -8917,7 +8971,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 344.17 267.9699 0)
 			(effects
 				(font
@@ -8926,7 +8980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 341.63 267.97 0)
 			(effects
 				(font
@@ -8935,7 +8989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 341.63 267.97 0)
 			(effects
 				(font
@@ -8990,6 +9044,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 341.63 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 341.63 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 341.63 267.97 0)
 			(effects
 				(font
@@ -9228,7 +9300,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 171.45 93.9799 0)
 			(effects
 				(font
@@ -9237,7 +9309,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 168.91 93.98 0)
 			(effects
 				(font
@@ -9246,7 +9318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 168.91 93.98 0)
 			(effects
 				(font
@@ -9301,6 +9373,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 168.91 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 168.91 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 168.91 93.98 0)
 			(effects
 				(font
@@ -9613,7 +9703,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 344.17 53.34 0)
 			(effects
 				(font
@@ -9622,7 +9712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 341.63 53.34 0)
 			(effects
 				(font
@@ -9631,7 +9721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 341.63 53.34 0)
 			(effects
 				(font
@@ -9686,6 +9776,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 341.63 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 341.63 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 341.63 53.34 0)
 			(effects
 				(font
@@ -12014,7 +12122,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 534.67 269.2399 0)
 			(effects
 				(font
@@ -12023,7 +12131,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 532.13 269.24 0)
 			(effects
 				(font
@@ -12032,7 +12140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 532.13 269.24 0)
 			(effects
 				(font
@@ -12087,6 +12195,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 532.13 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 532.13 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 532.13 269.24 0)
 			(effects
 				(font
@@ -12126,7 +12252,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 172.72 237.4899 0)
 			(effects
 				(font
@@ -12135,7 +12261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 170.18 237.49 0)
 			(effects
 				(font
@@ -12144,7 +12270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 170.18 237.49 0)
 			(effects
 				(font
@@ -12199,6 +12325,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 170.18 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 170.18 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 170.18 237.49 0)
 			(effects
 				(font
@@ -12238,7 +12382,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 534.67 243.8399 0)
 			(effects
 				(font
@@ -12247,7 +12391,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 532.13 243.84 0)
 			(effects
 				(font
@@ -12256,7 +12400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 532.13 243.84 0)
 			(effects
 				(font
@@ -12311,6 +12455,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 532.13 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 532.13 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 532.13 243.84 0)
 			(effects
 				(font
@@ -13255,7 +13417,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 172.72 262.8899 0)
 			(effects
 				(font
@@ -13264,7 +13426,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 170.18 262.89 0)
 			(effects
 				(font
@@ -13273,7 +13435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 170.18 262.89 0)
 			(effects
 				(font
@@ -13328,6 +13490,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 170.18 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 170.18 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 170.18 262.89 0)
 			(effects
 				(font
@@ -13367,7 +13547,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 344.17 91.4399 0)
 			(effects
 				(font
@@ -13376,7 +13556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 341.63 91.44 0)
 			(effects
 				(font
@@ -13385,7 +13565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 341.63 91.44 0)
 			(effects
 				(font
@@ -13440,6 +13620,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 341.63 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 341.63 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 341.63 91.44 0)
 			(effects
 				(font
@@ -13479,7 +13677,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 171.45 68.5799 0)
 			(effects
 				(font
@@ -13488,7 +13686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 168.91 68.58 0)
 			(effects
 				(font
@@ -13497,7 +13695,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 168.91 68.58 0)
 			(effects
 				(font
@@ -13552,6 +13750,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 168.91 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 168.91 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 168.91 68.58 0)
 			(effects
 				(font
@@ -14416,7 +14632,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 171.45 55.88 0)
 			(effects
 				(font
@@ -14425,7 +14641,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 168.91 55.88 0)
 			(effects
 				(font
@@ -14434,7 +14650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 168.91 55.88 0)
 			(effects
 				(font
@@ -14489,6 +14705,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 168.91 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 168.91 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 168.91 55.88 0)
 			(effects
 				(font
@@ -16384,7 +16618,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 344.17 229.87 0)
 			(effects
 				(font
@@ -16393,7 +16627,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 341.63 229.87 0)
 			(effects
 				(font
@@ -16402,7 +16636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 341.63 229.87 0)
 			(effects
 				(font
@@ -16457,6 +16691,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 341.63 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 341.63 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 341.63 229.87 0)
 			(effects
 				(font
@@ -18214,7 +18466,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 172.72 224.79 0)
 			(effects
 				(font
@@ -18223,7 +18475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 170.18 224.79 0)
 			(effects
 				(font
@@ -18232,7 +18484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 170.18 224.79 0)
 			(effects
 				(font
@@ -18287,6 +18539,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 170.18 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 170.18 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 170.18 224.79 0)
 			(effects
 				(font
@@ -19077,7 +19347,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 535.94 57.15 0)
 			(effects
 				(font
@@ -19086,7 +19356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 533.4 57.15 0)
 			(effects
 				(font
@@ -19095,7 +19365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 533.4 57.15 0)
 			(effects
 				(font
@@ -19150,6 +19420,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 533.4 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 533.4 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 533.4 57.15 0)
 			(effects
 				(font
@@ -19189,7 +19477,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 344.17 66.0399 0)
 			(effects
 				(font
@@ -19198,7 +19486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 341.63 66.04 0)
 			(effects
 				(font
@@ -19207,7 +19495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 341.63 66.04 0)
 			(effects
 				(font
@@ -19262,6 +19550,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 341.63 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 341.63 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 341.63 66.04 0)
 			(effects
 				(font
@@ -19638,7 +19944,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole_M2.5"
+		(property "Value" "MountingHole_Pad_15"
 			(at 535.94 69.8499 0)
 			(effects
 				(font
@@ -19647,7 +19953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom"
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
 			(at 533.4 69.85 0)
 			(effects
 				(font
@@ -19656,7 +19962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121507_YIYUAN-SMTWEM215STR_C5221852.pdf"
 			(at 533.4 69.85 0)
 			(effects
 				(font
@@ -19711,6 +20017,24 @@
 			)
 		)
 		(property "Package" "MountingHole"
+			(at 533.4 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5221852"
+			(at 533.4 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMTWEM215STR"
 			(at 533.4 69.85 0)
 			(effects
 				(font
